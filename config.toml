@@ -22,14 +22,14 @@ path = 'github.com/alex-shpak/hugo-book'
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Github"
+  name = "Join us at GitHub!"
   url = "https://github.com/tokenizer-inc-canada/www.cscexam.ca"
   weight = 10
 
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
+#[[menu.after]]
+#  name = "Hugo Themes"
+#  url = "https://themes.gohugo.io/hugo-book/"
+#  weight = 20
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
