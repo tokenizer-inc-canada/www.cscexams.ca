@@ -1,6 +1,6 @@
 ---
 weight: 8
-bookFlatSection: true
+bookCollapseSection: true
 title: "Working With Clients"
 ---
 

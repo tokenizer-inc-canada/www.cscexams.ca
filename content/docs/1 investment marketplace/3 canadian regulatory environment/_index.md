@@ -1,6 +1,6 @@
 ---
-weight: 5
-bookFlatSection: true
+weight: 3
+bookCollapseSection: true
 title: "Canadian Regulatory Environment"
 ---
 

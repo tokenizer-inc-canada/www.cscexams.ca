@@ -1,6 +1,6 @@
 ---
 weight: 7
-bookFlatSection: true
+bookCollapseSection: true
 title: "Managed And Structured Products"
 ---
 

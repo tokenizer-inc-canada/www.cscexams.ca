@@ -1,6 +1,6 @@
 ---
 weight: 6
-bookFlatSection: true
+bookCollapseSection: true
 title: "Portfolio Analysis"
 ---
 
