@@ -1,7 +1,8 @@
 ---
+weight: 4
 bookCollapseSection: true
-title: "Corporations"
+title: "Equities - Transactions"
 ---
 
-# Corporations
+# Equities - Transactions
 

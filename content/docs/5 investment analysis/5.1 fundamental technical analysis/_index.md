@@ -1,7 +1,8 @@
 ---
+weight: 1
 bookCollapseSection: true
-title: "Corporations"
+title: "Fundamental and Technical Analysis"
 ---
 
-# Corporations
+# Fundamental and Technical Analysis
 

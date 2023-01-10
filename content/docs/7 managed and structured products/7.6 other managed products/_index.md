@@ -1,7 +1,8 @@
 ---
+weight: 6
 bookCollapseSection: true
-title: "Corporations"
+title: "Other Managed Products"
 ---
 
-# Corporations
+# Other Managed Products
 

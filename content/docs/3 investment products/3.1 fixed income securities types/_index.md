@@ -1,7 +1,8 @@
 ---
+weight: 1
 bookCollapseSection: true
-title: "Corporations"
+title: "Fixed Income Securities - Features and Types"
 ---
 
-# Corporations
+# Fixed Income Securities - Features and Types
 

@@ -1,7 +1,8 @@
 ---
+weight: 2
 bookCollapseSection: true
-title: "Corporations"
+title: "Financing and Listing Securities"
 ---
 
-# Corporations
+# Financing and Listing Securities
 

@@ -1,7 +1,8 @@
 ---
+weight: 1
 bookCollapseSection: true
-title: "Corporations"
+title: "Corporations and Their Financial Statements"
 ---
 
-# Corporations
+# Corporations and Their Financial Statements
 

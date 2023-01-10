@@ -1,7 +1,8 @@
 ---
+weight: 3
 bookCollapseSection: true
-title: "Corporations"
+title: "Equities - Common and Preferred Shares"
 ---
 
-# Corporations
+# Equities - Common and Preferred Shares
 

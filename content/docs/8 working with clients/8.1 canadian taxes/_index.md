@@ -1,7 +1,8 @@
 ---
+weight: 1
 bookCollapseSection: true
-title: "Corporations"
+title: "Canadian Taxes"
 ---
 
-# Corporations
+# Canadian Taxes
 

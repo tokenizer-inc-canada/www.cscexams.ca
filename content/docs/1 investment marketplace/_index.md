@@ -1,6 +1,7 @@
 ---
+weight: 1
 bookCollapseSection: true
-title: "Investment Marketplace"
+title: "Canadian Investments Marketplace"
 ---
 
 # Investment Marketplace

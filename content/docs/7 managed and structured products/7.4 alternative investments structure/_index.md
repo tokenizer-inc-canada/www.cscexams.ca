@@ -1,7 +1,8 @@
 ---
+weight: 4
 bookCollapseSection: true
-title: "Corporations"
+title: "Alternative Investments - Benefits, Risks and Structure"
 ---
 
-# Corporations
+# Alternative Investments - Benefits, Risks and Structure
 

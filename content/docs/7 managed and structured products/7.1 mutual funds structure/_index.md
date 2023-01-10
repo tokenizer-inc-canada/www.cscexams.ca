@@ -1,7 +1,8 @@
 ---
+weight: 1
 bookCollapseSection: true
-title: "Corporations"
+title: "Mutual Funds – Structure and Regulation"
 ---
 
-# Corporations
+# Mutual Funds – Structure and Regulation
 

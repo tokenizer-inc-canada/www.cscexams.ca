@@ -1,7 +1,8 @@
 ---
+weight: 1
 bookCollapseSection: true
-title: "Corporations"
+title: "Overview Of Economics"
 ---
 
-# Corporations
+# Overview Of Economics
 

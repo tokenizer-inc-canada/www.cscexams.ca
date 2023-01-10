@@ -1,7 +1,8 @@
 ---
+weight: 2
 bookCollapseSection: true
-title: "Corporations"
+title: "Mutual Funds – Types and Features"
 ---
 
-# Corporations
+# Mutual Funds – Types and Features
 

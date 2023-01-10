@@ -1,7 +1,8 @@
 ---
+weight: 7
 bookCollapseSection: true
-title: "Corporations"
+title: "Other Structured Products"
 ---
 
-# Corporations
+# Other Structured Products
 
