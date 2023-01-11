@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 9
 bookCollapseSection: true
 title: "Financing and Listing Securities"
 ---
