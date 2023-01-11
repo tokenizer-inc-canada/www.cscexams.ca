@@ -1,8 +1,8 @@
 ---
 weight: 8
 bookCollapseSection: true
-title: "Working With Clients"
+title: "Corporations and their Financial Statements"
 ---
 
-# Working With Clients
+# Corporations and their Financial Statements
 
