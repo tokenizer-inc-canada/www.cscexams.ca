@@ -8,9 +8,8 @@ title: "1.3 Features and Types of Fixed-Income Securities"
 
 ### What Are Fixed Income Securities?
 
-Fixed-income securities represent debt of the entity that issues them. As such, you will often hear the term debt
-securities to describe them. The terms of a fixed-income security include a promise by the issuer to repay the
-maturity value, or principal, on the maturity date, and to pay interest either at stated intervals over the life of the
-security or at maturity. In most cases, if the security is held to maturity, the rate of return is fairly certain. Interest
-payments paid by issuers are taxed as ordinary income.
-
+Fixed income securities represent the debt of the organization that issues them. Thus, you will often hear the term "debt".
+securities to describe them. The terms of a fixed income security include a promise by the issuer to repay
+the value of the redemption or principal on the maturity date, and to pay interest at set intervals during the term
+security or maturity. In most cases, if a security is held to maturity, the yield is fairly certain. Interest
+payments made by issuers are taxed as ordinary income.
