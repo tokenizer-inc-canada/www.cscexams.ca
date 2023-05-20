@@ -54,6 +54,9 @@ The coupon rate is set at the time of issue and typically does not change over t
 term of the bond.
 The bondholders receive a fixed-income stream of payments based on that coupon rate. 
 
+The amount of interest at each
+payment date is equal to the coupon rate divided by the number of payments per year.
+
 ### Maturity date
 The maturity date is the date at which a bond matures, when the principal
 amount of the loan is paid back to the investor holding the bond. Upon maturity,
@@ -69,6 +72,7 @@ bond issuer is obligated to pay the investor.
 Once a bond is issued, it can trade at a value that is equal to, above, or below its
 par value depending on the direction of market interest rates.
 
+#### Bond price index
 The price of a bond is quoted using an index with a base value of 100. For example,
 $1,000 par value with a price quoted at 97 refers to a price of $97 for each $100 of
 face value. Since there are 10 units of $100 face value in a $1,000 bond, the price
@@ -76,4 +80,25 @@ of a bond with a $1,000 face value and a price quote of 97 would be $970.
 
 ### Yield to maturity
 The yield to maturity is the annual return on a bond that is held to maturity.
+
+### Bonds Denominations
+Bonds can be purchased only in specific denominations. Normally, an issue designed for a broad retail market
+is issued in smaller denominations, the most common being $1,000 and $10,000. Larger denominations may
+be issued to suit the preference of investing institutions, such as banks and life insurance companies. These
+denominations may be worth millions of dollars.
+
+### Bond Pricing
+A bond trading at a quoted price of 100 is said to be trading at par (i.e., at face value). A bond trading below par - at
+a price of 93, for example - s said to be trading at a **discount** (i.e., based on the index of 100, the bond is trading at
+93% of face value). A bond trading above par - at a price of 107, for example - is said to be trading at a **premium**.
+Market interest rates, relative to the coupon on a bond, are a key determinant of the price of a bond.
+
+### Bond Yields
+A bond yield represents the amount of return on the bond.
+
+There are several types of yields, including yield to maturity. The interest income that you earn
+on a bond divided by its face value is another type of yield. We can also determine the current yield on a bond
+by dividing the coupon income by the current market price. 
+
+While the coupon income on a bond stays constant over its term, yield and price fluctuate day to day.
 
