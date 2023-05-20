@@ -15,7 +15,7 @@ security or maturity. In most cases, if a security is held to maturity, the yiel
 payments made by issuers are taxed as ordinary income.
 
 Trading in fixed income securities in today's markets is represented by many types, including bonds, debentures, cash
-market instruments, mortgages and even preferred shares. Different types reflect a variety of borrowings
-the needs and demands of investors. Issuers of fixed income securities may modify the terms of the underlying security to satisfy both
+market instruments, mortgages and even preferred shares. Different types reflect a variety of borrowings needs and investor demands.
+Issuers of fixed income securities may modify the terms of the underlying security to satisfy both
 their needs and expenses, as well as to provide acceptable conditions for various creditors.
 
