@@ -114,3 +114,13 @@ by dividing the coupon income by the current market price.
 
 While the coupon income on a bond stays constant over its term, yield and price fluctuate day to day.
 
+
+### Strip Bonds
+A strip bond (also called a zero-coupon bond) is created when a dealer purchases a package of high quality bonds and
+separates individual interest coupons with a future maturity date from the rest of the bond (known as the underlying bond 
+residue, or remainder). The dealer then sells each coupon, as well as the residue separately, at significant discounts
+to their face value. Strip bond holders receive no interest payments. Instead, the strips are purchased at a price that provides
+a certain aggregate rate of return when they are redeemed at face value. Strip bonds usually trade at a discount to their face value.
+value. Strip bond income is considered interest income, not capital gains. Tax must be paid annually
+on interest income, even if this income is not received before the maturity of the bond. It is often
+recommended holding tax-deferred bonds under a tax-deferred plan such as a registered retirement savings plan.
