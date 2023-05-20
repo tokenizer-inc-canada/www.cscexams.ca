@@ -65,6 +65,18 @@ the final interest payment is also made.
 ### Term to maturity
 The term to maturity is the time that remains before a bond matures.
 
+Bonds can be grouped into three categories according to their term to maturity:
+- Short-term bonds have more than 1 year but less than 5 years remaining in their term.
+- Medium-term bonds have terms of 5 to 10 years.
+- Long-term bonds have terms greater than 10 years.
+
+Certain bonds that have a term to maturity of up to one year trade as money market securities. Money market
+securities are a special type of short-term, fixed-income security, generally with a term of one year or less.
+
+A bond classified as a
+long-term bond when first issued becomes, over time, a medium-term bond, a short-term bond, and,
+eventually, a money market security.
+
 ### Bond price
 The bond price is the present discounted value of all the future payments that the
 bond issuer is obligated to pay the investor.
