@@ -1,4 +1,4 @@
-module github.com/tokenizer-inc-canada/www.cscexam.ca
+module github.com/tokenizer-inc-canada/www.cscexams.ca
 
 go 1.19
 

@@ -1,4 +1,4 @@
-baseURL = 'https://cscexam.ca/'
+baseURL = 'https://cscexams.ca/'
 languageCode = 'en-us'
 title = 'CSC® Exam Prep'
 
@@ -23,7 +23,7 @@ path = 'github.com/alex-shpak/hugo-book'
 # [[menu.before]]
 [[menu.after]]
   name = "Join us at GitHub!"
-  url = "https://github.com/tokenizer-inc-canada/www.cscexam.ca"
+  url = "https://github.com/tokenizer-inc-canada/www.cscexams.ca"
   weight = 10
 
 #[[menu.after]]
@@ -56,7 +56,7 @@ path = 'github.com/alex-shpak/hugo-book'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/tokenizer-inc-canada/www.cscexam.ca'
+  BookRepo = 'https://github.com/tokenizer-inc-canada/www.cscexams.ca'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.

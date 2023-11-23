@@ -1,5 +1,5 @@
-# [CSC® Exam Prep](https://cscexam.ca/)
-Community maintained repository for [Canadian Securities Course (CSC®) studies and exam preparations](https://cscexam.ca/)
+# [CSC® Exam Prep](https://cscexams.ca/)
+Community maintained repository for [Canadian Securities Course (CSC®) studies and exam preparations](https://cscexams.ca/)
 
 ## Commands
 
