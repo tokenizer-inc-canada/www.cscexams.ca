@@ -7,6 +7,9 @@ title: "Canadian Securities Industry"
 # Canadian Securities Industry
 
 ## Types of Investment Dealers
+*Investment dealers* (also called *brokers*) act as intermediaries by matching investors with the users of the capital. Each side of a transaction has its own dealer who matches the trades through the markets.
+
+Investment dealers act on their clients’ behalf as agents in the transfer of financial instruments between different investors. They sometimes also act as principals, rather than agents. An agent, unlike a principal dealer, does not own the securities being traded.
 
 ### Retail Firms
 
