@@ -8,6 +8,16 @@ title: "Canadian Securities Industry"
 
 ## Overview of the Canadian Securities Industry
 
+### Regulatory Organizations
+
+#### Securities Commissions / Securities Administrators
+The Canadian securities industry is mainly regulated by the provinces. They have the power to create and enforce their own laws and regulations through securities commissions (called securities administrators in some provinces). 
+
+#### Self Regulatory Organizations (SRO)
+Securities commissions **delegate** some of their powers to **self-regulatory organizations (SRO)** such as the [Investment Industry Regulatory Organization of Canada (IIROC)](https://www.iiroc.ca/). The SROs establish and enforce industry regulations that protect investors and maintain fair, equitable, and ethical practices. SROs are responsible for setting the rules that govern many aspects of investment dealers’ operations, including sales, finance, and trading.
+
+[IIROC](https://www.iiroc.ca/investors/dealers-we-regulate) oversees approximately 174 firms and their 32,000 registered representatives. Such firms are referred as *IIROC Dealer Members*.
+
 ## The Role of the Investment Dealer
 
 ### Types of Investment Dealers
