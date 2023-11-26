@@ -22,7 +22,7 @@ An agreement has been signed between the AMF and the MFDA to avoid regulatory du
 
 ### Investor Protection Funds
 
-#### MFDA IPC, CIPF/FCIP
+#### MFDA IPC, CIPF
 
 The Mutual Fund Dealers Association Investor Protection Corporation (MFDA IPC) was created in 2005 to provide protection for eligible customers of insolvent MFDA member firms. The IPC does not cover customers’ losses that result from changing market values, unsuitable investments, or the default of an issuer of securities.
 
