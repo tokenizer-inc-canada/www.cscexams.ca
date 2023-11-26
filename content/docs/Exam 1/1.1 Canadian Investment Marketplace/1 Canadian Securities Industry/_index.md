@@ -16,7 +16,13 @@ The Canadian securities industry is mainly regulated by the provinces. They have
 #### Self Regulatory Organizations (SRO)
 Securities commissions **delegate** some of their powers to **self-regulatory organizations (SRO)** such as the [Investment Industry Regulatory Organization of Canada (IIROC)](https://www.iiroc.ca/). The SROs establish and enforce industry regulations that protect investors and maintain fair, equitable, and ethical practices. SROs are responsible for setting the rules that govern many aspects of investment dealers’ operations, including sales, finance, and trading.
 
+Under securities regulations, to carry on business in Canada, investment dealers and mutual fund dealers are required to become Dealer Members of SRO.
+
+##### IIROC
 [IIROC](https://www.iiroc.ca/investors/dealers-we-regulate) oversees approximately 174 firms and their 32,000 registered representatives. Such firms are referred as *IIROC Dealer Members*.
+
+##### MFDA
+[Mutual Funds Dealers Association of Canada (MFDA)](https://mfda.ca/) is another example of SRO, having 85 members, and 77,491 of licenced advisors (see current numbers at [MFDA Membership Statistics](https://mfda.ca/members/membership-statistics/))
 
 ## The Role of the Investment Dealer
 
