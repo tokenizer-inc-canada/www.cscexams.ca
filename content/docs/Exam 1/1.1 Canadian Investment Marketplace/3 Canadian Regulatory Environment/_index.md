@@ -34,6 +34,16 @@ title: "Canadian Regulatory Environment"
 
 ### Self-Regulatory Organizations (SRO)
 
+**Self-Regulatory Organization (SRO)** is an entity that is organized for the purpose of regulating the operations and the standards of practice and business conduct of its members and their representatives with a view to promoting the protection of investors and the public interest. SROs:
+- set regulatory and investment industry standards
+- regulate the business and financial conduct of member firms and their registered representatives
+- have a mandate to protect investors and the public interest
+
+SROs enforce their members’ conformity with securities legislation. They have the power to prescribe their own rules of conduct and financial requirements. SROs are delegated regulatory functions by the provincial regulatory bodies. SRO by-laws and rules are designed to uphold the principles of securities legislation. The CSA monitors the conduct of the SROs and review their rules to ensure that they are in the public’s interest and do not conflict with provincial rules. SRO regulations apply in addition to provincial securities regulations. If an SRO rule differs from a provincial rule, the most stringent rule of the two applies.
+
+There is currently one recognized SRO, the [Canadian Investment Regulatory Organization (CIRO)](https://www.ciro.ca/), that operates as a successor to the Investment Industry Regulatory Organization of Canada (IIROC) and the Mutual Fund Dealers Association of Canada (the MFDA). IIROC and the MFDA amalgamated to continue as the New Self-Regulatory Organization of Canada (New SRO), effective January 1, 2023, which subsequently changed its name to CIRO on June 1, 2023.
+
+
 #### Investment Industry Regulatory Organization Of Canada (IIROC)
 
 #### Mutual Fund Dealers Association (MFDA)
@@ -50,6 +60,34 @@ An agreement has been signed between the AMF and the MFDA to avoid regulatory du
 ### Investor Protection Funds
 
 #### Canadian Investor Protection Fund (CIPF)
+The primary role of the [Canadian Investor Protection Fund (CIPF)](https://www.cipf.ca/)  is investor protection; its secondary role is overseeing the self-regulatory system. The secondary role provides a mechanism to help CIPF contain the risk associated with its primary role.
+
+The CIPF protects eligible customers in the event of the insolvency of an IIROC dealer member. It does not cover client losses that result from changing market values, nor does it insure accounts held at mutual fund companies, banks, or any other firms that are not members of IIROC.
+
+The CIPF is sponsored solely by IIROC and funded by quarterly assessments on IIROC dealer members. All customer accounts are covered, either as part of the customer’s general account or as a separate account. 
+
+As of January 1, 2023, the former Canadian Investor Protection Fund (**Former CIPF**) and the MFDA Investor Protection Corporation (**MFDA IPC**) were amalgamated to form a new investor protection fund: the **Canadian Investor Protection Fund (CIPF)/Fonds canadien de protection des investisseurs (FCPI)**.
+
+##### CIPF Protection Coverage
+
+Accounts such as cash, margin, short sale, options, futures, and foreign currency are combined and treated as one *general account* entitled to the maximum coverage of $1 million. *Separate accounts*, such as registered accounts and trusts, are each entitled to the maximum coverage of $1 million, unless they are combined with other separate accounts.
+
+###### Example
+
+An investor holds assets valued at $1,800,000 through their investment dealer. The assets are divided as follows:
+- $100,000 in a cash account,
+- $100,000 in a margin account,
+- $750,000 in a registered retirement savings plan (RRSP),
+- $750,000 in a registered retirement income fund (RRIF), and
+- $100,000 in a registered education savings plan (RESP).
+
+If the IIROC investment dealer became insolvent, the investor would be protected in the following way, based on CIPF rules:
+- The $100,000 cash account and $100,000 margin account would be combined. Total amount protected is $200,000.
+- The $750,000 RRSP and $750,000 RRIF are both retirement funds and would be combined. Total amount protected is the maximum $1 million.
+- The $100,000 RESP is considered a separate account. Total amount protected is $100,000. 
+
+As a result of CIPF rules, the client’s assets would be protected up to a total $1,300,000.
+
 
 #### Mutual Fund Dealers Association Investor Protection Corporation (MFDA IPC)
 The Mutual Fund Dealers Association Investor Protection Corporation (MFDA IPC) was created in 2005 to provide protection for eligible customers of insolvent MFDA member firms. The IPC does not cover customers’ losses that result from changing market values, unsuitable investments, or the default of an issuer of securities.
