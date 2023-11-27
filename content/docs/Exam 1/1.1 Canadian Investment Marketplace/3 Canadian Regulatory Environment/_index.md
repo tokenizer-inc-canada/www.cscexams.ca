@@ -7,7 +7,34 @@ title: "Canadian Regulatory Environment"
 
 # Canadian Regulatory Environment
 
+**Key Terms:**
+- Autorité des marchés financiers
+- Canada Deposit Insurance Corporation
+- Canadian Investor Protection Fund
+- Canadian Securities Administrators
+- front running
+- full, true, and plain disclosure
+- gatekeeper
+- Investment Industry Regulatory Organization of Canada
+- investment representative
+- Mutual Fund Dealers Association
+- Mutual Fund Dealers Association Investor Protection Corporation
+- National Do Not Call List
+- National Registration Database
+- Office of the Superintendent of Financial Institutions
+- Ombudsman for Banking Services and Investments
+- Securities and Exchange Commission
+- self-regulatory organization
 
+## Introduction
+
+## Regulators
+
+### Canadian Securities Administrators (CSA)
+
+### Self-Regulatory Organizations (SRO)
+
+#### Investment Industry Regulatory Organization Of Canada (IIROC)
 
 #### Mutual Fund Dealers Association (MFDA)
 
@@ -22,8 +49,9 @@ An agreement has been signed between the AMF and the MFDA to avoid regulatory du
 
 ### Investor Protection Funds
 
-#### MFDA IPC, CIPF
+#### Canadian Investor Protection Fund (CIPF)
 
+#### Mutual Fund Dealers Association Investor Protection Corporation (MFDA IPC)
 The Mutual Fund Dealers Association Investor Protection Corporation (MFDA IPC) was created in 2005 to provide protection for eligible customers of insolvent MFDA member firms. The IPC does not cover customers’ losses that result from changing market values, unsuitable investments, or the default of an issuer of securities.
 
 As of January 1, 2023, the former Canadian Investor Protection Fund (Former CIPF) and the MFDA Investor Protection Corporation (MFDA IPC) were amalgamated to form a new investor protection fund: [the Canadian Investor Protection Fund (CIPF)/Fonds canadien de protection des investisseurs (FCPI)](https://www.cipf.ca/).
@@ -32,3 +60,46 @@ Following the structure of the CIPF, customer accounts are covered either as par
 
 The MFDA is not recognized as a self-regulatory organization in the province of Quebec. Consequently, the MFDA IPC coverage is not currently available to customers with accounts held in Quebec. The province of Quebec has its own compensation fund.
 
+#### Canada Deposit Insurance Corporation
+
+#### Provincial Insurance Corporations
+
+## Regulations and Supervision
+
+### Purpose of Regulation
+
+### Principles-Based Regulation
+
+### Securities Regulations in Canada
+
+### Disclosure
+
+### National Registration Database
+
+### Gatekeeper Role
+
+### "Know Your Client"
+
+### Client Relationship Model
+
+#### Relationship Disclosure
+
+#### "Conflict of Interests" Management
+
+#### Suitability Assesment
+
+## Remediation
+
+### Arbitration
+
+### Ombudsman for Banking Services and Investments
+
+## Ethical Standards in Financial Services Industry
+
+### Examples of Unethical Practices
+
+### Prohibited Sales Practices
+
+#### National "Do Not Call" List
+
+## Summary
