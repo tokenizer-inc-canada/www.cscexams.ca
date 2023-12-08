@@ -42,8 +42,60 @@ These derivatives are traded mainly on organized exchanges such as the Montréal
 ## Users of Derivatives
 > Describe how the various market participants use derivatives.
 
+- Individual investors
+- Institutional investors
+- Businesses and corporations
+- Derivative dealers
+
+### Individual Investors
+- individual investors are able to trade exchange-traded derivatives only
+- Individual investors in Canada can trade exchange-traded derivatives directly by opening a special type of account with a *full-service or self-directed brokerage firm* registered to offer such accounts.
+
+### Institutional Investors
+- mutual fund managers, 
+- hedge fund managers, 
+- pension fund managers,
+- insurance companies, 
+- others
+
+#### Market entry and exit
+
+#### Arbitrage
+
+An arbitrage opportunity refers to a scenario where the same asset or commodity is traded at
+different prices in two separate markets.
+
+#### Yield enhancement
+
+Yield enhancement is a method of boosting returns on an underlying investment portfolio by taking a speculative position based on expectations of future market movements. The most popular way to enhance an investment’s yield is by selling options against the position.
+
+### Businesses and Corporations
+
+
+
+
+### Derivative Dealers
+
+
+
 ## Options
 > Describe call and put option positions and the option strategies used by market participants.
+
+[Essential Options Trading Guide](https://www.investopedia.com/options-basics-tutorial-4583012)
+
+- An option is a contract giving the buyer the right—but not the obligation—to buy (in the case of a call) or sell (in the case of a put) the underlying asset at a specific price on or before a certain date.
+- People use options for income, to speculate, and to hedge risk.
+- Options are known as derivatives because they derive their value from an underlying asset.
+- A stock option contract typically represents 100 shares of the underlying stock, but options may be written on any sort of underlying asset from bonds to currencies to commodities.
+
+
+An option is a contract between two parties: a buyer (known as the **long position** or holder) and a seller (known as the **short position** or the writer).
+
+An option that gives its holder the right to **buy**, and the seller the obligation to **sell**, the underlying asset is known as a **call option**.
+
+An option that gives its holder the right to **sell**, and its writer the obligation to buy, the underlying
+asset is referred to as a put option.
+
 
 ## Forwards and Futures
 > Distinguish between forwards and futures contracts and the strategies used by market participants.
