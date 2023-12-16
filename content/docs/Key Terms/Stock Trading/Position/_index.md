@@ -2,10 +2,9 @@
 # weight: 7
 bookCollapseSection: true
 title: "Position"
-subtitle: "Stock Trading: What Is A Position?"
 ---
 
-# Stock Trading: What Is A Position?
+# Stock Trading: What Is a Position?
 
 A position is the amount of a security, asset, or property that is either owned or sold short. A trader or investor takes a position when they make a purchase through a buy order, signaling bullish intent; or if they sell short securities with bearish intent.
 
