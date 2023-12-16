@@ -1,7 +1,7 @@
 ---
 weight: 173
 bookCollapseSection: true
-title: "1.7.3 Options"
+title: "Options"
 ---
 
 # Options
