@@ -1,6 +1,6 @@
 ---
 # weight: 7
-bookCollapseSection: true
+bookCollapseSection: false
 title: "Bull"
 ---
 
