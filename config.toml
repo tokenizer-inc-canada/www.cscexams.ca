@@ -1,6 +1,6 @@
 baseURL = 'https://cscexams.ca/'
 languageCode = 'en-us'
-title = 'CSC® Exam Prep'
+title = 'CSC® Exams Prep'
 
 # Book configuration
 disablePathToLower = true

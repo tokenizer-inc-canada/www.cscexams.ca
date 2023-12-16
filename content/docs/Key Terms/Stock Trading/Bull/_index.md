@@ -1,7 +1,7 @@
 ---
 # weight: 7
 bookCollapseSection: true
-title: "Bull"
+title: "Stock Trading: What is a Bull?"
 ---
 
 # Stock Trading: What is a Bull?
