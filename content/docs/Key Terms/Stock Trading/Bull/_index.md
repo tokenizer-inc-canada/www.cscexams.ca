@@ -1,10 +1,10 @@
 ---
 # weight: 7
 bookCollapseSection: true
-title: "Stock Trading: What is a Bull?"
+title: "Stock Trading: What Is A Bull?"
 ---
 
-# Stock Trading: What is a Bull?
+# Stock Trading: What Is A Bull?
 
 Bulls are optimistic investors who are attempting to profit from the upward movement of stocks, with certain strategies suited to that theory. "BNulls" purchase securities under the assumption that they can sell them later at a higher price.
 
