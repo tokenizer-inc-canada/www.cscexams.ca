@@ -14,7 +14,6 @@ amortization
 asset
 : Everything a company or a person owns or has owed to it. A statement of financial position category.
 
-
 beneficial owner
 : The real (underlying) owner of an account, securities or other assets. An investor may own shares which are registered in the name of an investment dealer, trustee or bank to facilitate transfer or to preserve anonymity, but the investor would be the beneficial owner.
 
@@ -99,33 +98,78 @@ nominee
 non-controlling interest
 1. The equity of the shareholders who do not hold controlling interest in a controlled company;
 2. In **consolidated financial statements**
-   - the item in the s**tatement of financial position** of the parent company representing that portion of the assets of a consolidated subsidiary considered as accruing to the shares of the subsidiary not owned by the parent; and
+   - the item in the **statement of financial position** of the parent company representing that portion of the assets of a consolidated subsidiary considered as accruing to the shares of the subsidiary not owned by the parent; and
    - the item deducted in the **statement of comprehensive income** of the parent and representing that portion of the subsidiary’s earnings considered as accruing to the subsidiary’s shares not owned by the parent.
 
 non-current assets
+: Assets which in the normal course of business would not be converted into cash. Non-current assets include property, plant, and equipment.
+
 non-current liabilities
+: Money owed but not due to be paid within a year. Non-current liabilities include long-term debt and deferred tax.
+
 partnership
+: A form of business organization that involves two or more people contributing to the business and legislated under the federal Partnership Act.
+
 prepaid expenses
+: Payments made by the company for services to be received in the near future. For example, rents, insurance premiums and taxes are sometimes paid in advance. A **statement of financial position** item.
+
 private corporation
+: Companies that have charters that restrict the right of shareholders to transfer shares, limit the number of shareholders to no more than 50, and prohibit shareholders from inviting the public to subscribe for their securities.
+
 proxy
+: Written authorization given by a shareholder to someone else, who need not be a shareholder, to represent him or her and vote his or her shares at a shareholders’ meeting.
+
 public corporation
+: A company whose shares are listed on a stock exchange or traded over the counter.
+
 reporting issuer
+: Usually, a corporation that has issued or has outstanding securities that are held by the public and is subject to continuous disclosure requirements of securities administrators.
+
 retained earnings
+: The cumulative total of annual earnings retained by a company after payment of all expenses and dividends. The earnings retained each year are reinvested in the business.
+
 share capital
+: The money paid in by shareholders and received by the company for the shares issued by the company.
+
 share of profit of associates
+: A company’s share of an unconsolidated subsidiary’s revenue. The equity accounting method is used when a company owns 20% to 50% of a subsidiary.
+
 sole proprietorship
+: A form of business organization that involves one person running a business whereby the individual is taxed on earnings at their personal income tax rate.
+
 statement of cash flows
-statement of changes in
-equity
-statement of
-comprehensive income
-statement of financial
-position
+: A financial statement which provides information as to how a company generated and spent its cash during the year. Assists users of financial statements in evaluating the company’s ability to generate cash internally, repay debts, reinvest and pay dividends to shareholders.
+
+statement of changes in equity
+: A financial statement that shows the total comprehensive income kept in the business year after year.
+
+statement of comprehensive income
+: A financial statement which shows a company’s revenues and expenditures resulting in either a profit or a loss during a financial period.
+
+statement of financial position
+: A financial statement showing a company’s assets, liabilities and equity on a given date.
+
 straight-line method
+: An accounting method of depreciation whereby an equal amount is charged each period as an expense when writing down the value of an asset over time.
+
 street form
+: Securities that are registered in the name of the securities firm, rather than the beneficial owner.
+
 takeover bid
+: An offer made to security holders of a company to purchase voting securities of the company which, with the offeror’s already owned securities, will in total exceed 20% of the outstanding voting securities of the company. For federally incorporated companies, the equivalent requirement is more than 10% of the outstanding voting shares of the target company.
+
 trade payables
+: Money owed by a company for goods or services purchased, payable within one year. A current liability on the statement of financial position.
+
 trade receivables
+: Money owed to a company for goods or services it has sold, for which payment is expected within one year. A current asset on the statement of financial position.
+
 trustee
+: For bondholders, usually a trust company appointed by the company to protect the security behind the bonds and to make certain that all covenants of the trust deed relating to the bonds are honoured. For a segregated fund, the trustee administers the assets of a mutual fund on behalf of the investors.
+
 voting trust
+: An arrangement to place the control of a company in the hands of certain managers for a given period of time, or until certain results have been achieved, by shareholders surrendering their voting rights to a trustee for a specified period of time.
+
 weighted-average method
+: An inventory valuation method, calculated as the cost of goods available for sale divided by the number of units available for sale.
+

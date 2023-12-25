@@ -218,14 +218,14 @@ would also have a beta of 1. Funds or stocks with a beta greater than 1 are more
 > The highest price a buyer is willing to pay for the financial instrument being quoted. See also Ask. 
 
 #### blue-chip 
-> An active, leading, nationally known common stock with a record of continuous dividend payments and other strong investment qualities. The implication is that the company is of “good” investment value. 
+> An active, leading, nationally known common stock with a record of continuous dividend payments and other strong investment qualities. The implication is that the company is of "good" investment value. 
 
 #### blue sky 
 > A slang term for laws that various Canadian provinces and American states have enacted to protect the public against securities frauds. The term blue skyed is used to indicate that a new issue has been cleared by a securities commission and may be distributed. 
 
 #### bond 
 > A certificate evidencing a debt on which the issuer promises to pay the holder a specified amount of interest based on the coupon rate,
-for a specified length of time, and to repay the loan on its maturity. Strictly speaking, assets are pledged as security for a bond issue, except in the case of government “bonds”, but the term is often loosely used to describe any funded debt issue. 
+for a specified length of time, and to repay the loan on its maturity. Strictly speaking, assets are pledged as security for a bond issue, except in the case of government "bonds", but the term is often loosely used to describe any funded debt issue. 
 
 #### bond contract 
 > The actual legal agreement between the issuer and the bondholder. The contract outlines the terms and conditions – the coupon rate, timing of coupon payments, maturity date and any other terms. The bond contract is usually administered by a trust company on behalf of all the bondholders. Also called a Bond Indenture or Trust Deed. 
@@ -292,7 +292,7 @@ eight track recording tapes and beta video machines.
 ### C 
 
 #### call feature 
-> A clause in a bond or preferred share agreement that allows the issuer the right to “call back” the securities prior to maturity. The company would usually do this if they could refinance the debt at a lower rate (similar to refinancing a mortgage at a lower rate). Calling back a security prior to maturity may involve the payment of a penalty known as a call premium. 
+> A clause in a bond or preferred share agreement that allows the issuer the right to "call back" the securities prior to maturity. The company would usually do this if they could refinance the debt at a lower rate (similar to refinancing a mortgage at a lower rate). Calling back a security prior to maturity may involve the payment of a penalty known as a call premium. 
 
 #### call option 
 > The right to buy a specific number of shares at a specified price (the strike price) by a fixed date. The buyer pays a premium to the seller of the call option contract. An investor would buy a call option if the underlying stock’s price is expected to rise. See also Put Option. 
@@ -870,7 +870,7 @@ performance can be volatile.
 > The price at which the quantity demanded equals the quantity supplied. 
 
 #### equipment trust certificate 
-> A type of debt security that was historically used to finance “rolling stock” or railway boxcars. The cars were the collateral behind the issue and when the issue was paid down the cars reverted to the issuer. In recent times, equipment trusts are used as a method of financing containers for the offshore industry. A security, more common in the U.S. than in Canada. 
+> A type of debt security that was historically used to finance "rolling stock" or railway boxcars. The cars were the collateral behind the issue and when the issue was paid down the cars reverted to the issuer. In recent times, equipment trusts are used as a method of financing containers for the offshore industry. A security, more common in the U.S. than in Canada. 
 
 #### equity 
 > Ownership interest in a corporation’s stock that represents a claim on its revenue and assets. See also Stock.
@@ -1098,7 +1098,7 @@ such as bonds, debentures and preferred shares
 
 #### foreign bonds 
 > If a Canadian company issues debt securities in another country,
-denominated in that foreign country’s currency, the bond is known as a foreign bond. A bond issued in the U.S. payable in U.S. dollars is known as a foreign bond or a “Yankee Bond.” See also Eurobond. 
+denominated in that foreign country’s currency, the bond is known as a foreign bond. A bond issued in the U.S. payable in U.S. dollars is known as a foreign bond or a "Yankee Bond." See also Eurobond. 
 
 #### foreign exchange rate risk 
 > The risk associated with an investment in a foreign security or any investment that pays in a denomination other than Canadian dollars, the investor is subject to the risk that the foreign currency may depreciate in value. 
@@ -1515,7 +1515,7 @@ while aiming to lose as little of that capital as possible. Liability traders ca
 
 
 #### life cycle hypothesis 
-> A model used in financial planning that tries to link age with investing. The underlying theory is that an individual’s asset mix will change, as they grow older. However the life cycle is not a substitute for the “know your client rule”. 
+> A model used in financial planning that tries to link age with investing. The underlying theory is that an individual’s asset mix will change, as they grow older. However the life cycle is not a substitute for the "know your client rule". 
 
 #### life expectancy-adjusted withdrawal plan 
 > Withdrawals are designed to deplete the entire investment by the end of the plan, while providing as high an income as possible during the plan holder’s expected lifetime. The amount withdrawn on each date is based on periods that are continually readjusted to the changing life expectancy of the plan holder. Readjustments are based on mortality tables. 
@@ -1567,7 +1567,7 @@ management, assets, capitalization and financial status.
 > The rate of interest charged by large international banks dealing in Eurodollars to other large international banks. 
 
 #### long position 
-> Signifies ownership of securities. “I am long 100 BCE common” means that the speaker owns 100 common shares of BCE Inc. 
+> Signifies ownership of securities. "I am long 100 BCE common" means that the speaker owns 100 common shares of BCE Inc. 
 
 #### long/short equity strategy 
 > Managers try to buy stocks they feel will rise more in a bull market than the overall market and sell short stocks that will rise less. In a down market,
@@ -1866,37 +1866,37 @@ companies listed on the exchange.
 
 
 #### non-client and professional orders 
-> A type of order for the account of partners, directors, officers, major shareholders, IAs and employees of member firms that must be marked “PRO” , “N-C” or “Emp”, in order to ensure that client orders are given priority for the same securities. 
+> A type of order for the account of partners, directors, officers, major shareholders, IAs and employees of member firms that must be marked "PRO", "N-C" or "Emp", in order to ensure that client orders are given priority for the same securities. 
 
 #### non-competitive tender 
 > A method of distribution used in particular by the Bank of Canada for Government of Canada marketable bonds. Primary distributors are allowed to request bonds at the average price of the accepted competitive tenders. There is no guarantee as to the amount, if any,
 received in response to this request. 
 
 
-
 #### non-controlling interest 
 > 1. The equity of the shareholders who do not hold controlling interest in a controlled company;
 > 2. In **consolidated financial statements**
->   - the item in the s**tatement of financial position** of the parent company representing that portion of the assets of a consolidated subsidiary considered as accruing to the shares of the subsidiary not owned by the parent; and 
+>   - the item in the **statement of financial position** of the parent company representing that portion of the assets of a consolidated subsidiary considered as accruing to the shares of the subsidiary not owned by the parent; and 
 >   - the item deducted in the **statement of comprehensive income** of the parent and representing that portion of the subsidiary’s earnings considered as accruing to the subsidiary’s shares not owned by the parent. 
 
 
 #### non-cumulative 
 > A preferred dividend that does not accrue or accumulate if unpaid. 
 
-#### non-current asset 
-> Assets which in the normal course of business would not be converted into cash. Noncurrent assets include property, plant, and equipment. 
+#### non-current assets
+> Assets which in the normal course of business would not be converted into cash. Non-current assets include property, plant, and equipment. 
 
-#### non-current liability 
-> Money owed but not due to be paid within a year. Noncurrent liabilities include long-term debt and deferred tax. 
+#### non-current liabilities 
+> Money owed but not due to be paid within a year. Non-current liabilities include long-term debt and deferred tax. 
 
 #### non-systematic risk 
 > Also known as specific risk. Nonsystematic risk is the risk that the price of a specific security or a specific group of securities will change in price to a different degree or in a different direction from the market as a whole. 
 
 #### notional units 
 > A unit that exists in theory and is representative of something else. 
-### O 
 
+
+### O 
 
 #### odd lot 
 > A number of shares which is less than a standard trading unit. Usually refers to a securities trade for less than 100
@@ -1941,7 +1941,7 @@ stop loss orders.
 
 
 #### on-stop sell order 
-> Also known as a stop loss order, it is an order that is specifically used in connection with a sell order where the limit price is below the existing market price. The order is triggered when the stock drops to the specified level. The purpose is to reduce the amount of loss that might be incurred or to protect at least part of a paper profit when a stock’s price declines... 
+> Also known as a stop loss order, it is an order that is specifically used in connection with a sell order where the limit price is below the existing market price. The order is triggered when the stock drops to the specified level. The purpose is to reduce the amount of loss that might be incurred or to protect at least part of a paper profit when a stock’s price declines.
 
 #### origination 
 > The process of bringing new debt issues to market. 
@@ -2007,9 +2007,7 @@ that can be part of the small newly created businesses that typify alternative s
 > An amount made in excess to the annual limit made to an RRSP. An overcontribution in excess of$2,000 is penalized at a rate of 1% per month. 
 
 #### overlay manager 
-> The overlay manager works with advisors in servicing clients. This is not a referral but a partnership, in which the advisor retains the client’s assets. The service incorporates the existing trusted relationship of the advisor, whom the client has become comfortable dealing with. 
-
-
+> The overlay manager works with advisors in servicing clients. This is not a referral but a partnership, in which the advisor retains the client’s assets. The service incorporates the existing trusted relationship of the advisor, whom the client has become comfortable dealing with.
 
 #### over-the-counter (OTC)
 > A market for securities made up of securities dealers who may or may not be members of a recognized stock exchange. Over-the-counter is mainly a market conducted over the telephone. Also called the unlisted,
@@ -2075,10 +2073,7 @@ trust and loan companies and some credit unions and caisses.
 > What is often required upon entry into a futures contract giving the parties to a contract a higher level of assurance that the terms of the contract will eventually be honoured. The performance bond is often referred to as margin. 
 
 #### Phillips Curve 
-> A graph showing the relationship between inflation and unemployment. The theory states that unemployment can be reduced in the short run by increasing the price level (inflation)
-at a faster rate. Conversely, inflation can be lowered at the cost of possibly increased unemployment and slower economic growth. 
-
-
+> A graph showing the relationship between inflation and unemployment. The theory states that unemployment can be reduced in the short run by increasing the price level (inflation) at a faster rate. Conversely, inflation can be lowered at the cost of possibly increased unemployment and slower economic growth. 
 
 #### physical-based ETF 
 > An ETF that invests in the commodity directly. They are limited to only a few storable, non-perishable commodities,
@@ -2122,11 +2117,10 @@ usually a trust or corporation. An investor’s claim to the pool’s returns is
 > The initial document released by an underwriter of a new securities issue to prospective investors. 
 
 #### premium 
-> The amount by which a preferred stock or debt security may sell above its par value. In the case of a new issue of bonds or stocks, the amount the market price rises over the original selling price. Also refers to that part of the redemption price of a bond or preferred share in excess of face value,
-par value or market price. In the case of options, the price paid by the buyer of an option contract to the seller. 
+> The amount by which a preferred stock or debt security may sell above its par value. In the case of a new issue of bonds or stocks, the amount the market price rises over the original selling price. Also refers to that part of the redemption price of a bond or preferred share in excess of face value, par value or market price. In the case of options, the price paid by the buyer of an option contract to the seller. 
 
 #### prepaid expenses 
-> Payments made by the company for services to be received in the near future. For example, rents, insurance premiums and taxes are sometimes paid in advance. A statement of financial position item. 
+> Payments made by the company for services to be received in the near future. For example, rents, insurance premiums and taxes are sometimes paid in advance. A **statement of financial position** item. 
 
 #### prepayment risk 
 > The risk that the issuer of a bond might prepay or redeem early some or all principal outstanding on the loan or mortgage. 
@@ -2151,8 +2145,6 @@ par value or market price. In the case of options, the price paid by the buyer o
 
 #### primary market 
 > The market for new issues of securities. The proceeds of the sale of securities in a primary market go directly to the company issuing the securities. See also Secondary Market. 
-
-
 
 #### primary market distribution 
 > The issuance of securities in the primary market. 
@@ -2203,7 +2195,7 @@ frequency of communication and time between fund reporting date and date of comm
 capital, etc. produce more, they generate greater income. 
 
 #### professional (PRO) order 
-> A type of order for the account of partners, directors, officers, major shareholders, IAs and employees of member firms that must be marked “PRO”, “N-C” or “Emp”, in order to ensure that client orders are given priority for the same securities. 
+> A type of order for the account of partners, directors, officers, major shareholders, IAs and employees of member firms that must be marked "PRO", "N-C" or "Emp", in order to ensure that client orders are given priority for the same securities. 
 
 #### profit 
 > That part of a company’s revenue remaining after all expenses and taxes have been paid and out of which dividends may be paid. 
@@ -2228,13 +2220,10 @@ on the index trade in financial futures markets. Also refers to switching or tra
 > Written authorization given by a shareholder to someone else, who need not be a shareholder, to represent him or her and vote his or her shares at a shareholders’ meeting. 
 
 #### prudent portfolio approach 
-> An investment standard. In some provinces, the law requires that a fiduciary, such as a trustee, may invest funds only in a list of securities designated by the province or the federal government. In other provinces,
-the trustee may invest in a security if it is one that an ordinary prudent person would buy if he were investing for the benefit of other people for whom he felt morally bound to provide. Most provinces apply the two standards. 
+> An investment standard. In some provinces, the law requires that a fiduciary, such as a trustee, may invest funds only in a list of securities designated by the province or the federal government. In other provinces, the trustee may invest in a security if it is one that an ordinary prudent person would buy if he were investing for the benefit of other people for whom he felt morally bound to provide. Most provinces apply the two standards. 
 
 #### public corporation 
-> A company whose shares are listed on a stock exchange or traded over the counter. 
-
-
+> A company whose shares are listed on a stock exchange or traded over the counter.
 
 #### public float 
 > That part of the issued shares that are outstanding and available for trading by the public, and not held by company officers, directors, or investors who hold a controlling interest in the company. A company’s public float is different from its outstanding shares as it also excludes those shares owned in large blocks by institutions. 
@@ -2245,8 +2234,7 @@ the trustee may invest in a security if it is one that an ordinary prudent perso
 #### put option 
 > A right to sell the stock at a stated price within a given time period. Those who think a stock may go down generally purchase puts. See also Call Option. 
 
-### Q 
-
+### Q
 
 #### qualifying transaction 
 > A transaction to purchase a business that allows a capital pool company to qualify for listing on the TSX Venture Exchange. 
@@ -2259,9 +2247,10 @@ the trustee may invest in a security if it is one that an ordinary prudent perso
 
 #### quotation or quote 
 > The highest bid to buy and the lowest offer to sell a security at a given time. Example: A quote of 45.40–45.50
-means that 45.40 is the highest price a buyer will pay and 45.50 the lowest price a seller will accept. 
-### R 
+means that 45.40 is the highest price a buyer will pay and 45.50 the lowest price a seller will accept.
 
+
+### R
 
 #### rally 
 > A brisk rise in the general price level of the market or in an individual stock. 
@@ -2297,7 +2286,7 @@ means that 45.40 is the highest price a buyer will pay and 45.50 the lowest pric
 > The date on which a shareholder must officially own shares in a company to be entitled to a declared dividend. Also referred to as the date of record. 
 
 #### red herring prospectus 
-> A preliminary prospectus so called because certain information is printed in red ink around the border of the front page. It does not contain all the information found in the final prospectus. Its purpose: to ascertain the extent of public interest in an issue while it is being reviewed by a securities commission. 
+> A preliminary prospectus so-called because certain information is printed in red ink around the border of the front page. It does not contain all the information found in the final prospectus. Its purpose: to ascertain the extent of public interest in an issue while it is being reviewed by the securities commission. 
 
 #### redeemable bond 
 > A clause that allows issuers the right,
@@ -2313,9 +2302,7 @@ but not the obligation, to pay off the bond before maturity. Also known as a cal
 > An open-market cash management policy pursued by the Bank of Canada. A redeposit refers to the transfer of funds from the Bank to the direct clearers (an injection of balances) that will increase available funds. See also Drawdown. 
 
 #### registered bond 
-> See Registered Security. 
-
-
+> See Registered Security.
 
 #### registered education savings plans (RESPs)
 > A type of government sponsored savings plan used to finance a child’s post-secondary education. 
@@ -2330,8 +2317,7 @@ but not the obligation, to pay off the bond before maturity. Also known as a cal
 > An investment vehicle available to individuals to defer tax on a specified amount of money to be used for retirement. The holder invests money in one or more of a variety of investment vehicles which are held in trust under the plan. Income tax on contributions and earnings within the plan is deferred until the money is withdrawn at retirement. RRSPs can be transferred into Registered Retirement Income Funds upon retirement. 
 
 #### registered security 
-> A security recorded on the books of a company in the name of the owner. It can be transferred only when the certificate is endorsed by the registered owner. Registered debt securities may be registered as to principal only or fully registered. In the latter case,
-interest is paid by cheque rather than by coupons attached to the certificate. See also Bearer Security. 
+> A security recorded on the books of a company in the name of the owner. It can be transferred only when the certificate is endorsed by the registered owner. Registered debt securities may be registered as to principal only or fully registered. In the latter case, interest is paid by cheque rather than by coupons attached to the certificate. See also Bearer Security. 
 
 #### registrar 
 > Usually a trust company appointed by a company to monitor the issuing of common or preferred shares. When a transaction occurs, the registrar receives both the old cancelled certificate and the new certificate from the transfer agent and records and signs the new certificate. The registrar is, in effect, an auditor checking on the accuracy of the work of the transfer agent, although in most cases the registrar and transfer agent are the same trust company. 
@@ -2378,8 +2364,6 @@ years after the reset date. Depending on the contract, the reset dates may be ch
 
 #### retained earnings 
 > The cumulative total of annual earnings retained by a company after payment of all expenses and dividends. The earnings retained each year are reinvested in the business. 
-
-
 
 #### retractable 
 > A feature which can be included in a new debt or preferred issue, granting the holder the option under specified conditions to redeem the security on a stated date – prior to maturity in the case of a bond. 
@@ -2455,8 +2439,8 @@ auditors, geologists, etc., who report or give opinions within the text of the d
 > Take a goal-oriented approach, rather than following a standard index. Rules-
 Based ETFs might follow on areas of the market that offer higher returns or lower risks than traditional indexes. 
 
-### S 
 
+### S 
 
 #### sacrifice ratio 
 > Describes the extent to which Gross Domestic Product must be reduced with increased unemployment to achieve a 1% decrease in the inflation rate. 
@@ -2606,8 +2590,6 @@ the sectors to invest in and the optimal asset allocation.
 #### skew 
 > Measures the extent to which a distribution is tilted towards negative or positive returns. Positive skew indicates a tendency to obtain returns above what is observed with the normal distribution; negative skew indicates a tendency to obtain returns below the normal distribution. 
 
-
-
 #### small cap 
 > Reference to smaller growth companies. Small cap refers to the size of the capitalization or investments made in the company. A small cap company has been defined as a company with an outstanding stock value of under $500 million. Small cap companies are considered more volatile than large cap companies. 
 
@@ -2677,9 +2659,7 @@ shares, but this can vary depending on the price of the stock.
 > A financial statement which shows a company’s revenues and expenditures resulting in either a profit or a loss during a financial period. 
 
 #### statement of financial position 
-> A financial statement showing a company’s assets, liabilities and equity on a given date. 
-
-
+> A financial statement showing a company’s assets, liabilities and equity on a given date.
 
 #### statement of material facts 
 > A document presenting the relevant facts about a company and compiled in connection with an underwriting or secondary distribution of its shares. It is used only when the shares underwritten or distributed are listed on a recognized stock exchange and takes the place of a prospectus in such cases. 
@@ -2733,7 +2713,7 @@ and links the various operating departments of a firm.
 
 #### street name 
 > Securities registered in the name of an investment dealer or its nominee,
-instead of the name of the real or beneficial owner, are said to be “in street name.” Certificates so registered are known as street certificates. 
+instead of the name of the real or beneficial owner, are said to be "in street name." Certificates so registered are known as street certificates. 
 
 #### strike price 
 > The price, as specified in an option contract, at which the underlying security will be purchased in the case of a call or sold in the case of a put. See also Exercise Price. 
@@ -2746,8 +2726,7 @@ then trade separately from the strip of detached coupons, both at substantial di
 > Unemployment that results when workers are unable to find work or fill available jobs because they lack the necessary skills, do not live where the jobs are available, or decide not to work at the wage rate offered by the market. 
 
 #### structured product 
-> : passive investment vehicle financially engineered to provide a specific risk and return characteristic. The value of a structured product tracks the returns of reference security known as an underlying asset. Underlying assets can consist of a single security, a basket of securities, foreign currencies,
-commodities or an index. 
+> : passive investment vehicle financially engineered to provide a specific risk and return characteristic. The value of a structured product tracks the returns of reference security known as an underlying asset. Underlying assets can consist of a single security, a basket of securities, foreign currencies, commodities or an index. 
 
 #### subordinated debenture 
 > A type of junior debenture. Subordinate indicates that another debenture ranks ahead in terms of a claim on assets and profits. 
@@ -2773,8 +2752,7 @@ the greater the quantity of supply.
 > The determinants of the price paid for a good or service. 
 
 #### supply-side economics 
-> An economic theory whereby changes in tax rates exert important effects over supply and spending decisions in the economy. According to this theory,
-reducing both government spending and taxes provides the stimulus for economic expansion. 
+> An economic theory whereby changes in tax rates exert important effects over supply and spending decisions in the economy. According to this theory, reducing both government spending and taxes provides the stimulus for economic expansion. 
 
 #### support level 
 > A price level at which a security stops falling because the number of investors willing to buy the security is greater than the number of investors wishing to sell the security. 
@@ -2806,9 +2784,8 @@ reducing both government spending and taxes provides the stimulus for economic e
 #### systematic withdrawal plan 
 > A plan that enables set amounts to be withdrawn from a mutual fund or a segregated fund on a regular basis. 
 
-### T 
 
-
+### T
 
 #### T3 form 
 > Referred to as a Statement of Trust Income Allocations and Designations. When a mutual fund is held outside a registered plan, unitholders of an unincorporated fund are sent a T3 form by the respective fund. 
@@ -2821,8 +2798,6 @@ reducing both government spending and taxes provides the stimulus for economic e
 
 #### takeover bid 
 > An offer made to security holders of a company to purchase voting securities of the company which, with the offeror’s already owned securities, will in total exceed 20% of the outstanding voting securities of the company. For federally incorporated companies, the equivalent requirement is more than 10% of the outstanding voting shares of the target company. 
-
-
 
 #### target-date funds 
 > Mutual funds that are structured on the assumption that risk tolerance declines as investors grow older. The fund pursues a growth strategy in its early years by holding more risky assets. It then gradually moves towards less risky assets as the target date approaches. The fund manager adjusts the fund over time, without any action required from the fund holder. Also called target-based funds or life-cycle funds. 
@@ -2933,8 +2908,7 @@ such gain is taxed as interest income in the purchaser’s hands. Also known as 
 > Restrictions set out in a trust deed. See covenant. 
 
 #### trustee 
-> For bondholders, usually a trust company appointed by the company to protect the security behind the bonds and to make certain that all covenants of the trust deed relating to the bonds are honoured. For a segregated fund,
-the trustee administers the assets of a mutual fund on behalf of the investors. 
+> For bondholders, usually a trust company appointed by the company to protect the security behind the bonds and to make certain that all covenants of the trust deed relating to the bonds are honoured. For a segregated fund, the trustee administers the assets of a mutual fund on behalf of the investors. 
 
 #### TSX Alpha Exchange 
 > An exchange that provides trading in securities listed on TSX and TSXV. Order price and volume information is publicly available. Alpha Exchange is wholly owned by TMX Group Inc. 
@@ -2946,16 +2920,14 @@ the result of the merger of the Vancouver and Alberta Stock Exchanges in 1999.
 #### two-way security 
 > A security, usually a debenture or preferred share, which is convertible into or exchangeable for another security (usually common shares) of the same company. Also indirectly refers to the possibility of profiting in the future from upward movements in the underlying common shares as well as receiving in the interim interest or dividend payments. 
 
+
 ### U 
 
-
 #### underemployed 
-> People who are working part-time,
-often at jobs that do not make good use of their skills, when they would rather be working full-time. 
+> People who are working part-time, often at jobs that do not make good use of their skills, when they would rather be working full-time. 
 
 #### underlying security or asset 
-> The security or asset upon which a derivative contract, such as an option,
-is based. For example, the ABC June 35 call options are based on the underlying security ABC. 
+> The security or asset upon which a derivative contract, such as an option, is based. For example, the ABC June 35 call options are based on the underlying security ABC. 
 
 #### underwriting 
 > The purchase for resale of a security issue by one or more investment dealers or underwriters. The formal agreements pertaining to such a transaction are called underwriting agreements. 
@@ -2987,8 +2959,8 @@ and are simply an administrative convenience used to determine the income attrib
 #### unsolicited orders 
 > An order initiated by the investor that is not based on advice provided by the advisor. 
 
-### V 
 
+### V 
 
 #### valuation day 
 > The day on which the assets of a segregated fund are valued, based on its total assets less liabilities. Most funds are valued at the end of every business day. 
@@ -3017,12 +2989,10 @@ and vice versa. See variable rate preferred.
 > The stockholder’s right to vote in the affairs of the company. Most common shares have one vote each. Preferred stock usually has the right to vote only when its dividends are in arrears. The right to vote may be delegated by the shareholder to another person. See also Proxy. 
 
 #### voting trust 
-> An arrangement to place the control of a company in the hands of certain managers for a given period of time,
-or until certain results have been achieved, by shareholders surrendering their voting rights to a trustee for a specified period of time. 
+> An arrangement to place the control of a company in the hands of certain managers for a given period of time, or until certain results have been achieved, by shareholders surrendering their voting rights to a trustee for a specified period of time. 
+
 
 ### W 
-
-
 
 #### waiting period 
 > The period of time between the issuance of a receipt for a preliminary prospectus and receipt for a final prospectus from the securities administrators. 
@@ -3031,8 +3001,7 @@ or until certain results have been achieved, by shareholders surrendering their 
 > A certificate giving the holder the right to purchase securities at a stipulated price within a specified time limit. Warrants are usually issued with a new issue of securities as an inducement or sweetener to investors to buy the new issue. 
 
 #### weighted-average method 
-> An inventory valuation method,
-calculated as the cost of goods available for sale divided by the number of units available for sale. 
+> An inventory valuation method, calculated as the cost of goods available for sale divided by the number of units available for sale. 
 
 #### withholding tax 
 > An amount of income tax that a financial institution is required to deduct by law from a payment made to the owner. 
