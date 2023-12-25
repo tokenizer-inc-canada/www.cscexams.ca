@@ -488,12 +488,14 @@ who usually are unable to secure a loan from a bank. Consumer finance companies 
 #### contrarian investors 
 > Contrarian investors use sentiment indicators to determine what the majority of investors expect prices to do in the future, so that they can move in the opposite direction. 
 
-#### onsumer Price Index (CPI)
+#### Consumer Price Index (CPI)
 > Price index which measures the cost of living by measuring the prices of a given basket of goods. The CPI is often used as an indicator of inflation. 
 
 #### continuation pattern 
-> A chart formation indicating that the current trend will continue. continuous public disclosure The act of a public corporation complying with continuous disclosure requirements set out by the relevant provincial securities act. 
+> A chart formation indicating that the current trend will continue. 
 
+#### continuous public disclosure 
+> The act of a public corporation complying with continuous disclosure requirements set out by the relevant provincial securities act. 
 
 #### contract holder 
 > The owner of a segregated fund contract. 
@@ -530,8 +532,7 @@ usually for the common stock of the same company, in accordance with the terms o
 > An unsecured promise made by the borrower to pay interest and repay the principal at a specific date. 
 
 #### corporation or company 
-> A form of business organization created under provincial or federal statutes which has a legal identity separate from its owners. The corporation’s owners (shareholders)
-have no personal liability for its debts. See also Limited Liability. 
+> A form of business organization created under provincial or federal statutes which has a legal identity separate from its owners. The corporation’s owners (shareholders) have no personal liability for its debts. See also Limited Liability. 
 
 #### correction 
 > A price reversal that typically occurs when a security has been overbought or oversold in the market. 
@@ -700,8 +701,6 @@ ending prior to the beginning of the annuity payments. See also Annuity.
 
 #### deflation 
 > A sustained fall in prices where the consumer price index is negative. 
-
-
 
 #### delayed floater 
 > A type of variable rate preferred share that entitles the holder to a fixed dividend for a predetermined period of time after which the dividend becomes variable. Also known as a fixed-reset or fixed floater. 
@@ -874,7 +873,10 @@ performance can be volatile.
 > A type of debt security that was historically used to finance “rolling stock” or railway boxcars. The cars were the collateral behind the issue and when the issue was paid down the cars reverted to the issuer. In recent times, equipment trusts are used as a method of financing containers for the offshore industry. A security, more common in the U.S. than in Canada. 
 
 #### equity 
-> Ownership interest in a corporation’s stock that represents a claim on its revenue and assets. See also Stock. equity accounting method An accounting method used to determine income derived from a company’s investment in another company over which it exerts significant influence. 
+> Ownership interest in a corporation’s stock that represents a claim on its revenue and assets. See also Stock.
+
+#### equity accounting method 
+> An accounting method used to determine income derived from a company’s investment in another company over which it exerts significant influence. 
 
 #### equity-based exchange-traded fund 
 > Commodity ETF that invests in listed companies that are involved in exploration and development or in the processing or refining of a commodity. 
@@ -1346,13 +1348,10 @@ or on behalf of the dealer (as a liability trader).
 > A person is considered to have an insurable interest in the life or health of another person from whom they derive a financial or other kind of benefit from that person. 
 
 #### intangible asset 
-> An asset having no physical substance (e.g., goodwill, patents, franchises,
-copyrights). 
+> An asset having no physical substance (e.g., goodwill, patents, franchises, copyrights). 
 
 #### integrated firm 
-> Investment dealer that offers products and services that cover all aspects of the industry, including full participation in both the institutional and the retail markets. 
-
-
+> Investment dealer that offers products and services that cover all aspects of the industry, including full participation in both the institutional and the retail markets.
 
 #### inter-dealer broker 
 > A broker that acts as a financial intermediary between investment dealers to facilitate inter-dealer transactions. 
@@ -1383,7 +1382,10 @@ copyrights).
 what a security should be worth or priced at in the market). 
 
 #### inventory 
-> The goods and supplies that a company keeps in stock. A statement of financial position item. inventory turnover ratio Cost of sales divided by inventory. The ratio may also be expressed as the number of days required to sell current inventory by dividing the ratio into 365. 
+> The goods and supplies that a company keeps in stock. A statement of financial position item. 
+
+#### inventory turnover ratio 
+> Cost of sales divided by inventory. The ratio may also be expressed as the number of days required to sell current inventory by dividing the ratio into 365. 
 
 #### inverse ETF 
 > An ETF that seeks to replicate, net of expenses, the inverse performance of a reference index. 
@@ -1398,11 +1400,7 @@ what a security should be worth or priced at in the market).
 > Responsible for building the dealer’s business with respect to corporate and public finance, and mergers and acquisition services. 
 
 #### investment boutique 
-> A small retail or institutional investment dealer that specializes in a specific market segment such as stock trading, bond trading, unlisted stocks,
-arbitrage, portfolio management,
-targeted industry research,
-underwriting junior mines, oils and industrials, mutual fund distributions,
-or tax-shelter sales. 
+> A small retail or institutional investment dealer that specializes in a specific market segment such as stock trading, bond trading, unlisted stocks, arbitrage, portfolio management, targeted industry research, underwriting junior mines, oils and industrials, mutual fund distributions, or tax-shelter sales. 
 
 #### investment company 
 > A company which uses its capital to invest in other companies. See also Investment Fund. 
@@ -1418,13 +1416,20 @@ or tax-shelter sales.
 buy back their old shares, and are not listed. Open-end funds are so-called because their capitalization is not fixed; they normally issue more shares or units as people want them. 
 
 #### Investment Industry Association of Canada (IIAC)
-> A member-based professional association that represents the interests of market participants. Investment Industry Regulatory Organization of Canada (IIROC)
-The Canadian investment industry’s national self-regulatory organization. IIROC carries out its regulatory responsibilities through setting and enforcing rules regarding the proficiency, business and financial conduct of dealer firms and their registered employees and through setting and enforcing market integrity rules regarding trading activity on Canadian equity marketplaces. investment policy statement The agreement between a portfolio manager and a client that provides the guidelines for the manager. 
+> A member-based professional association that represents the interests of market participants.
+
+#### Investment Industry Regulatory Organization of Canada (IIROC)
+> The Canadian investment industry’s national self-regulatory organization. IIROC carries out its regulatory responsibilities through setting and enforcing rules regarding the proficiency, business and financial conduct of dealer firms and their registered employees and through setting and enforcing market integrity rules regarding trading activity on Canadian equity marketplaces.
+
+#### investment policy statement
+> The agreement between a portfolio manager and a client that provides the guidelines for the manager. 
 
 
 #### investment representative 
-> A person who is licensed to sell securities but is not permitted to give investment advice. investments in associates The ownership a company has in another company. As a general rule,
-significant influence is presumed to exist when a company owns 20% or more of the voting rights of the other company. 
+> A person who is licensed to sell securities but is not permitted to give investment advice.
+
+#### investments in associates
+> The ownership a company has in another company. As a general rule, significant influence is presumed to exist when a company owns 20% or more of the voting rights of the other company. 
 
 #### investor 
 > One whose principal concern is the minimization of risk, in contrast to the speculator, who is prepared to accept calculated risk in the hope of making better-than-average profits, or the gambler, who is prepared to take even greater risks. 
@@ -1502,8 +1507,7 @@ margin accounts or securities which require payment of only a fraction of the un
 > An ETF that delivers daily investment results that correspond to a multiple of the daily performance of a reference index. 
 
 #### liabilities 
-> Debts or obligations of a company,
-usually divided into current liabilities—those due and payable within one year—and long-term liabilities—those payable after one year. A statement of financial position category. 
+> Debts or obligations of a company, usually divided into current liabilities—those due and payable within one year—and long-term liabilities—those payable after one year. A statement of financial position category. 
 
 #### liability traders 
 > Have the responsibility to manage a dealer’s trading capital to encourage market flows and facilitate the client orders that go into the market,
@@ -1580,14 +1584,11 @@ good short selections are expected to decline more than the market and good long
 
 ### M 
 
-
 #### macroeconomics 
 > Macroeconomics focuses on the performance of the economy as a whole. It looks at the broader picture and to the challenges facing society as a result of the limited amounts of natural resources, human effort and skills, and technology. 
 
 #### major trend 
 > Underlying price trend prevailing in a market despite temporary declines or rallies. 
-
-
 
 #### managed account 
 > An account whereby a licensed portfolio manager has the discretion to decide and execute suitable investment decisions on behalf of clients. 
@@ -1615,8 +1616,7 @@ but excludes brokerage fees. Published rates of return are calculated after the 
 > A contract that must be completed and signed by a client and approved by the firm in order to open a margin account. This sets out the terms and conditions of the account. 
 
 #### margin call 
-> When an investor purchases an account on margin in the expectation that the share value will rise, or shorts a security on the expectation that share price will decline, and share prices go against the investor,
-the brokerage firm will send out a margin call requiring that the investor add additional funds or marketable securities to the account to protect the broker’s loan. 
+> When an investor purchases an account on margin in the expectation that the share value will rise, or shorts a security on the expectation that share price will decline, and share prices go against the investor, the brokerage firm will send out a margin call requiring that the investor add additional funds or marketable securities to the account to protect the broker’s loan. 
 
 #### marginal tax rate 
 > The tax rate that would have to be paid on any additional dollars of taxable income earned 
@@ -1625,8 +1625,7 @@ the brokerage firm will send out a margin call requiring that the investor add a
 > Any arrangement whereby products and services are bought and sold, either directly or through intermediaries. 
 
 #### market economy 
-> An economic system where the decisions regarding investment,
-production, and distribution of goods and services are guided by the price signals created by the forces of supply and demand. 
+> An economic system where the decisions regarding investment, production, and distribution of goods and services are guided by the price signals created by the forces of supply and demand. 
 
 #### MarketAxess 
 > Provides market data and a trading platform with access to multi-dealer competitive pricing for a wider range of corporate bonds and other types of fixed-income instruments. MarketAxess is a member of IIROC. 
@@ -1638,8 +1637,7 @@ production, and distribution of goods and services are guided by the price signa
 > investment certificate Market-linked GICs combine the guarantee of the principal invested with some of the growth potential of an underlying market in the form of a stock index, mutual fund or ETF. 
 
 #### market maker 
-> A trader employed by a securities firm who is authorized and required,
-by applicable self-regulatory organizations (SROs), to maintain reasonable liquidity in securities markets by making firm bids or offers for one or more designated securities. 
+> A trader employed by a securities firm who is authorized and required, by applicable self-regulatory organizations (SROs), to maintain reasonable liquidity in securities markets by making firm bids or offers for one or more designated securities. 
 
 #### market order 
 > An order placed to buy or sell a security immediately at the best current price. 
@@ -1654,9 +1652,7 @@ by applicable self-regulatory organizations (SROs), to maintain reasonable liqui
 > A theory on the structure of the yield curve. It is believed that large institutions shape the yield curve. The banks prefer to borrow short term while the insurance industry, with a longer horizon, prefers long-term money. The supply and demand of the large institutions shapes the curve. 
 
 #### marketability 
-> A measure of the ability to buy and sell a security. A security has good marketability if there is an active secondary market in which it can be easily bought and sold at a fair price. 
-
-
+> A measure of the ability to buy and sell a security. A security has good marketability if there is an active secondary market in which it can be easily bought and sold at a fair price.
 
 #### marketable bonds 
 > Bonds for which there is a ready market (i.e., clients will buy them because the prices and features are attractive). 
@@ -1735,11 +1731,8 @@ are also traded in the money market.
 #### mortgage 
 > A contract specifying that certain property is pledged as security for a loan. 
 
-
 #### mortgage-backed securities 
-> Bonds that claim ownership to a portion of the cash flows from a group or pool of mortgages. They are also known as mortgage pass-through securities. A servicing intermediary collects the monthly payments from the issuers and, after deducting a fee,
-passes them through (i.e., remits them)
-to the holders of the security. The MBS provides liquidity in an otherwise illiquid market. Every month, holders receive a proportional share of the interest and principal payments associated with those mortgages. 
+> Bonds that claim ownership to a portion of the cash flows from a group or pool of mortgages. They are also known as mortgage pass-through securities. A servicing intermediary collects the monthly payments from the issuers and, after deducting a fee, passes them through (i.e., remits them) to the holders of the security. The MBS provides liquidity in an otherwise illiquid market. Every month, holders receive a proportional share of the interest and principal payments associated with those mortgages. 
 
 #### mortgage bond 
 > A bond issue secured by a mortgage on the issuer’s property. mortgage pass-through securities See Mortgage-Backed Securities. 
@@ -1826,9 +1819,7 @@ TSX, and the TSX Venture Exchange.
 > For a mutual fund, net asset value per share represents the market value of the fund’s share per unit and is calculated as total assets of a corporation less its liabilities, then divided by the total units outstanding. 
 
 #### net change 
-> The change in the price of a security from the closing price on one day to the closing price on the following trading day. In the case of a stock which is entitled to a dividend one day, but is traded ex-dividend the next, the dividend is not considered in computing the change. The same applies to stock splits. A stock selling at $100 the day before a two-for-one split and trading the next day at $50
-would be considered unchanged. The net change is ordinarily the last figure in a stock price list. The mark +1.10
-means up $1.10 a share from the last sale on the previous day the stock traded. 
+> The change in the price of a security from the closing price on one day to the closing price on the following trading day. In the case of a stock which is entitled to a dividend one day, but is traded ex-dividend the next, the dividend is not considered in computing the change. The same applies to stock splits. A stock selling at $100 the day before a two-for-one split and trading the next day at $50 would be considered unchanged. The net change is ordinarily the last figure in a stock price list. The mark +1.10 means up $1.10 a share from the last sale on the previous day the stock traded. 
 
 #### net current assets 
 > See working capital 
@@ -1868,8 +1859,7 @@ companies listed on the exchange.
 > The quoted or stated rate. 
 
 #### nominee 
-> A person or firm (bank, investment dealer, CDS) in whose name securities are registered. The shareholder,
-however, retains the true ownership of the securities. 
+> A person or firm (bank, investment dealer, CDS) in whose name securities are registered. The shareholder, however, retains the true ownership of the securities. 
 
 #### non-callable preferred 
 > Preferred shares with a feature that prevents the shares from being redeemed by the issuer. 
@@ -1885,7 +1875,10 @@ received in response to this request.
 
 
 #### non-controlling interest 
-> 1 -> The equity of the shareholders    who do not hold controlling interest    in a controlled company; 2. In    consolidated financial statements    (i) the item in the statement of    financial position of the parent    company representing that portion of    the assets of a consolidated subsidiary    considered as accruing to the shares    of the subsidiary not owned by the    parent; and (ii) the item deducted in    the statement of comprehensive    income of the parent and representing    that portion of the subsidiary’s    earnings considered as accruing to the    subsidiary’s shares not owned by the    parent. 
+> 1. The equity of the shareholders who do not hold controlling interest in a controlled company;
+> 2. In **consolidated financial statements**
+>   - the item in the s**tatement of financial position** of the parent company representing that portion of the assets of a consolidated subsidiary considered as accruing to the shares of the subsidiary not owned by the parent; and 
+>   - the item deducted in the **statement of comprehensive income** of the parent and representing that portion of the subsidiary’s earnings considered as accruing to the subsidiary’s shares not owned by the parent. 
 
 
 #### non-cumulative 
