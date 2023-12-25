@@ -6,152 +6,3076 @@ title: "Exam 1"
 
 # Exam 1
 
-## Glossary
+## Glossary 
+### A 
 
-### A
+#### absolute risk 
+The total variability or volatility of returns, incorporating all sources of risk embedded in returns, including first-order risks and second-order risks. Absolute risk does not distinguish between upside and downside volatility. 
 
-#### absolute risk
-The total variability or volatility of
-returns, incorporating all sources of
-risk embedded in returns, including
-first-order risks and second-order risks.
-Absolute risk does not distinguish
-between upside and downside
-volatility.
+#### accredited investor 
+An individual or institutional investor who meets certain minimum requirement relating to income, net worth, or investment knowledge. accredited investor exemption An exemption that allows an accredited investor to purchase securities without receiving a prospectus. 
 
-#### accredited investor
-An individual or institutional investor
-who meets certain minimum
-requirement relating to income, net
-worth, or investment knowledge.
-accredited investor exemption
-An exemption that allows an
-accredited investor to purchase
-securities without receiving a
-prospectus.
+#### accrued interest 
+Interest accumulated on a bond or debenture since the last interest payment date. 
 
-#### accrued interest
-Interest accumulated on a bond or
-debenture since the last interest
-payment date.
+#### active ETF 
+ETF where the portfolio manager takes an active role in investment selection. active investment strategy The investor or manager employs active management with the aim of outperforming a benchmark portfolio or index on a risk-adjusted basis through active securities selection. 
 
-#### active ETF
-ETF where the portfolio manager takes
-an active role in investment selection.
-active investment strategy
-The investor or manager employs
-active management with the aim of
-outperforming a benchmark portfolio
-or index on a risk-adjusted basis
-through active securities selection.
 
-#### active management
-Investment management that takes
-an active, as opposed to a passive, role
-when managing investments. Active
-fund managers make investment
-decisions based on their outlook for
-the markets and securities in which
-they invest. In almost all cases, active
-fund managers intend to outperform
-the return on a specific benchmark
-index.
+#### active management 
+Investment management that takes an active, as opposed to a passive, role when managing investments. Active fund managers make investment decisions based on their outlook for the markets and securities in which they invest. In almost all cases, active fund managers intend to outperform the return on a specific benchmark index. 
 
-#### adjusted cost base
-The deemed cost of an asset
-representing the sum of the amount
-originally paid plus any additional
-costs, such as brokerage fees and
-commissions.
+#### adjusted cost base 
+The deemed cost of an asset representing the sum of the amount originally paid plus any additional costs, such as brokerage fees and commissions. 
 
-#### after-acquired clause
-A protective clause found in a bond’s
-indenture or contract that binds
-the bond issuer to pledging all
-subsequently purchased assets as part
-of the collateral for a bond issue.
+#### after-acquired clause 
+A protective clause found in a bond’s indenture or contract that binds the bond issuer to pledging all subsequently purchased assets as part of the collateral for a bond issue. 
 
-#### after-market stabilization
-A type of arrangement where the
-dealer supports the offer price of a
-newly issued stock once it begins
-trading in the secondary market.
+#### after-market stabilization 
+A type of arrangement where the dealer supports the offer price of a newly issued stock once it begins trading in the secondary market. 
 
-#### agency traders
-Manage trades for institutional clients.
-They do not trade the dealer member’s
-capital, and they trade only when
-acting on behalf of clients. Agency
-traders do not merely take orders; they
-must manage institutional orders with
-minimal market impact and act as
-the client’s eyes and ears for relevant
-market intelligence.
+#### agency traders 
+Manage trades for institutional clients. They do not trade the dealer member’s capital, and they trade only when acting on behalf of clients. Agency traders do not merely take orders; they must manage institutional orders with minimal market impact and act as the client’s eyes and ears for relevant market intelligence. 
 
-#### agent
-An investment dealer operates as an
-agent when it acts on behalf of a buyer
-or a seller of a security and does not
-itself own title to the securities at any
-time during the transactions. See also
-Principal.
+#### agent 
+An investment dealer operates as an agent when it acts on behalf of a buyer or a seller of a security and does not itself own title to the securities at any time during the transactions. See also Principal. 
 
-#### algorithmic trading
-The use of sophisticated mathematical
-algorithms to execute equity trades
-over electronic trading systems.
+#### algorithmic trading 
+The use of sophisticated mathematical algorithms to execute equity trades over electronic trading systems. 
 
-#### allocation
-The administrative procedure by which
-income generated by the segregated
-fund’s investment portfolio is flowed
-through to the individual contract
-holders of the fund.
+#### allocation 
+The administrative procedure by which income generated by the segregated fund’s investment portfolio is flowed through to the individual contract holders of the fund. 
 
-#### alpha
-A statistical measure of the value
-a fund manager adds to the
-performance of the fund managed.
-If alpha is positive, the manager has
-added value to the portfolio. If the
-alpha is negative, the manager has
-underperformed the market.
+#### alpha 
+A statistical measure of the value a fund manager adds to the performance of the fund managed. If alpha is positive, the manager has added value to the portfolio. If the alpha is negative, the manager has underperformed the market. 
 
-#### alternative asset
-Alternative assets refer to real
-assets held directly or indirectly
-by an investor. Real assets include
-commodities, real estate, and
-collectibles.
+#### alternative asset 
+Alternative assets refer to real assets held directly or indirectly by an investor. Real assets include commodities, real estate, and collectibles. 
 
-#### alternative investment
-Asset class that is different from the
-traditional three board asset classes
-of equities, bonds, and cash. Generally
-categorized for portfolio management
-analysis into three groups: alternative
-strategy funds, alternative assets and
-private equity.
+#### alternative investment 
+Asset class that is different from the traditional three board asset classes of equities, bonds, and cash. Generally categorized for portfolio management analysis into three groups: alternative strategy funds, alternative assets and private equity. 
 
-#### alternative mutual fund
-A type of mutual fund that is
-permitted greater usage of derivatives,
-leverage, short selling and investments
-in illiquid assets than conventional
-mutual funds, but not the extent of
-hedge funds. Also known as liquid
-alternatives or liquid alts.
+#### alternative mutual fund 
+A type of mutual fund that is permitted greater usage of derivatives,
+leverage, short selling and investments in illiquid assets than conventional mutual funds, but not the extent of hedge funds. Also known as liquid alternatives or liquid alts. 
 
 #### alternative trading systems (ATS)
-Privately-owned computerized
-networks that match orders for
-securities outside of recognized
-exchange facilities. Also referred to as
-Proprietary Electronic Trading Systems
-(PETS).
+Privately-owned computerized networks that match orders for securities outside of recognized exchange facilities. Also referred to as Proprietary Electronic Trading Systems (PETS). 
 
-#### American-style option
-An option that can be exercised at any
-time during the option’s lifetime. See
-also European-Style Option.
+#### American-style option 
+An option that can be exercised at any time during the option’s lifetime. See also European-Style Option. 
 
+
+#### amortization 
+Gradually writing off the value of an intangible asset over a period of time. Commonly applied to items such as goodwill, improvements to leased premises, or expenses of a new stock or bond issue. See also Depreciation. 
+
+#### analyst 
+An expert in respect to a specific company or sector. Analysts provide other front office staff with ongoing analytical coverage in their area of specialty. 
+
+#### annual information form (AIF)
+A document in which an issuer is required to disclose information about presently known trends,
+commitments, events or uncertainties that are reasonably expected to have a material impact on the issuer’s business, financial condition or results of operations. Although investors are typically not provided with the AIF,
+the prospectus must state that it is available on request. 
+
+#### annual report 
+The formal financial statements and report on operations issued by a company to its shareholders after its fiscal year-end. 
+
+#### annuitant 
+Person on whose life the maturity and death benefit guarantees are based. It can be the contract holder or someone else designated by the contract holder. In registered plans, the annuitant and contract holder must be the same person. 
+
+#### annuity 
+A contract usually sold by life insurance companies that guarantees an income to the beneficiary or annuitant at some time in the future. The income stream can be very flexible. The original purchase price may be either a lump sum or a stream of payments. See Deferred Annuity and Immediate Annuity. 
+
+#### arbitrage 
+The simultaneous purchase of a security on one stock exchange and the sale of the same security on another exchange at prices which yield a profit to the arbitrageur. 
+
+#### arbitration 
+A method of dispute resolution in which an independent arbitrator is chosen to assist aggrieved parties recover damages. 
+
+#### arrears 
+Interest or dividends that were not paid when due but are still owed. For example, dividends owed but not paid to cumulative preferred shareholders accumulate in a separate account (arrears). When payments resume,
+dividends in arrears must be paid to the preferred shareholders before the common shareholders. 
+
+#### ask price 
+The lowest price a seller will accept for the financial instrument being quoted. See also Bid. 
+
+#### asset 
+Everything a company or a person owns or has owed to it. A statement of financial position category. 
+
+#### asset allocation 
+Apportioning investment funds among different categories of assets, such as cash, fixed income securities and equities. The allocation of assets is built around an investor’s risk tolerance. 
+
+#### asset allocation fund 
+This type of fund has similar objectives to those of balanced funds, but they differ in that they typically do not have to hold a specified minimum percentage of the fund in any class of investment. 
+
+#### asset-backed commercial paper (ABCP)
+A type of security that has a maturity date of less than one year, typically in the range of 90 to 180 days, with a legal and design structure of an assetbacked security. 
+
+#### asset-backed securities (ABS)
+A short- to medium-term bond with equal claim on the principal and interest cash flows from a pool of underlying receivables. 
+
+#### asset coverage ratio 
+A financial ratio that shows a company’s ability to cover its debt obligations with its assets after all non-debt liabilities have been satisfied. 
+
+#### asset mix 
+The percentage distribution of assets in a portfolio among the three major asset classes: cash and equivalents,
+fixed income and equities. 
+
+#### assigned 
+Designated to fulfill the writer’s obligation on a call or put option for an option buyer who decides to exercise the option. 
+
+#### Assuris 
+A not for profit company whose member firms are issuers of lifeinsurance contracts and whose mandate is to provide protection to contract holders against the insolvency of a member company. 
+
+#### at-the-money 
+An option with a strike price equal to (or almost equal to) the market price of the underlying security. See also Out-of-the-money and In-themoney. 
+
+#### attribution rules 
+A Canada Revenue Agency rule stating that an investor cannot avoid paying taxes at their marginal rate by transferring assets to other family members who have lower personal tax rates. 
+
+#### auction market 
+Market in which securities are bought and sold by brokers acting as agents for their clients, in contrast to a dealer market where trades are conducted over-the-counter. For example, the Toronto Stock Exchange is an auction market. 
+
+
+
+#### audit 
+A professional review and examination of a company’s financial statements required under corporate law for the purpose of ensuring that the statements are fair, consistent and conform with International Financial Reporting Standards (IFRS). 
+
+#### authorized shares 
+The maximum number of common (or preferred) shares that a corporation may issue under the terms of its charter. 
+
+#### Autorité des marchés financiers (Financial Services Authority) (AMF)
+The body that administers the regulatory framework surrounding Québec’s financial sector: securities sector, the distribution of financial products and services sector, the financial institutions sector and the compensation sector. 
+
+#### averages 
+A statistical tool used to measure the direction of the market. The most common average is the Dow Jones Industrial Average. 
+
+#### axe sheet 
+A list of products that a trader wishes to sell or buy as quickly as possible. 
+### B 
+
+
+#### back-end load 
+A sales charge applied on the redemption of a mutual fund. 
+
+#### balanced budget 
+A budget is said to be balanced when revenue equals spending. balanced fund Invests in both stocks and bonds to provide a balanced mix of income and capital growth.. 
+
+#### balance of payments 
+Canada’s interactions with the rest of the world which are captured here in the current account and capital account. 
+
+
+#### Bank of Canada 
+Canada’s central bank which exercises its influence on the economy by raising and lowering short-term interest rates. 
+
+#### Bank Rate 
+The minimum rate at which the Bank of Canada makes short-term advances to the chartered banks, other members of Payments Canada and investment dealers who trade in the money market. 
+
+#### bankers’ acceptance 
+A commercial draft (i.e., a written instruction to make payment) drawn by a borrower for payment on a specified date. A BA is guaranteed at maturity by the borrower’s bank. As with T-bills, BAs are sold at a discount and mature at their face value, with the difference representing the return to the investor. BAs may be sold before maturity at prevailing market rates,
+generally offering a higher yield than Canada T-bills. 
+
+#### banking group 
+A group of investment firms, each of which individually assumes financial responsibility for part of an underwriting. 
+
+#### bankrupt 
+The legal status of an individual or company that is unable to pay its creditors and whose assets are therefore administered for its creditors by a Trustee in Bankruptcy. 
+
+#### basis point 
+One-hundredth of a percentage point of bond yields. Thus, 1% represents 100 basis points. 
+
+#### bearer bonds 
+A security (usually a bond) which does not have the owner’s name recorded in the books of the issuing company nor on the security itself and which is payable to the holder, i.e., the holder is the deemed owner of the security. See also Registered Security. 
+
+#### benchmark 
+A standard against which an investment or portfolio is measured. A common benchmark is the t-bill rate plus some sort of performance benchmark; for example, the T-bill rate plus 4%. A benchmark could also be a market index; for example, the S&P/
+TSX Composite Index. 
+
+#### beneficial owner 
+The real (underlying) owner of an account, securities or other assets. An investor may own shares which are registered in the name of an investment dealer, trustee or bank to facilitate transfer or to preserve anonymity, but the investor would be the beneficial owner. 
+
+#### beneficiary 
+The individual or individuals who have been designated to receive the death benefit. Beneficiaries may be either revocable or irrevocable. 
+
+#### best efforts underwriting 
+The attempt by an investment dealer (underwriter) to sell an issue of securities, to the best of their abilities,
+but does not guarantee that any or all of the issue will be sold. The investment dealer is not held liable to fulfill the order or to sell all of the securities. The underwriter acts as an agent for the issuer in distributing the issue. 
+
+#### beta 
+A measure of the sensitivity (i.e.,
+volatility) of a stock or a mutual fund to movements in the overall stock market. The beta for the market is considered to be 1. A fund that mirrors the market, such as an index fund,
+would also have a beta of 1. Funds or stocks with a beta greater than 1 are more volatile than the market and are therefore riskier. A beta less than 1 is not as volatile and can be expected to rise and fall by less than the overall market. 
+
+#### bid-ask spread 
+The difference between the current bid and ask, calculated as Ask - Bid. 
+
+
+#### bid price 
+The highest price a buyer is willing to pay for the financial instrument being quoted. See also Ask. 
+
+#### blue-chip 
+An active, leading, nationally known common stock with a record of continuous dividend payments and other strong investment qualities. The implication is that the company is of “good” investment value. 
+
+#### blue sky 
+A slang term for laws that various Canadian provinces and American states have enacted to protect the public against securities frauds. The term blue skyed is used to indicate that a new issue has been cleared by a securities commission and may be distributed. 
+
+#### bond 
+A certificate evidencing a debt on which the issuer promises to pay the holder a specified amount of interest based on the coupon rate,
+for a specified length of time, and to repay the loan on its maturity. Strictly speaking, assets are pledged as security for a bond issue, except in the case of government “bonds”, but the term is often loosely used to describe any funded debt issue. 
+
+#### bond contract 
+The actual legal agreement between the issuer and the bondholder. The contract outlines the terms and conditions – the coupon rate, timing of coupon payments, maturity date and any other terms. The bond contract is usually administered by a trust company on behalf of all the bondholders. Also called a Bond Indenture or Trust Deed. 
+
+#### bond fund 
+A fund that invests primarily in bonds and derives its income mostly from interest payments made by bond issuers to the fund. bond indenture See Bond Contract. 
+
+#### bond residue 
+The remaining bond once the coupons have been stripped. 
+
+#### book value 
+The amount of net assets belonging to the owners of a business (or shareholders of a company) based on statement of financial position values. It represents the total value of the company’s assets that shareholders would theoretically receive if a company were liquidated. Also represents the original cost of the units allocated to a segregated fund contract. 
+
+#### bottom-up analysis 
+An investment approach that seeks out undervalued companies. A fund manager may find companies whose low share prices are not justified. They would buy these securities and when the market finally realizes that they are undervalued, the share price rises giving the astute bottom up manager a profit. See also Top-Down Analysis. 
+
+#### bought deal 
+A new issue of stocks or bonds bought from the issuer by an investment dealer for resale to its clients, usually by way of a private placement or short form prospectus. The dealer risks its own capital in the bought deal. In the event that the price has to be lowered to sell out the issue, the dealer absorbs the loss. 
+
+#### Bourse de Montréal 
+A stock exchange (also referred to as the Montréal Exchange) that deals exclusively with non-agricultural options and futures in Canada,
+including all options that previously traded on the Toronto Stock Exchange and all futures products that previously traded on the Toronto Futures Exchange. 
+
+#### broker 
+An investment dealer or a duly registered individual that is registered to trade in securities in the capacity of an agent or principal and is a member of a Self-Regulatory Organization. 
+
+#### broker of record 
+The broker named as the official advisor to a corporation on financial matters; has the right of first refusal on any new issues. 
+
+#### bucketing 
+Confirming a transaction where no trade has been executed. 
+
+#### budget deficit 
+Occurs when total spending by the government for the year is higher than revenue collected. 
+
+#### budget surplus 
+Occurs when government revenue for the year exceeds expenditures. 
+
+#### business cycle 
+The recurrence of periods of expansion and recession in economic activity. Each cycle is expected to move through five phases – the trough, recovery, expansion, peak,
+contraction (recession). Given an understanding of the relationship between the business cycle and security prices an investor or fund manager would select an asset mix to maximize returns. 
+
+#### business risk 
+The risk inherent in a company’s operations, reflected in the variability in earnings. A weakening in consumer interest or technological obsolescence usually causes the decline. Examples include manufacturers of vinyl records,
+eight track recording tapes and beta video machines. 
+
+#### business trust 
+Purchases the assets of an underlying company and the profits and losses resulting from the use of the trust are shared with investors on a proportional basis. 
+
+#### buy and hold 
+A passive investment approach where the investor or manager buys and holds a portfolio of securities for a long period of time. 
+
+
+
+#### buy-back 
+A company’s purchase of its common shares either by tender or in the open market for cancellation, subsequent resale or for dividend reinvestment plans. 
+
+#### buy-ins 
+The obligation to buy back the stock after selling it short if adequate margin cannot be maintained by the client and/or if the originally borrowed stock is called by its owner and no other stock can be borrowed to replace it. 
+
+#### buy side 
+The term applied to retail and institutional investors, since they are the buyers of securities and services provided by the sell-side of the market. 
+
+### C 
+
+#### call feature 
+A clause in a bond or preferred share agreement that allows the issuer the right to “call back” the securities prior to maturity. The company would usually do this if they could refinance the debt at a lower rate (similar to refinancing a mortgage at a lower rate). Calling back a security prior to maturity may involve the payment of a penalty known as a call premium. 
+
+#### call option 
+The right to buy a specific number of shares at a specified price (the strike price) by a fixed date. The buyer pays a premium to the seller of the call option contract. An investor would buy a call option if the underlying stock’s price is expected to rise. See also Put Option. 
+
+#### call price 
+The price at which a bond or preferred share with a call feature is redeemed by the issuer. This is the amount the holder of the security would receive if the security was redeemed prior to maturity. The call price is equal to par (or a stated value for preferred shares)
+plus any call premium. See also Redemption Price. 
+
+#### call protection period 
+For callable bonds, the period before the first possible call date. 
+
+#### callable bond 
+May be redeemed (called in) upon due notice by the security’s issuer. 
+
+#### callable preferred 
+May be redeemed (called in) upon due notice by the security’s issuer. 
+
+#### Canada Deposit Insurance Corporation (CDIC)
+A federal Crown Corporation providing deposit insurance against loss (up to $100,000 per depositor) when a member institution fails. 
+
+#### Canada Education Savings Grant (CESG)
+An incentive program for those investing in a Registered Education Savings Plan (RESP) whereby the federal government will make a matching grant of a maximum of $500
+to $600 per year of the first $2,500
+contributed each year to the RESP of a child under age 18. 
+
+#### Canada Pension Plan (CPP)
+A mandatory contributory pension plan designed to provide monthly retirement, disability and survivor benefits for all Canadians. Employers and employees make equal contributions. Québec has its own parallel pension plan Québec Pension Plan (QPP). 
+
+#### Canada Premium Bonds (CPBs)
+A secure savings product fully guaranteed by the Government of Canada. The government discontinued the sale of CPBs in November 2017 but will continue to guarantee and honour any existing issues until investors redeem them or the issues mature,
+whichever comes first. 
+
+#### Canada Savings Bonds (CSBs)
+A secure savings product fully guaranteed by the Government of Canada. The government discontinued the sale of CSBs in November 2017 but will continue to guarantee and honour any existing issues until investors redeem them or the issues mature,
+whichever comes first. 
+
+#### Canadian Derivatives Clearing Corporation (CDCC)
+The CDCC is a service organization that clears, issues, settles, and guarantees options, futures, and futures options traded on the Bourse de Montréal (the Bourse). 
+
+#### Canadian Investor Protection Fund (CIPF)
+A fund that protects eligible customers in the event of the insolvency of an IIROC dealer member. It is sponsored solely by IIROC and funded by quarterly assessments on dealer members. 
+
+#### Canadian Life and Health Insurance Association Inc. (CLHIA)
+The national trade group of the life insurance industry, which is actively involved in overseeing applications and setting industry standards. 
+
+#### Canadian Securities Administrators (CSA)
+The CSA is a forum for the 13 securities regulators of Canada’s provinces and territories to co-ordinate and harmonize the regulation of the Canadian capital markets. 
+
+#### Canadian Securities Exchange (CSE)
+Launched in 2003 as an alternative marketplace for trading equity securities and emerging companies. 
+
+#### Canadian Unlisted Board (CUB)
+An Internet web-based system for investment dealers to report completed trades in unlisted and unquoted equity securities in Ontario. 
+
+#### CanDeal 
+Provides institutional investors with electronic access to federal bond bid and offer prices and yields from its six bank-owned dealers. 
+
+#### CanPx 
+A joint venture of several IIROC member firms and operates as an electronic trading system for fixed income securities providing investors with real-time bid and offer prices and hourly trade data. 
+
+
+#### capital 
+Has two distinct but related meanings. To an economist, it means machinery,
+factories and inventory required to produce other products. To an investor,
+it may mean the total of financial assets invested in securities, a home and other fixed assets, plus cash. 
+
+#### capital and financial account 
+Account which reflects the transactions occurring between Canada and foreign countries with respect to the acquisition of assets,
+such as land or currency. Along with the current account a component of the balance of payments. 
+
+#### capital gain 
+Selling a security for more than its purchase price. For non-registered securities, 50% of the gain would be added to income and taxed at the investor’s marginal rate. 
+
+#### capital loss 
+Selling a security for less than its purchase price. Capital losses can only be applied against capital gains. Surplus losses can be carried forward indefinitely and used against future capital gains. Only 50% of the loss can be used to offset any taxable capital loss. 
+
+#### capital market 
+Financial markets where debt and equity securities trade. Capital markets include organized exchanges as well as private placement sources of debt and equity. 
+
+#### Capital Pool Company (CPC)
+A company that is permitted to seek financing through an IPO prior to having any assets or commercial operation. The CPC uses the funds raised from the IPO to evaluate and acquire an existing business or significant assets in a qualifying transaction. 
+
+#### capital shares 
+One of the components of split shares. Capital shares receive the majority of capital gains from the underlying common shares. 
+
+#### capitalization or capital structure 
+Total dollar amount of all debt,
+preferred and common stock, and retained earnings of a company. Can also be expressed in percentage terms. 
+
+#### capitalizing 
+Recording an expenditure initially as an asset on the statement of financial position rather than as an expense on the statement of comprehensive income, and then writing it off or amortizing it (as an expense on the statement of comprehensive income) over a period of years. Examples include interest, and research and development. 
+
+#### carry forward 
+The amount of RRSP contributions that can be carried forward from previous years. For example, if a client was entitled to place $13,500 in an RRSP and only contributed $10,000,
+the difference of $3,500 would be the unused contribution room and can be carried forward indefinitely. 
+
+#### carrying charges 
+Deductible expenses for tax purposes. 
+
+#### cash account 
+A type of brokerage account where the investor is expected to have either cash in the account to cover their purchases or where an investor will deliver the required amount of cash before the settlement date of the purchase. 
+
+#### cash flow 
+A company’s profit for a stated period plus any deductions that are not paid out in actual cash, such as depreciation. For an investor, any source of income from an investment including dividends, interest income,
+rental income, etc. Can also refer to money flowing into our out of an account or portfolio. 
+
+#### cash flow-to-total debt outstanding ratio 
+A financial ratio that gauges a company’s ability to repay the funds it has borrowed. Short-term borrowings must normally be repaid or rolled over within a year. 
+
+#### cash-secured put write 
+Involves writing a put option and setting aside an amount of cash equal to the strike price. If the cash-secured put writer is assigned, the cash is used to buy the stock from the exercising put buyer. 
+
+#### CBID 
+An electronic trading system for fixedincome securities operating in the retail market. 
+
+#### CBID Institutional 
+An electronic trading system for fixedincome securities operating in the institutional market. 
+
+#### CDS Clearing and Depository Services Inc. (CDS)
+CDS provides customers with physical and electronic facilities to deposit and withdraw depository-eligible securities and manage their related ledger positions (securities accounts). CDS also provides electronic clearing services both domestically and internationally, allowing customers to report, confirm and settle securities trade transactions. 
+
+#### central bank 
+A body established by a national Government to regulate currency and monetary policy on a national/
+international level. In Canada, it is the Bank of Canada; in the United States,
+the Federal Reserve Board; in the U.K.,
+the Bank of England. 
+
+#### chart analysis 
+The use of charts and patterns to forecast buy and sell decisions. See also Technical Analysis. 
+
+#### class A and B stock 
+Shares that have different classes sometimes have different rights. Some may have superior claims over other classes or may have different voting rights. Class A stock is often similar to a participating preferred share with a prior claim over Class B for a stated amount of dividends or assets or both,
+but without voting rights; the Class B may have voting rights but no priority as to dividends or assets. Note that these distinctions do not always apply. 
+
+
+#### clearing 
+The process of confirming and matching security trade details. 
+
+#### clearing corporations 
+A not-for-profit service organization owned by the exchanges and their members for the clearance, settlement and issuance of options and futures. A clearing corporation provides a guarantee for all options and futures contracts it clears, by becoming the buyer to every seller and the seller to every buyer. 
+
+#### closed-end discretionary funds 
+Funds that have the flexibility to buy back their outstanding shares periodically. Also known as interval funds. 
+
+#### closed-end fund 
+Shares in closed-end investment companies are readily transferable in the open market and are bought and sold like other shares. Capitalization is fixed. See also Investment Company. 
+
+#### closet indexing 
+A portfolio strategy whereby the fund manager does not replicate the market exactly but sticks fairly close to the market weightings by industry sector,
+country or region or by the average market capitalization. 
+
+#### coincident indicators 
+Statistical data that, on average,
+change at approximately the same time and in the same direction as the economy as a whole. 
+
+#### collateral trust bond 
+A bond secured by stocks or bonds of companies controlled by the issuing company, or other securities, which are deposited with a trustee. 
+
+#### commercial paper 
+An unsecured promissory note issued by a corporation or an asset-backed security backed by a pool of underlying financial assets. Issue terms range from less than three months to one year. Most corporate paper trades in $1,000
+multiples, with a minimum initial investment of $25,000. Commercial paper may be bought and sold in a secondary market before maturity at prevailing market rates. 
+
+#### commission 
+The fee charged by a stockbroker for buying or selling securities as agent on behalf of a client. 
+
+#### commodity 
+A product used for commerce that is traded on an organized exchange. A commodity could be an agricultural product such as canola or wheat, or a natural resource such as oil or gold. A commodity can be the basis for a futures contract. 
+
+#### commodity ETF 
+Commodity ETFs are focused on commodity holdings or holdings that replicate or are related to commodities. Three different types of commodity ETFs include physicalbased,
+futures-based, or equity-based ETFs. 
+
+#### commodity futures 
+Futures contracts based on an underlying commodity. 
+
+#### common shares 
+Securities representing ownership in a company. They carry voting privileges and are entitled to the receipt of dividends, if declared. Also called common stock. 
+
+#### competitive tender 
+A distribution method used in particular by the Bank of Canada in distributing new issues of government marketable bonds. Bids are requested from primary distributors and the higher bids are awarded the securities for distribution. See also Non-
+Competitive Tender. 
+
+#### compound interest 
+Interest earned on an investment at periodic intervals and added to the amount of the investment; future interest payments are then calculated and paid at the original rate but on the increased total of the investment. In simple terms, interest paid on interest. 
+
+#### confirmation 
+A printed acknowledgement giving details of a purchase or sale of a security which is normally mailed to a client by the broker or investment dealer within 24 hours of an order being executed. Also called a contract. consolidated financial statements A combination of the financial statements of a parent company and its subsidiaries, presenting the financial position of the group as a whole. consolidation See Reverse Split. 
+
+#### consumer finance company 
+Makes direct cash loans to consumers,
+who usually are unable to secure a loan from a bank. Consumer finance companies typically charge a higher interest rate than banks. 
+
+#### contrarian investors 
+Contrarian investors use sentiment indicators to determine what the majority of investors expect prices to do in the future, so that they can move in the opposite direction. 
+
+#### onsumer Price Index (CPI)
+Price index which measures the cost of living by measuring the prices of a given basket of goods. The CPI is often used as an indicator of inflation. 
+
+#### continuation pattern 
+A chart formation indicating that the current trend will continue. continuous public disclosure The act of a public corporation complying with continuous disclosure requirements set out by the relevant provincial securities act. 
+
+
+#### contract holder 
+The owner of a segregated fund contract. 
+
+#### contraction 
+Represents a downturn in the economy and can lead to a recession if prolonged. 
+
+#### contribution in kind 
+Transferring securities into an RRSP. The general rules are that when an asset is transferred there is a deemed disposition. Any capital gain would be reported and taxes paid. Any capital losses that result cannot be claimed. 
+
+#### control position 
+Ownership of sufficient voting stock in a company to materially affect its affairs. In all provinces except Manitoba, New Brunswick and Quebec, a 20% holding is deemed to represent control. 
+
+#### conversion price 
+The dollar value at which a convertible bond or security can be converted into common stock. 
+
+#### conversion privilege 
+The right to exchange a bond for common shares on specifically determined terms. 
+
+#### convertible 
+A bond, debenture or preferred share which may be exchanged by the owner,
+usually for the common stock of the same company, in accordance with the terms of the conversion privilege. A company can force conversion by calling in such shares for redemption if the redemption price is below the market price. 
+
+#### convertible arbitrage strategy 
+A strategy that looks for mispricing between a convertible security and the underlying stock. A typical convertible arbitrage position is to be long the convertible bond and short the common stock of the same company. 
+
+#### convexity 
+A measure of the rate of change in duration over changes in yields. Typically, a bond will rise in price more if the yield change is negative than it will fall in price if the yield change is positive. 
+
+#### core holdings 
+In the context of ETFs, core holdings are typically passive ETF investments intended to provide the majority of returns, as opposed to satellite holdings which are more focused on riskier sector ETF holdings. 
+
+#### corporate note 
+An unsecured promise made by the borrower to pay interest and repay the principal at a specific date. 
+
+#### corporation or company 
+A form of business organization created under provincial or federal statutes which has a legal identity separate from its owners. The corporation’s owners (shareholders)
+have no personal liability for its debts. See also Limited Liability. 
+
+#### correction 
+A price reversal that typically occurs when a security has been overbought or oversold in the market. 
+
+#### correlation 
+A measure of the relationship between two or more securities. If two securities mirror each other’s movements perfectly, they are said to have a positive one (+1) correlation. Combining securities with high positive correlations does not reduce the risk of a portfolio. Combining securities that move in the exact opposite direction from each other are said to have perfect negative one (-1) correlation. Combining two securities with perfect negative correlation reduces risk. Very few, if any, securities have a perfect negative correlation. However, risk in a portfolio can be reduced if the combined securities have low positive correlations. 
+
+#### cost method 
+Used when a company owns less than 20% of a subsidiary. 
+
+#### cost of sales 
+A statement of comprehensive income account representing the cost of buying raw materials that go directly into producing finished goods. 
+
+#### cost-push inflation 
+A type of inflation that develops due to an increase in the costs of production. For example, an increase in the price of oil may contribute to higher input costs for a company and could lead to higher inflation. 
+
+#### coupon bond 
+A bond with coupons attached that represent the regular interest payments the issuer is obligated to pay. 
+
+#### coupon rate 
+The rate of interest that appears on the certificate of a bond. Multiplying the coupon rate times the principal tells the holder the dollar amount of interest to be paid by the issuer until maturity. For example, a bond with a principal of $1,000 and a coupon of 10% would pay $100 in interest each year. Coupon rates remain fixed throughout the term of the bond. See also Yield. 
+
+#### covenant 
+A pledge in a bond indenture indicating the fulfilment of a promise or agreement by the company issuing the debt. An example of a covenant may include the promise not to issue any more debt. 
+
+#### cover 
+Buying a security previously sold short. See also Short Sale. 
+
+#### covered call 
+A written call option where the writer owns the underlying stock, and uses this position to meet their obligations if assigned. 
+
+#### covered call ETF 
+ETFs that employ covered calls to enhance the yield and reduce the volatility of owning the underlying stock or portfolio. 
+
+
+#### coverage trader 
+Manages trades on behalf of institutional clients and does not trade the dealer member’s capital. Also known as an agency trader. 
+
+#### covered writer 
+The writer of an option who also holds a position that is equivalent to, but on the opposite side of the market from the short option position. In some circumstances, the equivalent position may be in cash, a convertible security or the underlying security itself. See also Naked Writer. 
+
+#### creation unit 
+The block of ETF shares provided by an ETF issuer to the designated broker. 
+
+#### creditor protection 
+Segregated funds offer protection from creditors in the event of bankruptcy,
+because segregated funds are an insurance product, and the insurance proceeds generally fall outside the provisions of bankruptcy legislation. 
+
+#### crowdfunding 
+The process of raising start-up capital by soliciting contributions from the public at large, usually aided by online or Internet-based systems. 
+
+#### cum dividend 
+With dividend. If you buy shares quoted cum dividend, i.e., before the ex dividend date, you will receive an upcoming already-declared dividend. If shares are quoted ex-dividend (without dividend) you are not entitled to the declared dividend. 
+
+#### cum rights 
+With rights. Buyers of shares quoted cum rights, i.e., before the ex-rights date, are entitled to forthcoming already-declared rights. If shares are quoted ex rights (without rights) the buyer is not entitled to receive the declared rights. 
+
+#### cumulative preferred 
+A preferred stock having a provision that if one or more of its dividends are not paid, the unpaid dividends accumulate in arrears and must be paid before any dividends may be paid on the company’s common shares. 
+
+#### current account 
+Account that reflects all payments between Canadians and foreigners for goods, services, interest and dividends. Along with the capital and financial account it is a component of the balance of payments. 
+
+#### current assets 
+Cash and assets which in the normal course of business would be converted into cash, usually within a year, e.g. accounts receivable, inventories. A statement of financial position category. 
+
+#### current liabilities 
+Money owed and due to be paid within a year, e.g. accounts payable. A statement of financial position category. 
+
+#### current ratio 
+A liquidity ratio that shows a company’s ability to pay its current obligations from current assets. A current ratio of 2:1 is the generally accepted standard. Also known as the working capital ratio. 
+
+#### current yield 
+The annual income from an investment expressed as a percentage of the investment’s current value. On stock,
+calculated by dividing yearly dividend by market price; on bonds, by dividing the coupon by market price. See also Yield. 
+
+#### custodian 
+A firm that holds the securities belonging to a mutual fund or a segregated fund for safekeeping. The custodian can be either the insurance company itself, or a qualified outside firm based in Canada. 
+
+#### cycle analysis 
+Used to you forecast when the market will start moving in a particular direction and when it will ultimately reach its peak or trough. The theory of cycle analysis is based on the assumption that cyclical forces drive price movements in the marketplace. 
+
+#### cyclical industry 
+An industry that is particularly sensitive to swings in economic conditions. Cyclical industries tend to rise quickly when the economy does well and fall quickly when the economy contracts. 
+
+#### cyclical stock 
+A stock in an industry that is particularly sensitive to swings in economic conditions. Cyclical Stocks tend to rise quickly when the economy does well and fall quickly when the economy contracts. In this way,
+cyclicals move in conjunction with the business cycle. For example, during periods of expansion auto stocks do well as individuals replace their older vehicles. During recessions, auto sales and auto company share values decline. 
+
+#### cyclical unemployment 
+The amount of unemployment that rises when the economy softens, firms’
+demand for labour moderates, and some firms lay off workers in response to lower sales. It drops when the economy strengthens again. 
+### D 
+
+#### daily valuation method 
+A method of calculating the NAVPS of a mutual fund. The incremental change in the value of a fund from day to day is expressed as an index from which the return can be calculated. This method of calculation is beneficial for mutual funds, which generally calculate NAVPS daily. It greatly simplifies their return calculation at the end of the month. 
+
+#### dark pool 
+An equity marketplace that does not offer pre-trade transparency on trader orders. 
+
+#### day order 
+A buy or sell order that automatically expires if it is not executed on the day it is entered. All orders are day orders unless otherwise specified. 
+
+
+#### dealer market 
+A market in which securities are bought and sold over-the-counter in which dealers acts as principals when buying and selling securities for clients. Also referred to as the unlisted market. 
+
+#### dealer member 
+A stock brokerage firm or investment dealer which is a member of a stock exchange or the Investment Industry Regulatory Organization of Canada. 
+
+#### death benefit 
+The amount that a segregated fund policy pays to the beneficiary or the estate when the market value of the segregated fund is lower than the guaranteed amount on the death of the annuitant. 
+
+#### debenture 
+A certificate of indebtedness of a government or company backed only by the general credit of the issuer and unsecured by mortgage or lien on any specific asset. In other words, no specific assets have been pledged as collateral. 
+
+#### debt 
+Money borrowed from lenders for a variety of purposes. The borrower typically pays interest for the use of the money and is obligated to repay it at a set date. 
+
+#### debt-to-equity ratio 
+A ratio that shows whether a company’s borrowing is excessive. The higher the ratio, the higher the financial risk. 
+
+#### debt securities 
+A debt instrument such as a bond or debenture is an instrument that represents a liability on a loan and specifies basic terms such as the amount borrowed, the interest rate and maturity date. The issuer promises to repay the loan at maturity. The term of the loan varies depending on the type of instrument. 
+
+#### declining-balance method 
+An accounting method of depreciation whereby a fixed percentage is applied to the outstanding balance of an asset to determine the expense to be charged each period. 
+
+#### declining industry 
+An industry moving from the maturity stage. It tends to grow at rates slower than the overall economy, or the growth rate actually begins to decline. 
+
+#### deemed disposition 
+Under certain circumstances, taxation rules state that a transfer of property has occurred, even without a purchase or sale, e.g., there is a deemed disposition on death or emigration from Canada. 
+
+#### default 
+A bond is in default when the borrower has failed to live up to its obligations under the trust deed with regard to interest, sinking fund payments or has failed to redeem the bonds at maturity. 
+
+#### default risk 
+The risk that a debt security issuer will be unable to pay interest on the prescribed date or the principal at maturity. Default risk applies to debt securities not equities since equity dividend payments are not contractual. 
+
+#### defensive industry 
+An industry with a record of stable earnings and continuous dividend payments and which has demonstrated relative stability in poor economic conditions. 
+
+#### defensive stock 
+A stock of a company with a record of stable earnings and continuous dividend payments and which has demonstrated relative stability in poor economic conditions. For example,
+utility stock values do not usually change from periods of expansion to periods of recession since most individuals use a constant amount of electricity. 
+
+#### deferred annuity 
+This type of contract, usually sold by life insurance companies, pays a regular stream of income to the beneficiary or annuitant at some agreed-upon start date in the future. The original payment is usually a stream of payments made over time,
+ending prior to the beginning of the annuity payments. See also Annuity. 
+
+#### deferred preferred shares 
+A type of preferred share that pays no dividend until a future maturity date. 
+
+#### deferred sales charge 
+The fee charged by a mutual fund or insurance company for redeeming units. It is otherwise known as a redemption fee or back-end load. These fees decline over time and are eventually reduced to zero if the fund is held long enough. 
+
+#### deferred tax liabilities 
+The income tax payable in future periods. These liabilities commonly result from temporary differences between the book value of assets and liabilities as reported on the statement of financial position and the amount attributed to that asset or liability for income tax purposes. 
+
+#### defined benefit plan 
+A type of registered pension plan in which the annual payout is based on a formula. The plan pays a specific dollar amount at retirement using a predetermined formula. 
+
+#### defined contribution plan 
+A type of registered pension plan where the amount contributed is known but the dollar amount of the pension to be received is unknown. Also known as a money purchase plan. 
+
+#### deflation 
+A sustained fall in prices where the consumer price index is negative. 
+
+
+
+#### delayed floater 
+A type of variable rate preferred share that entitles the holder to a fixed dividend for a predetermined period of time after which the dividend becomes variable. Also known as a fixed-reset or fixed floater. 
+
+#### delayed opening 
+Postponement in the opening of trading of a security the result of a heavy influx of buy and/or sell orders. 
+
+#### delisting 
+Removal of a security’s listing on a stock exchange. 
+
+#### demand 
+The quantity demanded of a good or service based on a particular price during a given period. The lower the price, the higher the demand. 
+
+#### demand pull inflation 
+A type of inflation that develops when continued consumer demand pushes prices higher. 
+
+#### denominations 
+The face values of a bond. 
+
+#### depletion 
+Refers to consumption of natural resources that are part of a company’s assets. Producing oil, mining and gas companies deal in products that cannot be replenished and as such are known as wasting assets. The recording of depletion is a bookkeeping entry similar to depreciation and does not involve the expenditure of cash. 
+
+#### depreciation 
+Systematic charges against earnings to write off the cost of an asset over its estimated useful life because of wear and tear through use, action of the elements, or obsolescence. It is a bookkeeping entry and does not involve the expenditure of cash. 
+
+#### derivative 
+A type of financial instrument whose value is based on the performance of an underlying financial asset,
+commodity, or other investment. Derivatives are available on interest rates, currency, stock indexes. For example, a call option on IBM is a derivative because the value of the call varies in relation to the performance of IBM stock. See also Options. 
+
+#### designated broker 
+A designated broker has a contractual agreement with an ETF company to aid in the creation and redemption of ETF units. 
+
+#### direct bonds 
+This term is used to describe bonds issued by governments that are firsthand obligations of the government itself. See also Guaranteed Bonds. 
+
+#### direct electronic access (DEA)
+The process of some institutional clients directly accessing the exchanges electronically via their investment dealers rather than placing orders (usually verbally) with their investment dealer who would in turn execute the transaction. 
+
+#### directional strategies 
+A type of hedge fund that places a bet on the anticipated movements in the market prices of equities, fixed-income securities, foreign currencies and commodities. 
+
+#### director 
+Person elected by voting common shareholders at the annual meeting to direct company policies. 
+
+#### directors’ circular 
+Information sent to shareholders by the directors of a company that are the target of a takeover bid. A recommendation to accept or reject the bid, and reasons for this recommendation, must be included. 
+
+#### disclosure 
+One of the principles of securities regulation in Canada. This principle entails full, true and plain disclosure of all material facts necessary to make reasoned investment decisions. 
+
+#### discount 
+The amount by which a preferred stock or bond sells below its par value. 
+
+#### discount brokers 
+Brokerage house that buys and sells securities for clients at a greater commission discount than full-service firms. Also known as self-directed brokers. 
+
+#### discount rate 
+In computing the value of a bond, the discount rate is the interest rate used in calculating the present value of future cash flows. 
+
+#### discouraged workers 
+Individuals that are available and willing to work but cannot find jobs and have not made specific efforts to find a job within the previous month. 
+
+#### discretionary account 
+A securities account where the client has given specific written authorization to a partner, director or qualified portfolio manager to select securities and execute trades for him. See also Managed Account and Wrap Account. 
+
+#### disinflation 
+A decline in the rate at which prices rise – i.e., a decrease in the rate of inflation. Prices are still rising, but at a slower rate. 
+
+#### distressed securities strategy 
+Invests in the equity or debt securities of companies that are in financial difficulty and face bankruptcy or reorganization; these generally sell at deep discounts, reflecting their issuers’
+weak credit quality. 
+
+
+#### diversification 
+Spreading investment risk by buying different types of securities in different companies in different kinds of businesses and/or locations. 
+
+#### dividend 
+An amount distributed out of a company’s profits to its shareholders in proportion to the number of shares they hold. Over the years a preferred dividend will remain at a fixed annual amount. The amount of common dividends may fluctuate with the company’s profits. A company is under no legal obligation to pay preferred or common dividends. 
+
+#### dividend discount model 
+The relationship between a stock’s current price and the present value of all future dividend payments. It is used to determine the price at which a stock should be selling based on projected future dividend payments. 
+
+#### dividend fund 
+Invest in preferred shares as well as high-quality common shares, with a history of consistently paying dividends. 
+
+#### dividend payout ratio 
+A ratio that measures the amount or percentage of the company’s profit that are paid out to shareholders in the form of dividends. 
+
+#### dividend record date 
+The date upon which a company determines which shareholders are entitled to the declared dividend. 
+
+#### dividend reinvestment plan 
+The automatic reinvestment of shareholder dividends in more shares of the company’s stock. 
+
+#### dividend tax credit 
+A procedure to encourage Canadians to invest in preferred and common shares of taxable, dividend-paying Canadian corporations. The taxpayer pays tax based on grossing up the dividend and obtains a credit against federal and provincial tax based on the grossed up amount. The federal government may adjust the gross up rate and tax credit from year to year. 
+
+#### dividend yield 
+A value ratio that shows the annual dividend rate expressed as a percentage of the current market price of a stock. Dividend yield represents the investor’s percentage return on investment at its prevailing market price. 
+
+#### dollar cost averaging 
+Investing a fixed amount of dollars in a specific security at regular set intervals over a period of time, thereby reducing the average cost paid per unit. 
+
+#### domestic bonds 
+Bonds issued in the currency and country of the issuer. For example, a Canadian dollar-denominated bond,
+issued by a Canadian company, in the Canadian market would be considered a domestic bond. 
+
+#### Dow Jones Industrial Average (DJIA)
+A price-weighted average that uses 30
+actively traded blue chip companies as a measure of the direction of the New York Stock Exchange. 
+
+#### drawdown 
+A cash management open-market operation pursued by the Bank of Canada to influence interest rates. A drawdown refers to the transfer of deposits to the Bank of Canada from the direct clearers, effectively draining the supply of available cash balances. Drawdown also refers to peak-to-trough investment declines during a specific period, expressed as a percentage of the peak value. Individual drawdowns measure the percentage loss an investor would have realized if an investment was bought at its peak and subsequently sold at its lowest point. 
+
+#### due diligence report 
+When negotiations for a new issue of securities begin between a dealer and corporate issuer, the dealer normally prepares a due diligence report examining the financial structure of the company. 
+
+#### duration 
+A measure of bond price volatility. The approximate percentage change in the price or value of a bond or bond portfolio for a 1% point change in interest rates. The higher the duration of a bond the greater its risk. 
+
+#### duty of care 
+The responsibility to conduct due diligence before providing advice or recommending products. 
+
+#### dynamic asset allocation 
+An asset allocation strategy that refers to the systematic rebalancing,
+either by time period or weight, of the securities in the portfolio, so that they match the long-term benchmark asset mix among the various asset classes. 
+### E 
+
+
+#### early redemption fee 
+A fee that is typically charged by a mutual fund when the fund is redeemed within 90 days of the initial purchase. 
+
+#### earned income 
+Income that is designated by Canada Revenue Agency for RRSP calculations. Most types of revenues are included with the exception of any form of investment income and pension income. 
+
+#### earnings per common share 
+A financial ratio that shows the earnings available to each common share. 
+
+#### earnings per share (eps)
+A value ratio that shows the portion of net income for a period attributable to a single common share of a company. For example, a company with $100 million in earnings and with 100 million common shareholders would report an EPS of $1 per share. 
+
+
+#### economic indicators 
+Statistics or data series that are used to analyze business conditions and current economic activity. See also leading, lagging, and coincident indicators. 
+
+#### economics 
+A social science that is concerned with an understanding of production,
+distribution, and consumption of goods and services.. 
+
+#### economies of scale 
+An economic principle whereby the per unit cost of producing each unit of output falls as the volume of production increases. Typically, a company that achieves economies of scale lowers the average cost per unit through increased production since fixed costs are shared over an increased number of goods. 
+
+#### efficient frontier 
+The curve that reflects the most efficient portfolios for all levels of risk. efficient market hypothesis The theory that a stock’s price reflects all available information and reflects its true value. 
+
+#### election period 
+When an investor purchases an extendible or retractable bond, they have a time period in which to notify the company if they want to exercise the option. 
+
+#### emerging growth industries 
+Brand new industries in the early stages of growth. Often considered as speculative because they are introducing new products that may or may not be accepted and may face strong competition from other new entrants. 
+
+#### emerging markets alternative funds 
+Invest in equity and debt securities of companies in emerging markets by using derivatives, short selling, and other complex investment strategies. As some emerging markets do not allow short selling and do not have viable derivative markets, these funds may not be able to hedge. As a result,
+performance can be volatile. 
+
+#### equilibrium price 
+The price at which the quantity demanded equals the quantity supplied. 
+
+#### equipment trust certificate 
+A type of debt security that was historically used to finance “rolling stock” or railway boxcars. The cars were the collateral behind the issue and when the issue was paid down the cars reverted to the issuer. In recent times, equipment trusts are used as a method of financing containers for the offshore industry. A security, more common in the U.S. than in Canada. 
+
+#### equity 
+Ownership interest in a corporation’s stock that represents a claim on its revenue and assets. See also Stock. equity accounting method An accounting method used to determine income derived from a company’s investment in another company over which it exerts significant influence. 
+
+#### equity-based exchange-traded fund 
+Commodity ETF that invests in listed companies that are involved in exploration and development or in the processing or refining of a commodity. 
+
+#### equity fund 
+Funds in the equity category must invest a minimum of 90% of their noncash assets in equity securities. The main investment objective of equity funds is long-term capital growth. 
+
+#### equity market-neutral strategy 
+Designed to exploit inefficiencies and opportunities in the equity market by creating simultaneously long and short matched equity portfolios of approximately the same size with a goal of having zero (or very low) beta (directional exposure). 
+
+#### equity securities 
+Evidence of a share of ownership stake in the company that issued the security. 
+
+#### equity value per common share 
+A financial ratio, also called book value per common share, measures the net asset coverage for each common share if all assets were sold and all liabilities were paid. 
+
+#### escrowed shares 
+Outstanding shares of a company which, while entitled to vote and receive dividends, may not be bought or sold unless special approval is obtained. Mining and oil companies commonly use this technique when treasury shares are issued for new properties. Shares can be released from escrow (i.e., freed to be bought and sold) only with the permission of applicable authorities such as a stock exchange and/or securities commission. 
+
+#### ETF Facts 
+A summary disclosure document that ETFs are required to produce and file. 
+
+#### ethical decision-making 
+Decision-making based on the principles of trust, integrity, justice,
+fairness, honesty, responsibility, and reliability. 
+
+#### ethics 
+Defined as the rules or standards governing the behaviour of a particular group or profession, a set of moral principles or values, or the study of the general nature of morals and the moral choices made by individuals. 
+
+#### Eurobonds 
+Bonds that are issued and sold outside a domestic market and typically denominated in a currency other than that of the domestic market. For example, a bond denominated in Canadian dollars and issued in Germany would be classified as a Eurobond. 
+
+#### European-style option 
+An option that can only be exercised on a specified date – normally the business day prior to expiration. 
+
+
+#### event-driven strategies 
+A type of hedge fund that seeks to profit from unique events such as mergers, acquisitions, stock splits or buybacks. 
+
+#### ex-ante 
+A projection of expected returns –
+what investors expect to realize as a return. 
+
+#### exchange fund account 
+A special federal government account operated by the Bank of Canada to hold and conduct transactions in Canada’s foreign exchange reserves on instructions from the Minister of Finance. 
+
+#### exchange rate 
+The price at which one currency exchanges for another. 
+
+#### exchange-traded funds (ETFs)
+Open-end mutual fund trusts that hold the same stocks in the same proportion as those included in a specific stock index. Shares of an exchange-traded fund trade on major stock exchanges. Like index mutual funds, ETFs are designed to mimic the performance of a specified index by investing in the constituent companies included in that index. Like the stocks in which they invest, shares can be traded throughout the trading day. 
+
+#### exchange-traded fund wraps 
+A discretionary account where a single annual fee, based on the account’s total assets, is charged. Often directed by a single portfolio manager, the managed account holds a basket of ETFs for security selection. The underlying ETFs tend to be passive in the investment management. 
+
+#### exchange-traded notes (ETNs)
+Exchange-traded debt obligations issued by a bank that promises to pay investors a return on their investment based on the performance of a specific reference asset such as an index or another benchmark. 
+
+#### ex-dividend 
+A term that denotes that when a person purchases a common or preferred share, they are not entitled to the dividend payment. Shares go ex-dividend one business day prior to the shareholder record date. See also Cum Dividend. 
+
+#### ex-dividend date 
+The date that the shares start to trade ex-dividend. See ex-dividend. 
+
+#### exempt investor 
+Investors who meet certain qualifications that permit them to purchase securities without receiving a prospectus. 
+
+#### exempt list 
+Large professional buyers of securities,
+mostly financial institutions, that are offered a portion of a new issue by one member of the banking group on behalf of the whole syndicate. The term exempt indicates that this group of investors is exempt from receiving a prospectus on a new issue as they are considered to be sophisticated and knowledgeable. 
+
+#### exercise 
+The process of invoking the rights of the option or warrant contract. It is the holder of the option who exercises his or her rights. See also Assignment. 
+
+#### exercise price 
+The price at which a derivative can be exchanged for a share of the underlying security (also known as subscription price). For an option,
+it is the price at which the underlying security can be purchased, in the case of a call, or sold, in the case of a put,
+by the option holder. Synonymous with strike price. 
+
+#### expansion 
+A phase of the business cycle characterized by increasing corporate profits and hence increasing share prices, an increase in the demand for capital for business expansion, and hence an increase in interest rates. 
+
+#### expectations theory 
+A theory stating that the yield curve is shaped by a market consensus about future interest rates. 
+
+#### expiration date 
+The date on which certain rights or option contracts cease to exist. For equity options, this date is usually the Saturday following the third Friday of the month listed in the contract. This term can also be used to describe the day on which warrants and rights cease to exist. 
+
+#### ex-post 
+The rate of return that was actually received. This historic data is used to measure actual performance. 
+
+#### ex-rights 
+A term that denotes that the purchaser of a common share would not be entitled to a rights offering. Common shares go ex-rights two business days prior to the shareholder of record date. 
+
+#### extendible bond or debenture 
+A bond or debenture with terms granting the holder the option to extend the maturity date by a specified number of years. 
+
+#### extension date 
+For extendible bonds the maturity date of the bond can be extended so that the bond changes from a short-term bond to a long- term bond. 
+
+#### extra dividend 
+An extra payment made in addition to a regular dividend payment. 
+### F 
+
+#### face value 
+The value of a bond or debenture that appears on the face of the certificate. Face value is ordinarily the amount the issuer will pay at maturity. Face value is no indication of market value. 
+
+
+#### F-class fund 
+A type of fee-based fund with a lower MER. To accommodate fee-based financial advisors, many mutual fund companies began offering F-class mutual funds. These funds reduce or eliminate the double charge 
+
+#### fee-based accounts 
+A type of account that bundles various services into a fee based on the client’s assets under management, for example, 1% to 3% of client assets. 
+
+#### fiduciary responsibility 
+The responsibility of an investment advisor, mutual fund salesperson or financial planner to always put the client’s interests first. The fiduciary is in a position of trust and must act accordingly. 
+
+#### final good 
+A finished product, one that is purchased by the ultimate end user. 
+
+#### final prospectus 
+The prospectus which supersedes the preliminary prospectus and is accepted for filing by applicable provincial securities commissions. The final prospectus shows all required information pertinent to the new issue and a copy must be given to each firsttime buyer of the new issue. 
+
+#### financial asset 
+A non-physical representational asset that derives a claim based on what it represents. For example, stocks, bonds and bank deposits are financial assets. 
+
+#### financial futures 
+Futures contracts with a financial asset as the underlying asset. Examples of underlying assets include currencies and stock indexes. 
+
+#### financial intermediary 
+An institution such as a bank, life insurance company, credit union or mutual fund which receives cash,
+which it invests, from suppliers of capital. 
+
+#### financial ratios 
+Financial calculations based on a company’s financial statements, often providing clues about the company’s financial health. 
+
+#### financial risk 
+The additional risk placed on the common shareholders from a company’s decision to use debt to finance its operations. 
+
+#### financing 
+The purchase for resale of a security issue by one or more investment dealers. The formal agreement between the investment dealer and the corporation issuing the securities is called the underwriting agreement. A term synonymous with underwriting. 
+
+#### financing group 
+The lead underwriter of a new issue of securities brought to market by an issuing company. Also known as managing underwriters and syndicate managers. 
+
+#### fintech 
+Financial technology companies that take advantage of computer technology to provide more efficient financial products and services. 
+
+#### firewall 
+Policies implemented to separate and isolate persons within a firm who make investment decisions from persons within a firm who are privy to undisclosed material information which may influence those decisions. For example, there should be separate fax machines for research departments and sales departments. 
+
+#### firm commitment underwriting 
+The underwriter commits to buy a specified number of securities at a set price, which it then resells to the public. In a firm commitment agreement, the underwriter pays the full proceeds to the issuer, regardless of whether it has been able to resell the securities to the public. The underwriter assumes the risk of selling the security. 
+
+#### first-in-first-out (FIFO)
+Inventory items acquired earliest are sold first. 
+
+#### first mortgage bonds 
+The senior securities of a company as they constitute a first charge on the company’s assets, earnings and undertakings before unsecured current liabilities are paid. 
+
+#### first-order risk 
+Market-induced or systematic exposure to changes in the general direction of equity, fixed income,
+currency, and commodity markets that cannot be reduced through diversification. 
+
+#### fiscal agent 
+An investment dealer appointed by a company or government to advise it in financial matters and to manage the underwriting of its securities. 
+
+#### fiscal policy 
+The policy pursued by the federal government to influence economic growth through the use of taxation and government spending to smooth out the fluctuations of the business cycle. 
+
+#### fiscal year 
+A company’s accounting year. Due to the nature of particular businesses,
+some companies do not use the calendar year for their bookkeeping. A typical example is the department store that finds December 31 too early a date to close its books after the Christmas rush and so ends its fiscal year on January 31. 
+
+#### fixed asset 
+A tangible long-term asset such as land, building or machinery, held for use rather than for processing or resale. A statement of financial position category. 
+
+#### fixed-dollar withdrawal plan 
+A systematic withdrawal plan where the fund holder chooses a specified dollar amount to be withdrawn on a monthly or quarterly basis. 
+
+
+#### fixed exchange rate regime 
+A country whose central bank maintains the domestic currency at a fixed level against another currency or a composite of other currencies. 
+
+#### fixed-income arbitrage strategy 
+Attempts to profit from price anomalies between related interest rate securities and their derivatives,
+including government and nongovernment bonds, mortgage-backed securities, options, swaps, and forward rate agreements. 
+
+#### fixed-income securities 
+Securities that generate a predictable stream of interest or dividend income,
+such as bonds, debentures and preferred shares 
+
+#### fixed-period withdrawal plan 
+A systematic withdrawal plan where a specified amount is withdrawn over a pre-determined period with the intent that all capital will be exhausted when the plan ends. 
+
+#### flat 
+Means that the quoted market price of a bond or debenture is its total cost (as opposed to an accrued interest transaction). Bonds and debentures in default of interest trade flat. 
+
+#### float 
+That part of the issued shares that are outstanding and available for trading by the public, and not held by company officers, directors, or investors who hold a controlling interest in the company. Also known as public float. 
+
+#### floating exchange rate 
+A country whose central bank allows market forces alone to determine the value of its currency, but will intervene if it thinks the move in the exchange rate is excessive or disorderly. 
+
+#### floating rate 
+A term used to describe the interest payments negotiated in a particular contract. In this case, a floating rate is one that is based on an administered rate, such as the Prime Rate. For example, the rate for a particular note may be 2% over Prime. 
+
+#### floating rate preferred 
+Dividend payments that fluctuate to reflect changes in interest rates. If interest rates rise, so will dividend payments, and vice versa. 
+
+#### floating-rate securities 
+A type of debt instrument that offers protection to investors during periods of very volatile interest rates. For example, when interest rates are rising, the interest paid on floating rate debentures is adjusted upwards every six months. 
+
+#### floor trader 
+Employee of a member of a stock exchange, who executes buy and sell orders on the floor (trading area) of the exchange for the firm and its clients. 
+
+#### forced conversion 
+When a company’s stock rises in value above the conversion price a company may force the convertible security holder to exchange the security for stock by calling back the security. Faced with receiving a lower call price (par plus a call premium) or higher valued shares the investor is forced to convert into common shares. 
+
+#### foreign bonds 
+If a Canadian company issues debt securities in another country,
+denominated in that foreign country’s currency, the bond is known as a foreign bond. A bond issued in the U.S. payable in U.S. dollars is known as a foreign bond or a “Yankee Bond.” See also Eurobond. 
+
+#### foreign exchange rate risk 
+The risk associated with an investment in a foreign security or any investment that pays in a denomination other than Canadian dollars, the investor is subject to the risk that the foreign currency may depreciate in value. 
+
+#### foreign pay bond 
+A Canadian debt security issued in Canada but pays interest and principle in a foreign currency is known as a foreign pay bond. This type of security allows Canadians to take advantage of possible shifts in currency values. 
+
+#### foreign pay preferred 
+Preferred shares that pay dividends in a foreign currency. 
+
+#### forward 
+A forward contract is similar to a futures contract but trades on an OTC basis. The seller agrees to deliver a specified commodity or financial instrument at a specified price sometime in the future. The terms of a forward contract are not standardized but are negotiated at the time of the trade. There may be no secondary market. 
+
+#### forward agreement 
+An over-the-counter forward. 
+
+#### frictional unemployment 
+Unemployment that results from normal labour turnover, from people entering and leaving the workforce and from the ongoing creation and destruction of jobs. 
+
+#### front-end load 
+A sales charge applied to the purchase price of a mutual fund when the fund is originally purchased. 
+
+#### front running 
+Making a practice, directly or indirectly,
+of taking the opposite side of the market to clients, or effecting a trade for the advisor’s own account prior to effecting a trade for a client. 
+
+#### full employment 
+The level of unemployment due solely to both frictional and structural factors, or when cyclical unemployment is zero. 
+
+#### full replication 
+The ETF holds all of the stocks in the same weight as the respective index. The full replication process tracks extremely close to the benchmark index, with minimal tracking error. 
+
+#### full, true, and plain disclosure 
+The general principle underlying Canadian securities legislation. All pertinent facts by those offering securities for sale to the public must be disclosed. 
+
+
+#### fully diluted earnings per share 
+Earnings per common share calculated on the assumption that all convertible securities are converted into common shares and all outstanding rights,
+warrants, options and contingent issues are exercised. 
+
+#### fundamental analysis 
+Security analysis based on fundamental facts about a company as revealed through its financial statements and an analysis of economic conditions that affect the company’s business. See also Technical Analysis. 
+
+#### funded debt 
+All outstanding bonds, debentures,
+notes and similar debt instruments of a company not due for at least one year. 
+
+#### Fund Facts 
+A disclosure document designed to give mutual fund investors key information about a fund. The document is limited to two doubleside pages in length and provides timely information that would be material to an investment decision. 
+
+#### fund of hedge funds 
+A portfolio of hedge funds overseen by a manager who determines which hedge funds to invest in and how much to invest in each. 
+
+#### futures-based exchange-traded fund 
+ETFs that invest in futures contracts of different commodities, with an underlying portfolio of money market instruments to cover the full value of the contracts. As near-term contracts approach expiration, they are rolled over into more distant contracts. 
+
+#### futures contract 
+A contract that signifies an agreement between a futures buyer and futures seller. 
+### G 
+
+
+#### gatekeeper 
+Refers to dealers and all of their employees who are responsible for protecting the markets from potentially illegal client activities. Universal Market Integrity Rules set out specific rules that identify the gatekeeper function and formal reporting procedures. 
+
+#### glide path 
+Changes in the target-date fund’s asset allocation mix over time. The fund pursues a growth strategy in its early years by holding more risky assets. It then gradually moves towards less risky assets as the target date approaches. The fund manager adjusts the fund over time, without any action required from the fund holder. 
+
+#### global macro strategy 
+Invests in all major markets, including equities, bonds, currencies, and commodities with strategy based on predictions for major events affecting entire economies, such as shifts in government policy that alter interest rates, thereby affecting currency, stock,
+and bond markets. 
+
+#### good delivery form 
+When a security is sold it must be delivered to the broker properly endorsed, not mutilated and with (if any) coupons attached. To avoid these difficulties and as a general practice most securities are held in street form with the broker. 
+
+#### good faith deposit 
+A deposit of money by the buyer or seller of a futures product which acts as a financial guarantee as to the fulfilment of the contractual obligations of the futures contract. Also called a performance bond or margin. 
+
+#### good through order 
+An order to buy or sell that is good for a specified number of days and then is automatically cancelled if it has not been filled. 
+
+#### goodwill 
+Generally understood to represent the value of a well-respected business – its name, customer relations, employee relations, among others. Considered an intangible asset on the statement of financial position. 
+
+#### government securities distributors 
+Typically an investment dealer or bank that is authorized to bid at Government of Canada debt auctions. 
+
+#### greensheet 
+Highlights for the firm’s sales representatives the salient features of a new issue, both pro and con in order to successfully solicit interest to the general public. Dealers prepare this information circular for in-house use only. 
+
+#### Greenshoe option 
+An activity used to stabilize the aftermarket price of a recently issued security. If the price increases above the offer price, dealers can cover their short position by exercising an overallotment option (also referred to as a greenshoe option) by either increasing demand in the case of covering a short position or increasing supply in the case of over-allotment option exercise. 
+
+#### gross domestic product (GDP)
+The value of all goods and services produced in a country in a year. 
+
+#### gross profit 
+The amount remaining after the cost of sales is subtracted from revenue. 
+
+#### gross profit margin 
+A profitability ratio that shows the company’s rate of profit after allowing for cost of sales. 
+
+#### growth industry 
+An industry in which sales and earnings are consistently expanding at a faster rate than in most other industries. 
+
+
+#### growth stock 
+Common stock of a company with excellent prospects for above-average growth; a company which over a period of time seems destined for above-average expansion. 
+
+#### guaranteed amount 
+The minimum amount payable under death benefits or maturity guarantees provided for under the terms of the segregate fund contract. 
+
+#### guaranteed bonds 
+Bonds issued by a crown corporation but guaranteed by the applicable government as to interest and principal payments. 
+
+#### guaranteed income supplement (GIS)
+A pension payable to OAS recipients with no other or limited income. 
+
+#### guaranteed investment certificate (GIC)
+A deposit instrument most commonly available from trust companies,
+requiring a minimum investment at a predetermined rate of interest for a stated term. Generally nonredeemable prior to maturity but there can be exceptions. 
+
+### H 
+
+
+#### halt in trading 
+A temporary halt in the trading of a security to allow significant news to be reported and widely disseminated. Usually the result of a pending merger or a substantial change in dividends or earnings. 
+
+#### head-and-shoulders formation 
+A trend reversal pattern that can occur either at a market top, called a head-and-shoulders top formation, or at a market bottom, called an inverse head-and-shoulders or head-andshoulders bottom formation. The formation consists of a shoulder, a head, and a second shoulder and the breaking of a neckline. 
+
+#### hedge funds 
+Lightly regulated pools of capital in which the hedge fund manager invests a significant amount of his or her own capital into the fund and whose offering memorandum allows for the fund to execute aggressive strategies that are unavailable to mutual funds such as short selling. 
+
+#### hedging 
+A protective manoeuvre; a transaction intended to reduce the risk of loss from price fluctuations. 
+
+#### high frequency trading (HFT)
+A sub-set of algorithmic trading. High frequency trading is characterized by a very large number of orders for individual trades of very small size done at extremely high speed. 
+
+#### high-water mark 
+Used in the context of how a hedge fund manager is compensated. The high-water mark sets the bar above which the fund manager is paid a portion of the profits earned for the fund. 
+
+#### high-yield bond strategy 
+Investing, generally using little or no leverage, in high-yield debt securities (also known as junk bonds) of a company the manager feels may get a credit upgrade or is a potential takeover target. 
+
+#### holding period return 
+A transactional rate of return measure that takes into account all cash flows and increases or decreases in a security’s value for any time frame. Time frames can be greater or less than a year. 
+
+#### household account 
+A type of separately managed account that involves the coordination of holdings across a family or household. In this approach, one overall portfolio model is used to coordinate investment management within and across accounts for the family or the household. 
+
+#### hurdle rate 
+The rate that a hedge fund must earn before its manager is paid an incentive fee. 
+
+#### hypothecate 
+To pledge securities as collateral for a loan. Referred to as collateral assignment or hypotec in Québec for segregated funds. 
+
+### I 
+
+
+#### ICE NGX Canada 
+A natural gas exchange, headquartered in Calgary, Alberta that provides electronic trading, central counterparty clearing and data services to the North American natural gas and electricity markets. 
+
+#### incentive fee 
+A fee based on performance paid to the fund manager. Incentive fees are usually calculated after management fees and expenses are deducted, rather than on the gross return earned by the manager. 
+
+#### income splitting 
+A tax planning strategy whereby the higher-earning spouse transfers income to the lower-earning spouse to reduce taxable income. 
+
+#### income tax act (ITA)
+The legislation dictating the process and collection of federal tax in Canada,
+administered by Canada Revenue Agency. 
+
+#### income trusts 
+A type of investment trust that holds investments in the operating assets of a company. Income from these operating assets flows through to the trust, which in turn passes on the income to the trust unitholders. 
+
+
+
+#### index 
+A measure of the market as measured by a basket of securities. An example would be the S&P/TSX Composite Index or the S&P 500. Fund managers and investors use a stock index to measure the overall direction and performance of the market. 
+
+#### index fund 
+Sets out to match the performance of a broad market index, such as the S&P/TSX Composite Index or the FTSE Canada Universe Bond Index. Index funds are typically categorized under the type of asset class they tend to replicate. 
+
+#### index-linked notes 
+A hybrid investment product that combines the safety of a deposit instrument with some of the growth potential of an equity investment. They have grown in popularity, particularly among conservative investors who are concerned with safety of capital but want yields greater than the interest on standard interest bearing GICs or other term deposits. 
+
+#### indexing 
+A portfolio management style that involves buying and holding a portfolio of securities that matches, closely or exactly, the composition of a benchmark index. 
+
+#### individual variable insurance contract (IVIC)
+The term used in the IVIC Guidelines to describe a segregated fund contract. 
+
+#### inflation 
+A generalized, sustained trend of rising prices. 
+
+#### inflation rate 
+The rate of change in prices. See also Consumer Price Index. 
+
+#### inflation rate risk 
+The risk that the value of financial assets and the purchasing power of income will decline due to the impact of inflation on the real returns produced by those financial assets. 
+
+#### information circular 
+Document sent to shareholders with a proxy, providing details of matters to come before a shareholders’ meeting. 
+
+#### initial public offering (IPO)
+A new issue of securities offered to the public for investment for the very first time. IPOs must adhere to strict government regulations as to how the investments are sold to the public. 
+
+#### initial sales charge 
+A commission paid to the financial adviser at the time that the policy is purchased. This type of sales charge is also known as an acquisition fee or a front-end load. 
+
+#### in-kind exchange 
+The process where a basket of stocks is exchanged for ETF units, rather than for cash. 
+
+#### insider 
+All directors and senior officers of a corporation and those who may also be presumed to have access to nonpublic or inside information concerning the company; also anyone owning more than 10% of the voting shares in a corporation. Insiders are prohibited from trading on this information. 
+
+#### insider report 
+A report of all transactions in the shares of a company by those considered to be insiders of the company and submitted each month to securities commissions. 
+
+#### insider trading 
+Trading in a security by someone who has access to non-public material information. 
+
+#### instalment debentures 
+A bond or debenture issue in which a predetermined amount of principal matures each year. 
+
+#### instalment receipts 
+A new issue of stock sold with the obligation that buyers will pay the issue price in a specified series of instalment payments instead of one lump sum payment. Also known as Partially Paid Shares. 
+
+#### institutional client 
+A legal entity that represents the collective financial interests of a large group. A mutual fund, insurance company, pension fund and corporate treasury are just a few examples. 
+
+#### institutional firm 
+Investment dealer that serves institutional clients exclusively. 
+
+#### institutional investor 
+Organizations, such as pension and mutual fund companies, that trade in large-share quantities or dollar amounts. They typically have a steady flow of money to invest. 
+
+#### institutional salesperson 
+Their main role is to be a relationship manager, serving as the liaison between the institutional dealer and client. 
+
+#### institutional trader 
+Their main role is to execute orders on behalf of clients (as an agency trader)
+or on behalf of the dealer (as a liability trader). 
+
+#### insurable interest 
+A person is considered to have an insurable interest in the life or health of another person from whom they derive a financial or other kind of benefit from that person. 
+
+#### intangible asset 
+An asset having no physical substance (e.g., goodwill, patents, franchises,
+copyrights). 
+
+#### integrated firm 
+Investment dealer that offers products and services that cover all aspects of the industry, including full participation in both the institutional and the retail markets. 
+
+
+
+#### inter-dealer broker 
+A broker that acts as a financial intermediary between investment dealers to facilitate inter-dealer transactions. 
+
+#### interest 
+Money charged by a lender to a borrower for the use of his or her money. 
+
+#### interest coverage ratio 
+A debt ratio that tests the ability of a company to pay the interest charges on its debt and indicates how many times these charges are covered based upon earnings available to pay them. 
+
+#### interest rate 
+The proportion of the loan calculated as interest that is payable by the borrower. Also referred to as the cost of credit. 
+
+#### interest rate risk 
+The risk that changes in interest rates will adversely affect the value of an investor’s portfolio. For example, a portfolio with a large holding of longterm bonds is vulnerable to significant loss from changes in interest rates. 
+
+#### International Financial Reporting Standards (IFRS)
+A globally accepted high-quality accounting standard already used by public companies in over 100 countries around the world. 
+
+#### interval funds 
+A type of mutual fund that has the flexibility to buy back its outstanding shares periodically. Also known as closed-end discretionary funds. 
+
+#### in-the-money 
+A call option is in-the-money if its strike price is below the current market price of the underlying security. A put option is in-the-money if its strike price is above the current market price of the underlying security. The in-themoney amount is the option’s intrinsic value. 
+
+#### intrinsic value 
+That portion of a warrant or call option’s price that represents the amount by which the market price of a security exceeds the price at which the warrant or call option may be exercised (exercise price). Considered the theoretical value of a security (i.e.,
+what a security should be worth or priced at in the market). 
+
+#### inventory 
+The goods and supplies that a company keeps in stock. A statement of financial position item. inventory turnover ratio Cost of sales divided by inventory. The ratio may also be expressed as the number of days required to sell current inventory by dividing the ratio into 365. 
+
+#### inverse ETF 
+An ETF that seeks to replicate, net of expenses, the inverse performance of a reference index. 
+
+#### investment 
+The use of money to make more money, to gain income or increase capital or both. 
+
+#### investment advisor (IA)
+An individual licensed to transact in the full range of securities. IAs must be registered by the securities commission of the province in which he or she works. The term refers to employees of SRO member firms only. Also known as a Registrant or Registered Representative (RR). 
+
+#### investment banker 
+Responsible for building the dealer’s business with respect to corporate and public finance, and mergers and acquisition services. 
+
+#### investment boutique 
+A small retail or institutional investment dealer that specializes in a specific market segment such as stock trading, bond trading, unlisted stocks,
+arbitrage, portfolio management,
+targeted industry research,
+underwriting junior mines, oils and industrials, mutual fund distributions,
+or tax-shelter sales. 
+
+#### investment company 
+A company which uses its capital to invest in other companies. See also Investment Fund. 
+
+#### investment counsellor 
+A professional engaged to give investment advice on securities for a fee. 
+
+#### investment dealer 
+A person or company that engages in the business of trading in securities in the capacity of an agent or principal and is a member of IIROC. 
+
+#### investment fund 
+A fund or company that sells units or shares and invests the proceeds in a portfolio of securities. There are two principal types: closed-end and openend or mutual fund. Shares in closedend investment companies are readily transferable in the open market and are bought and sold like other shares. Capitalization is fixed. Open-end funds sell their own new shares to investors,
+buy back their old shares, and are not listed. Open-end funds are so-called because their capitalization is not fixed; they normally issue more shares or units as people want them. 
+
+#### Investment Industry Association of Canada (IIAC)
+A member-based professional association that represents the interests of market participants. Investment Industry Regulatory Organization of Canada (IIROC)
+The Canadian investment industry’s national self-regulatory organization. IIROC carries out its regulatory responsibilities through setting and enforcing rules regarding the proficiency, business and financial conduct of dealer firms and their registered employees and through setting and enforcing market integrity rules regarding trading activity on Canadian equity marketplaces. investment policy statement The agreement between a portfolio manager and a client that provides the guidelines for the manager. 
+
+
+#### investment representative 
+A person who is licensed to sell securities but is not permitted to give investment advice. investments in associates The ownership a company has in another company. As a general rule,
+significant influence is presumed to exist when a company owns 20% or more of the voting rights of the other company. 
+
+#### investor 
+One whose principal concern is the minimization of risk, in contrast to the speculator, who is prepared to accept calculated risk in the hope of making better-than-average profits, or the gambler, who is prepared to take even greater risks. 
+
+#### irrevocable beneficiary 
+A beneficiary whose entitlements under the segregated fund contract cannot be terminated or changed without his or her consent. 
+
+#### irrevocable designation 
+A contract where the beneficiary’s entitlements under the segregated fund contract cannot be terminated or changed without his or her consent. 
+
+#### issue 
+Any of a company’s securities; the act of distributing such securities. 
+
+#### issued shares 
+That part of authorized shares that have been sold by the corporation and held by the shareholders of the company. 
+
+### J 
+
+
+#### junior bond issue 
+A corporate bond issue, the collateral for which has been pledged as security for other more senior debt issues and is therefore subject to these prior claims. 
+
+#### junior debt 
+One or more junior bond issues. 
+
+### K 
+
+
+#### Know Your Client rule (KYC)
+The cardinal rule in making investment recommendations. All relevant information about a client must be known in order to ensure that the registrant’s recommendations are suitable. 
+
+#### kurtosis 
+Measures the tendency of a return distribution either to have values that collect around the average of all returns (lower kurtosis) or conversely,
+to have values that collect towards the tails of the distribution (higher kurtosis). 
+
+### L 
+
+
+#### labour force 
+The sum of the population aged 15 years and over who are either employed or unemployed. 
+
+#### labour-sponsored venture capital corporations (LSVCC)
+LSVCCs are investment funds,
+sponsored by labour organizations,
+that have a specific mandate to invest in small to medium-sized businesses. To encourage this mandate,
+governments offer generous tax credits to investors in LSVCCs. 
+
+#### lagging indicators 
+A selection of statistical data, that on average, indicate highs and lows in the business cycle behind the economy as a whole. These relate to business expenditures for new plant and equipment, consumers’ instalment credit, short-term business loans, the overall value of manufacturing and trade inventories. 
+
+#### Large Value Transfer System (LVTS)
+A Payments Canada electronic system for the transfer of large value payments between participating financial institution. 
+
+#### last price 
+The price at which the last trade on a stock occurred. See also Market Price. 
+
+#### leading indicators 
+A selection of statistical data that,
+on average, indicate highs and lows in the business cycle ahead of the economy as a whole. These relate to employment, capital investment,
+business starts and failures, profits,
+stock prices, inventory adjustment,
+housing starts and certain commodity prices. 
+
+#### LEAPS 
+Long Term Equity Anticipation Securities are long-term (2-3 year)
+option contracts. 
+
+#### leverage 
+The effect of fixed charges (i.e.,
+debt interest or preferred dividends,
+or both) on per-share earnings of common stock. Increases or decreases in income before fixed charges result in magnified percentage increases or decreases in earnings per common share. Leverage also refers to seeking magnified percentage returns on an investment by using borrowed funds,
+margin accounts or securities which require payment of only a fraction of the underlying security’s value (such as rights, warrants or options). 
+
+#### leveraged ETF 
+An ETF that delivers daily investment results that correspond to a multiple of the daily performance of a reference index. 
+
+#### liabilities 
+Debts or obligations of a company,
+usually divided into current liabilities—those due and payable within one year—and long-term liabilities—those payable after one year. A statement of financial position category. 
+
+#### liability traders 
+Have the responsibility to manage a dealer’s trading capital to encourage market flows and facilitate the client orders that go into the market,
+while aiming to lose as little of that capital as possible. Liability traders can be considered those who set the direction for agency traders. Whereas agency traders have formal client responsibilities, liability traders have lighter responsibilities or none at all. 
+
+
+#### life cycle hypothesis 
+A model used in financial planning that tries to link age with investing. The underlying theory is that an individual’s asset mix will change, as they grow older. However the life cycle is not a substitute for the “know your client rule”. 
+
+#### life expectancy-adjusted withdrawal plan 
+Withdrawals are designed to deplete the entire investment by the end of the plan, while providing as high an income as possible during the plan holder’s expected lifetime. The amount withdrawn on each date is based on periods that are continually readjusted to the changing life expectancy of the plan holder. Readjustments are based on mortality tables. 
+
+#### limit order 
+A client’s order to buy or sell securities at a specific price or better. The order will only be executed if the market reaches or betters that price. 
+
+#### limited liability 
+The word limited at the end of a Canadian company’s name implies that liability of the company’s shareholders is limited to the money they paid to buy the shares. By contrast, ownership by a sole proprietor or partnership carries unlimited personal legal responsibility for debts incurred by the business. 
+
+#### limited partnership 
+A type of partnership whereby a limited partner cannot participate in the daily business activity and liability is limited to the partner’s investment. 
+
+#### linked notes 
+A debt instrument that guarantees the invested capital and whose return is based on the return of an underlying investment like an index. 
+
+#### liquid bond 
+Bonds that trade in significant volumes and can be made quickly without a significant sacrifice on the price. 
+
+
+
+#### liquidity 
+1-- The ability of the market in a    particular security to absorb a    reasonable amount of buying or selling    at reasonable price changes. 2. A    corporation’s current assets relative to    its current liabilities; its cash position. 
+
+
+#### liquidity preference theory 
+A theory that tries to explain the shape of the yield curve. It postulates that investors want to invest for the shortterm because they are risk averse. Borrowers, however, want long-term money. In order to entice investors to invest long-term, borrowers must offer higher rates for longer-term money. This being the case, the yield curve should slope upwards reflecting the higher rates for longer borrowing periods. 
+
+#### liquidity ratios 
+Financial ratios that are used to judge the company’s ability to meet its short-term commitments. See Current Ratio. 
+
+#### liquidity risk 
+The risk that an investor will not be able to buy or sell a security quickly enough because buying or selling opportunities are limited. 
+
+#### listed stock 
+The stock of a company which is traded on a stock exchange. 
+
+#### listing agreement 
+A stock exchange document published when a company’s shares are accepted for listing. It provides basic information on the company, its business,
+management, assets, capitalization and financial status. 
+
+#### load 
+The portion of the offering price of shares of most open-end investment companies (mutual funds) which covers sales commissions and all other costs of distribution. 
+
+#### lock-up period 
+The time during which initial investments cannot be redeemed from a hedge fund. 
+
+#### london interbank offered rate (LIBOR)
+The rate of interest charged by large international banks dealing in Eurodollars to other large international banks. 
+
+#### long position 
+Signifies ownership of securities. “I am long 100 BCE common” means that the speaker owns 100 common shares of BCE Inc. 
+
+#### long/short equity strategy 
+Managers try to buy stocks they feel will rise more in a bull market than the overall market and sell short stocks that will rise less. In a down market,
+good short selections are expected to decline more than the market and good long selections will fall less. 
+
+#### Long-Term Equity Anticipation Security 
+Long-term (2-3 year) option contracts. Also known as LEAPS. 
+
+#### long-term bond 
+A bond with greater than 10 years remaining to maturity. 
+
+#### low load 
+Similar to a back-end load, but with a shorter fee schedule such as three years 
+
+### M 
+
+
+#### macroeconomics 
+Macroeconomics focuses on the performance of the economy as a whole. It looks at the broader picture and to the challenges facing society as a result of the limited amounts of natural resources, human effort and skills, and technology. 
+
+#### major trend 
+Underlying price trend prevailing in a market despite temporary declines or rallies. 
+
+
+
+#### managed account 
+An account whereby a licensed portfolio manager has the discretion to decide and execute suitable investment decisions on behalf of clients. 
+
+#### managed product 
+A pool of capital gathered to buy securities according to a specific investment mandate. The pool seeds a fund managed by an investment professional that is paid a management fee to carry out the mandate. 
+
+#### management expense ratio 
+The total expense of operating a mutual fund expressed as a percentage of the fund’s net asset value. It includes the management fee as well as other expenses charged directly to the fund such as administrative, audit, legal fees etc.,
+but excludes brokerage fees. Published rates of return are calculated after the management expense ratio has been deducted. 
+
+#### management fee 
+The fee that the manager of a mutual fund or a segregated fund charges the fund for managing the portfolio and operating the fund. The fee is usually set as fixed percentage of the fund’s net asset value. 
+
+#### managers’ discussion and analysis (MD&A)
+A document that requires management of an issuer to discuss the dynamics of its business and to analyze its financial statements with the focus being on information about the issuer’s financial condition and operations with emphasis on liquidity and capital resources. 
+
+#### margin 
+The amount of money paid by a client when he or she uses credit to buy a security. It is the difference between the market value of a security and the amount loaned by an investment dealer. 
+
+#### margin account 
+Account used to buy or sell securities on partial credit. In such cases, the client pays only a portion of the purchase price and the investment dealer lends the balance to the client. Short sales can only take place in a margin account. 
+
+#### Margin Account Agreement Form 
+A contract that must be completed and signed by a client and approved by the firm in order to open a margin account. This sets out the terms and conditions of the account. 
+
+#### margin call 
+When an investor purchases an account on margin in the expectation that the share value will rise, or shorts a security on the expectation that share price will decline, and share prices go against the investor,
+the brokerage firm will send out a margin call requiring that the investor add additional funds or marketable securities to the account to protect the broker’s loan. 
+
+#### marginal tax rate 
+The tax rate that would have to be paid on any additional dollars of taxable income earned 
+
+#### market 
+Any arrangement whereby products and services are bought and sold, either directly or through intermediaries. 
+
+#### market economy 
+An economic system where the decisions regarding investment,
+production, and distribution of goods and services are guided by the price signals created by the forces of supply and demand. 
+
+#### MarketAxess 
+Provides market data and a trading platform with access to multi-dealer competitive pricing for a wider range of corporate bonds and other types of fixed-income instruments. MarketAxess is a member of IIROC. 
+
+#### market capitalization 
+The dollar value of a company based on the market price of its issued and outstanding common shares. It is calculated by multiplying the number of outstanding shares by the current market price of a share. 
+
+#### market-linked guaranteed 
+investment certificate Market-linked GICs combine the guarantee of the principal invested with some of the growth potential of an underlying market in the form of a stock index, mutual fund or ETF. 
+
+#### market maker 
+A trader employed by a securities firm who is authorized and required,
+by applicable self-regulatory organizations (SROs), to maintain reasonable liquidity in securities markets by making firm bids or offers for one or more designated securities. 
+
+#### market order 
+An order placed to buy or sell a security immediately at the best current price. 
+
+#### market price 
+The price at which the last trade on a stock occurred. See also Last Price. 
+
+#### market risk 
+The non-controllable or systematic risk associated with equities. 
+
+#### market segmentation theory 
+A theory on the structure of the yield curve. It is believed that large institutions shape the yield curve. The banks prefer to borrow short term while the insurance industry, with a longer horizon, prefers long-term money. The supply and demand of the large institutions shapes the curve. 
+
+#### marketability 
+A measure of the ability to buy and sell a security. A security has good marketability if there is an active secondary market in which it can be easily bought and sold at a fair price. 
+
+
+
+#### marketable bonds 
+Bonds for which there is a ready market (i.e., clients will buy them because the prices and features are attractive). 
+
+#### marking to market 
+The process in the futures market in which the daily price changes are paid by the parties incurring losses to the parties earning profits. 
+
+#### married put or a put hedge 
+The purchase of an underlying asset and the purchase of a put option on that underlying asset. 
+
+#### material change 
+A change in the affairs of a company that is expected to have a significant effect on the market value of its securities. 
+
+#### material fact 
+A fact that would be expected to have an effect on the market value of its securities if the fact was expressed. 
+
+#### mature industry 
+An industry that experiences slower,
+more stable growth rates in profit and revenue than growth or emerging industries, for example. 
+
+#### maturity 
+The date on which a loan or a bond or debenture comes due and is to be paid off. 
+
+#### maturity date 
+The date at which the contract expires,
+and the time at which any maturity guarantees are based. Segregated fund contracts normally mature in 10
+years, although companies are allowed to set longer periods. Maturities of less than 10 years are permitted only for funds such as protected mutual funds,
+which are regulated as securities and are not segregated funds. 
+
+#### maturity guarantee 
+The minimum dollar value of the contract after the guarantee period,
+usually 10 years. This amount is also known as the annuity benefit. 
+
+#### maximum drawdown 
+The largest drawdown during a specific period. 
+
+#### medium-term bond 
+A bond with 5 to 10 years remaining to maturity. 
+
+#### merger strategy 
+Investing simultaneously in long and short positions of the common stock of companies involved in a proposed merger or acquisition, usually involving taking a long position in the company being acquired and a short position in the acquiring company. Also known as risk arbitrage strategy. 
+
+#### microeconomics 
+Analyzes the market behaviour of individual consumers and firms, how prices are determined, and how prices determine the production, distribution,
+and use of goods and services. 
+
+#### minimum investment exemption 
+An investor exemption from receiving a prospectus based on a prescribed minimum investment. NI 45-106
+sets the minimum across Canada at $150,000. 
+
+#### Modified Dietz method 
+This method of fund valuation reduces the extensive calculations of the daily valuation method by providing a good approximation. It assumes a constant rate of return through the period,
+eliminating the need to value the portfolio on the date of each cash flow. The Modified Dietz method weights each cash flow by the length of time it is held in the portfolio. 
+
+#### monetarists 
+School of economic theory which states that the level of prices as well as economic output is determined by an economy’s money supply. This school of thought believes that control of the money supply is more vital to economic prosperity than the level of government spending, for example. See also Keynesian Policy. 
+
+#### monetary aggregates 
+An aggregate that measures the quantity of money held by a country’s households, firms and governments. It includes various forms of money or payment instruments grouped according to their degree of liquidity,
+such as M1, M2 or M3. 
+
+#### monetary policy 
+Economic policy designed to improve the performance of the economy by regulating money supply and credit. The Bank of Canada achieves this through its influence over short-term interest rates. 
+
+#### money market 
+That part of the capital market in which short-term financial obligations are bought and sold. These include treasury bills and other federal government securities, and commercial paper, and bankers’
+acceptances and other instruments with one year or less left to maturity. Longer term securities, when their term shortens to the limits mentioned,
+are also traded in the money market. 
+
+#### money purchase plan (MPP)
+A type of Registered Pension Plan where the amount contributed is known but the dollar amount of the pension to be received is unknown. Also called a defined contribution plan.. 
+
+#### Montréal Exchange (ME)
+See Bourse de Montréal. 
+
+#### mortgage 
+A contract specifying that certain property is pledged as security for a loan. 
+
+
+#### mortgage-backed securities 
+Bonds that claim ownership to a portion of the cash flows from a group or pool of mortgages. They are also known as mortgage pass-through securities. A servicing intermediary collects the monthly payments from the issuers and, after deducting a fee,
+passes them through (i.e., remits them)
+to the holders of the security. The MBS provides liquidity in an otherwise illiquid market. Every month, holders receive a proportional share of the interest and principal payments associated with those mortgages. 
+
+#### mortgage bond 
+A bond issue secured by a mortgage on the issuer’s property. mortgage pass-through securities See Mortgage-Backed Securities. 
+
+#### moving average 
+The average of security or commodity prices calculated by adding the closing prices for the underlying security over a pre-determined period and dividing the total by the time period selected. 
+
+#### multi-disciplinary accounts 
+Fee-based accounts that are an evolution of separately managed accounts. With multi-disciplinary accounts, separate models are combined into one overall portfolio model in a single account. 
+
+#### multi-manager accounts 
+A type of fee-based account that offers clients and their advisors more choice in terms of product and services. Often, clients are aligned with two or more portfolio models and each portfolio model is a component of the client’s greater diversified holdings. 
+
+#### multiple 
+A colloquial term for the priceto-
+earnings ratio of a company’s common shares. 
+
+#### mutual fund 
+An investment fund operated by a company that uses the proceeds from shares and units sold to investors to invest in stocks, bonds, derivatives and other financial securities. Mutual funds offer investors the advantages of diversification and professional management and are sold on a load or no load basis. Mutual fund shares/
+units are redeemable on demand at the fund’s current net asset value per share (NAVPS). 
+
+#### Mutual Fund Dealers Association (MFDA)
+The Self-Regulatory Organization (SRO) that regulates the distribution (dealer) side of the mutual fund industry in Canada. 
+
+#### Mutual Fund Dealers Association 
+Investor Protection Corporation Provides protection for eligible customers of insolvent MFDA member firms. 
+
+#### mutual fund wraps 
+Are established with a selection of individual funds managed within a client’s account. Mutual fund wraps differ from funds of funds. The client holds the actual funds within their account, as opposed to a fund that simply invests in other funds. In most cases, a separate account is established for the client and the selected funds are held inside that dedicated account. 
+
+### N 
+
+
+#### naked call 
+A seller of a call option contract who does not own an offsetting position in the underlying security or a suitable alternative. 
+
+#### naked writer 
+A seller of an option contract who does not own an offsetting position in the underlying security or a suitable alternative. 
+
+#### NASDAQ 
+An acronym for the National Association of Securities Dealers Automated Quotation System. NASDAQ is a computerized system that provides brokers and dealers with price quotations for securities traded OTC. 
+
+#### national debt 
+The accumulation of total government borrowing over time .It is the sum of past deficits minus the sum of past surpluses. 
+
+#### national policies 
+The Canadian Securities Administrators have developed a number of policies that are applicable across Canada. These coordinated efforts by the CSA are an attempt to create a national securities regulatory framework. Copies of policies are available from each provincial regulator. 
+
+#### National Do Not Call List (DNCL)
+The Canadian Radio-television and Telecommunications Commission (CRTC) has established Rules that telemarketers and organizations that hire telemarketers must follow. The DNCL Rules prohibit telemarketers and clients of telemarketers from calling telephone numbers that have been registered on the DNCL for more than 31 days. 
+
+#### National Instrument 81-101
+This legislation deals with mutual fund prospectus and Fund Facts disclosure. National Instrument 81-102
+This legislation, and its companion policy, contain requirements and guidelines for the distribution and advertising of mutual funds. 
+
+#### National Registration Database (NRD)
+A web-based system that permits mutual fund salespersons and investment advisors to file applications for registration electronically. 
+
+
+#### natural unemployment rate 
+Also called the full employment unemployment rate. At this level of unemployment, the economy is thought to be operating at close to its full potential or capacity. 
+
+#### neckline 
+The line joining the two recovery points in a head-and-shoulders formation. The breaking of a neckline,
+either a downside break-out or upside break-out, accompanied by increased volume may be considered confirmation of a change in trend. 
+
+#### negative pledge provision 
+A protective provision written into the trust indenture of a company’s debenture issue providing that no subsequent mortgage bond issue may be secured by all or part of the company’s assets, unless at the same time the company’s debentures are similarly secured. 
+
+#### negotiable bond 
+A bond certificate that is transferable by delivery and which, in the case of a registered certificate, has been duly endorsed and guaranteed. 
+
+#### negotiated offer 
+A term describing a particular type of financing in which the investment dealer negotiates with the corporation on the issuance of securities. The details would include the type of security to be issued, the price, coupon or dividend rate, special features and protective provisions. 
+
+#### NEO Exchange 
+An exchange that provides listing services and facilitates trading in securities listed on the NEO Exchange,
+TSX, and the TSX Venture Exchange. 
+
+#### net asset value 
+For a mutual fund, net asset value represents the market value of the fund’s share and is calculated as total assets of a corporation less its liabilities. Net asset value is typically calculated at the close of each trading day. Also referred to as the book value of a company’s different classes of securities. 
+
+#### net asset value per share 
+For a mutual fund, net asset value per share represents the market value of the fund’s share per unit and is calculated as total assets of a corporation less its liabilities, then divided by the total units outstanding. 
+
+#### net change 
+The change in the price of a security from the closing price on one day to the closing price on the following trading day. In the case of a stock which is entitled to a dividend one day, but is traded ex-dividend the next, the dividend is not considered in computing the change. The same applies to stock splits. A stock selling at $100 the day before a two-for-one split and trading the next day at $50
+would be considered unchanged. The net change is ordinarily the last figure in a stock price list. The mark +1.10
+means up $1.10 a share from the last sale on the previous day the stock traded. 
+
+#### net current assets 
+See working capital 
+
+#### net profit margin 
+A profitability ratio that indicates how efficiently the company is managed after taking into account both expenses and taxes. 
+
+#### New Account Application Form (NAAF)
+A form that is filled out by the client and the IA at the opening of an account. It gives relevant information to make suitable investment recommendations. The NAAF must be completed and approved before any trades are put through on an account. 
+
+#### new issue 
+An offering of stocks or bonds sold by a company for the first time. Proceeds may be used to retire outstanding securities of the company, to purchase fixed assets or for additional working capital. New debt issues are also offered by government bodies. 
+
+#### New York Stock Exchange (NYSE)
+Oldest and largest stock exchange in North America with more than 1,600
+companies listed on the exchange. 
+
+#### NEX 
+A new and separate board of the TSX Venture Exchange that provides a trading forum for companies that have fallen below the Venture Exchange’s listing standards. Companies that have low levels of business activity or who do not carry on active business will trade on the NEX board, while companies that are actively carrying on business will remain with the main TSX Venture Exchange stock list. 
+
+#### Nodal Exchange 
+A derivatives exchange that provides contracts to participants in the North American energy markets. 
+
+#### no-load fund 
+A fund that does not charge a fee to purchase or redeem units. 
+
+#### no par value (n.p.v.)
+Indicates a common stock has no stated face value. 
+
+#### nominal gross domestic product 
+Gross domestic product based on prices prevailing in the same year not corrected for inflation. Also referred to as current dollar or chained dollar GDP. 
+
+#### nominal interest rate 
+The quoted or stated rate on an investment or a loan. This rate allows for comparisons but does not take into account the effects of inflation. 
+
+#### nominal rate 
+The quoted or stated rate. 
+
+#### nominee 
+A person or firm (bank, investment dealer, CDS) in whose name securities are registered. The shareholder,
+however, retains the true ownership of the securities. 
+
+#### non-callable preferred 
+Preferred shares with a feature that prevents the shares from being redeemed by the issuer. 
+
+
+#### non-client and professional orders 
+A type of order for the account of partners, directors, officers, major shareholders, IAs and employees of member firms that must be marked “PRO” , “N-C” or “Emp”, in order to ensure that client orders are given priority for the same securities. 
+
+#### non-competitive tender 
+A method of distribution used in particular by the Bank of Canada for Government of Canada marketable bonds. Primary distributors are allowed to request bonds at the average price of the accepted competitive tenders. There is no guarantee as to the amount, if any,
+received in response to this request. 
+
+
+
+#### non-controlling interest 
+1 -- The equity of the shareholders    who do not hold controlling interest    in a controlled company; 2. In    consolidated financial statements    (i) the item in the statement of    financial position of the parent    company representing that portion of    the assets of a consolidated subsidiary    considered as accruing to the shares    of the subsidiary not owned by the    parent; and (ii) the item deducted in    the statement of comprehensive    income of the parent and representing    that portion of the subsidiary’s    earnings considered as accruing to the    subsidiary’s shares not owned by the    parent. 
+
+
+#### non-cumulative 
+A preferred dividend that does not accrue or accumulate if unpaid. 
+
+#### non-current asset 
+Assets which in the normal course of business would not be converted into cash. Noncurrent assets include property, plant, and equipment. 
+
+#### non-current liability 
+Money owed but not due to be paid within a year. Noncurrent liabilities include long-term debt and deferred tax. 
+
+#### non-systematic risk 
+Also known as specific risk. Nonsystematic risk is the risk that the price of a specific security or a specific group of securities will change in price to a different degree or in a different direction from the market as a whole. 
+
+#### notional units 
+A unit that exists in theory and is representative of something else. 
+### O 
+
+
+#### odd lot 
+A number of shares which is less than a standard trading unit. Usually refers to a securities trade for less than 100
+shares, sometimes called a broken lot. Trading in less than 100 shares typically incurs a higher per share commission. 
+
+#### of record 
+On the company’s books or records. If, for example, a company announces that it will pay a dividend on January 15 to shareholders of record, every shareholder whose name appears on the company’s books on that date will be sent a dividend cheque from the company. 
+
+#### offer 
+The lowest price at which a person is willing to sell; as opposed to bid which is the highest price at which one is willing to buy. 
+
+#### offering memorandum 
+This document is prepared by the dealer involved in a new issue outlining some of the salient features of the new issue, but not the price or other issuespecific details. It is used as a premarketing tool in assessing the market for the issue as well as for obtaining expressions of interest. 
+
+#### offering memorandum exemption 
+The offering memorandum exemption waives the requirement for a fund to be distributed with a prospectus. 
+
+#### offering price 
+The price that an investor pays to purchase shares in a mutual fund. The offering price includes the charge or load that is levied when the purchase is made. 
+
+#### offsetting transaction 
+A futures or option transaction that is the exact opposite of a previously established long or short position. 
+
+#### Office of the Superintendent of Financial Institutions (OSFI)
+The federal regulatory agency whose main responsibilities regarding insurance companies and segregated funds are to ensure that the companies issuing the funds are financially solvent. 
+
+#### officers 
+Corporate employees responsible for the day-to-day operation of the business. 
+
+#### old age security (OAS)
+A government pension plan payable at age 65 to all Canadian citizens and legal residents. 
+
+#### Ombudsman for Banking Services and Investments (OBSI)
+An independent organization that investigates customer complaints against financial services providers. 
+
+#### on-stop buy order 
+Also known as a stop buy order, it is the opposite of an on-stop sell order – that is, an order to buy a stock at or above a certain price. On-stop buy orders are used to protect a short position when the stock’s price is rising, or to ensure that a stock is purchased while its price is rising. 
+
+#### on-stop orders 
+Orders that are used to buy or sell after a stock has reached a certain price. See on-stop buy orders, onstop sell orders, stop buy orders,
+stop loss orders. 
+
+
+#### on-stop sell order 
+Also known as a stop loss order, it is an order that is specifically used in connection with a sell order where the limit price is below the existing market price. The order is triggered when the stock drops to the specified level. The purpose is to reduce the amount of loss that might be incurred or to protect at least part of a paper profit when a stock’s price declines... 
+
+#### origination 
+The process of bringing new debt issues to market. 
+
+#### open-end fund 
+See Mutual Fund. 
+
+#### pen-end trust 
+The most common structure for a mutual fund. An unincorporated openend trust structure allows the trust to avoid taxation by flowing capital gains and income, net of fees and expenses,
+to unit holders. 
+
+#### open interest 
+The total number of outstanding option contracts for a particular option series. An opening transaction would increase open interest, while a closing transaction would decrease open interest. It is used as one measure of an option class’s liquidity. 
+
+#### open market operations 
+Method through which the Bank of Canada influences interest rates by trading securities with participants in the money market. 
+
+#### opening transaction 
+An option transaction that is considered the initial or primary transaction. An opening transaction creates new rights for the buyer of an option, or new obligations for a seller. See also Closing Transaction. 
+
+#### operating band 
+The Bank of Canada’s 50-basis-point range for the overnight lending rate. The top of the band, the Bank Rate, is the rate charged by the Bank on LVTS advances to financial institutions. The bottom of the band is the rate paid by the Bank on any LVTS balances held overnight by those institutions. The middle of the operating band is the target for the overnight rate. 
+
+#### operating income 
+The income that a company records from its main ongoing operations. 
+
+#### operating performance ratios 
+A type of ratio that illustrates how well management is making use of company resources. 
+
+#### operational risk 
+The significant risk of potential system failures, as well as faulty settlement,
+reporting, and accounting procedures,
+that can be part of the small newly created businesses that typify alternative strategy funds. 
+
+#### option 
+A right to buy or sell specific securities or properties at a specified price within a specified time. See Put Options and Call Options. 
+
+#### option premium 
+The amount paid to enter into an option contract, paid by the buyer to the seller or writer of the contract. 
+
+#### option writer 
+The seller of the option who may be obligated to buy (put writer) or sell (call writer) the underlying interest if assigned by the option buyer. 
+
+#### order flow 
+The total amount of equity trades shown to a dealer’s traders by its institutional clients. 
+
+#### oscillator 
+A technical analysis indicator used when a stock’s chart is not showing a definite trend in either direction. When the oscillator reading reaches an extreme value in either the upper or lower band, this suggest that the current price move has gone too far. This may indicate that the price move is overextended and vulnerable. 
+
+#### out-of-the-money 
+A call option is out-of-the-money if the market price of the underlying security is below its strike price. A put option is out-of-the-money if the market price of the underlying security is above the strike price. 
+
+#### output gap 
+The difference between the actual level of output and the potential level of output when the economy is using all available resources of capital and labour. 
+
+#### outstanding shares 
+That part of issued shares which remains outstanding in the hands of investors. 
+
+#### over-allotment option 
+An activity used to stabilize the aftermarket price of a recently issued security. If the price increases above the offer price, dealers can cover their short position by exercising an overallotment option (also referred to as a greenshoe option) by either increasing demand in the case of covering a short position or increasing supply in the case of over-allotment option exercise. 
+
+#### overcontribution 
+An amount made in excess to the annual limit made to an RRSP. An overcontribution in excess of$2,000 is penalized at a rate of 1% per month. 
+
+#### overlay manager 
+The overlay manager works with advisors in servicing clients. This is not a referral but a partnership, in which the advisor retains the client’s assets. The service incorporates the existing trusted relationship of the advisor, whom the client has become comfortable dealing with. 
+
+
+
+#### over-the-counter (OTC)
+A market for securities made up of securities dealers who may or may not be members of a recognized stock exchange. Over-the-counter is mainly a market conducted over the telephone. Also called the unlisted,
+inter-dealer or street market. NASDAQ is an example of an over-the- counter market. 
+
+#### overnight rate 
+The interest rate set in the overnight market. 
+
+#### overnight repo 
+A transaction where the Bank of Canada offers to purchase securities from financial institutions with an agreement to sell them back the next business day at a predetermined price. Also known as a special purchase and resale agreement or SRA. 
+
+#### overnight reverse repo 
+A transaction where the Bank of Canada offers to sell securities to financial institutions with an agreement to buy them back the next business day at a predetermined price. Also known as a sale and repurchase agreement or SRA. 
+### P 
+
+
+#### paper profit 
+An unrealized profit on a security still held. Paper profits become realized profits only when the security is sold. A paper loss is the opposite to this. 
+
+#### par value 
+The stated face value of a bond or stock (as assigned by the company’s charter) expressed as a dollar amount per share. Par value of a common stock usually has little relationship to the current market value and so no par value stock is now more common. Par value of a preferred stock is significant as it indicates the dollar amount of assets each preferred share would be entitled to should the company be liquidated. 
+
+#### pari passu 
+A legal term meaning that all securities within a series have equal rank or claim on earnings and assets. Usually refers to equally ranking issues of a company’s preferred shares. 
+
+#### participating preferred 
+Preferred shares which, in addition to their fixed rate of prior dividend,
+share with the common in further dividend distributions and in capital distributions above their par value in liquidation. 
+
+#### participation rate 
+The share of the working-age population (15 and older) that is in the labour market, either working or looking for work. Also, the limit on the return paid by an issuer to an investor is known as the participation rate. 
+
+#### partnership 
+A form of business organization that involves two or more people contributing to the business and legislated under the federal Partnership Act. 
+
+#### passive investment strategy 
+The investor or manager employing a passive investment strategy would attempt to replicate the performance of a specific market index without trying to beat it. 
+
+#### passive management 
+Managers of passively managed funds do not make security selections;
+they assume only the systematic risk associated with investing in a particular asset class. The most common type of passively managed fund is one that attempts to replicate the returns of a market index. 
+
+#### past service pension adjustment (PSPA)
+An employer may increase a member’s pension by the granting of additional past service benefits to an employee in a defined benefit plan. Plan members who incur a PSPA will have their RRSP contribution room reduced by the amount of this adjustment. 
+
+#### Payments Canada 
+Established in the 1980 revision of the Bank Act, this association operates a highly automated national clearing system for interbank payments. Members include chartered banks,
+trust and loan companies and some credit unions and caisses. 
+
+#### peer group 
+A group of managed products (particularly mutual funds) with a similar investment mandate. 
+
+#### pension adjustment (PA)
+The amount of contributions made or the value of benefits accrued to a member of an employer-sponsored retirement plan for a calendar year. The PA enables the individual to determine the amount that may be contributed to an RRSP that would be in addition to contributions into a Registered Pension Plan. 
+
+#### pension fund 
+A pension fund is a pool of assets managed with the goal of supplying its beneficiaries with income during their retirement years. 
+
+#### percentage change 
+The degree of change over time based on a comparison between the beginning value and ending value. 
+
+#### performance bonds 
+What is often required upon entry into a futures contract giving the parties to a contract a higher level of assurance that the terms of the contract will eventually be honoured. The performance bond is often referred to as margin. 
+
+#### Phillips Curve 
+A graph showing the relationship between inflation and unemployment. The theory states that unemployment can be reduced in the short run by increasing the price level (inflation)
+at a faster rate. Conversely, inflation can be lowered at the cost of possibly increased unemployment and slower economic growth. 
+
+
+
+#### physical-based ETF 
+An ETF that invests in the commodity directly. They are limited to only a few storable, non-perishable commodities,
+such as gold and silver. 
+
+#### point 
+In the case of a stock market index,
+a point refers to a single unit and is typically equivalent to $1. In the case of bonds and debentures, it means 1% of the issue’s par value, which is almost universally 100. On a $1,000
+bond, one point represents 1% of the face value of the bond or $10. 
+
+#### point change 
+In the case of a stock market index,
+a point change refers to the number of units of change in the index. For example, if the DJIA changes from 10,000 to 10,100, this would be referred to as a 100 point change. 
+
+#### political risk 
+The risk associated with a government introducing unfavourable policies making investment in the country less attractive. Political risk also refers to the general instability associated with investing in a particular country. 
+
+#### pooled account 
+A type of managed product structure whereby by investors’ funds are gathered into a legal structure,
+usually a trust or corporation. An investor’s claim to the pool’s returns is proportional to the number of shares or units the investor owns. The pools are often open-ended, which means units are issued when there are net cash inflows to the fund, or units are redeemed when there are net cash outflows. 
+
+#### pooled registered pension plan 
+A type of retirement savings plan offered by the federal government. The plan is designed to address the gap in employer pension plan coverage by providing Canadians with an accessible, large-scale, low-cost pension plan. 
+
+#### portfolio 
+Holdings of securities by an individual or institution. A portfolio may contain debt securities, preferred and common stocks of various types of enterprises and other types of securities. 
+
+#### potential output 
+The maximum amount of output the economy is capable of producing during a given period when all of its available resources are employed to their most efficient use. 
+
+#### pre-authorized contribution plan 
+A pre-authorized plan to make regular purchases in small amounts. 
+
+#### preferred dividend coverage ratio 
+A type of profitability ratio that measures the amount of money a firm has available to pay dividends to their preferred shareholders. 
+
+#### preferred shares 
+A class of share capital that entitles the owners to a fixed dividend ahead of the company’s common shares and to a stated dollar value per share in the event of liquidation. Usually do not have voting rights unless a stated number of dividends have been omitted. Also referred to as preference shares. 
+
+#### preliminary prospectus 
+The initial document released by an underwriter of a new securities issue to prospective investors. 
+
+#### premium 
+The amount by which a preferred stock or debt security may sell above its par value. In the case of a new issue of bonds or stocks, the amount the market price rises over the original selling price. Also refers to that part of the redemption price of a bond or preferred share in excess of face value,
+par value or market price. In the case of options, the price paid by the buyer of an option contract to the seller. 
+
+#### prepaid expenses 
+Payments made by the company for services to be received in the near future. For example, rents, insurance premiums and taxes are sometimes paid in advance. A statement of financial position item. 
+
+#### prepayment risk 
+The risk that the issuer of a bond might prepay or redeem early some or all principal outstanding on the loan or mortgage. 
+
+#### prescribed number of units 
+Increments of shares, typically consisting of 10,000, 25,000 or 50,000 shares, set by the respective ETF company, are called the prescribed number of units. 
+
+#### prescribed rate 
+A quarterly interest rate set out, or prescribed by Canada Revenue Agency under attribution rules. The rate is based on the Bank of Canada rate. 
+
+#### present value 
+The current worth of a sum of money that will be received sometime in the future. 
+
+#### price-to-earnings ratio or P/E ratio 
+A value ratio that gives investors an idea of how much they are paying for a company’s earnings. Calculated as the current price of the stock divided current earnings per share. 
+
+#### price spread 
+The difference between the bid and ask price. Also known as the dealer’s spread. 
+
+#### primary dealer 
+A government securities distributor that maintains a certain threshold of activity. 
+
+#### primary market 
+The market for new issues of securities. The proceeds of the sale of securities in a primary market go directly to the company issuing the securities. See also Secondary Market. 
+
+
+
+#### primary market distribution 
+The issuance of securities in the primary market. 
+
+#### primary offering 
+The original sale of any issue of a company’s securities. 
+
+#### prime brokerage 
+A bundling of equity trading-related services used primarily by hedge funds. 
+
+#### prime rate 
+The interest rate chartered banks charge to their most credit-worthy borrowers. 
+
+#### principal 
+The person for whom a broker executes an order, or a dealer buying or selling for its own account. The term may also refer to a person’s capital or to the face amount of a bond. 
+
+#### principal-protected note 
+A debt-like instrument with a maturity date whereby the issuer agrees to repay investors the amount originally invested (the principal) plus interest. The interest rate is tied to the performance of an underlying asset,
+such as a portfolio of mutual funds or common stocks, a market index,
+a hedge fund or a portfolio of hedge funds. PPNs guarantee only the return of the principal. 
+
+#### private corporation 
+Companies that have charters that restrict the right of shareholders to transfer shares, limit the number of shareholders to no more than 50, and prohibit shareholders from inviting the public to subscribe for their securities. 
+
+#### private equity 
+The financing of firms unwilling or unable to find capital using public means—for example, via the stock or bond markets. 
+
+#### private family office 
+An extension of the advisor’s client servicing approach. In this approach,
+instead of having only one advisor, a team of professionals handles all of an affluent client’s financial affairs within one central location. 
+
+#### private placement 
+The underwriting of a security and its sale to a few buyers, usually institutional, in large amounts. 
+
+#### pro rata 
+In proportion to. For example, a dividend is a pro rata payment because the amount of dividend each shareholder receives is in proportion to the number of shares he or she owns. 
+
+#### probate 
+A provincial fee charged for authenticating a will. The fee charged is usually based on the value of the assets in an estate rather than the effort to process the will. 
+
+#### product transparency 
+The level of ongoing information regarding investment products,
+evaluated on level of details provided,
+frequency of communication and time between fund reporting date and date of communication to investors. 
+
+#### productivity 
+The amount of output per worker used as a measure of efficiency with which people and capital are combined in the output of the economy. Productivity gains lead to improvements in the standard of living, because as labour,
+capital, etc. produce more, they generate greater income. 
+
+#### professional (PRO) order 
+A type of order for the account of partners, directors, officers, major shareholders, IAs and employees of member firms that must be marked “PRO”, “N-C” or “Emp”, in order to ensure that client orders are given priority for the same securities. 
+
+#### profit 
+That part of a company’s revenue remaining after all expenses and taxes have been paid and out of which dividends may be paid. 
+
+#### profitability ratios 
+Financial ratios that illustrate how well management has made use of the company’s resources. 
+
+#### program trading 
+A sophisticated computerized trading strategy whereby a portfolio manager attempts to earn a profit from the price spreads between a portfolio of equities similar or identical to those underlying a designated stock index, e.g., the Standard & Poor 500 Index, and the price at which futures contracts (or their options)
+on the index trade in financial futures markets. Also refers to switching or trading blocks of securities in order to change the asset mix of a portfolio. 
+
+#### proprietary trader 
+Proprietary traders have the responsibility to manage the dealer’s trading capital to encourage market flows and facilitate the client orders that go into the market. Also known as a liability trader. 
+
+#### prospectus 
+A legal document that describes securities being offered for sale to the public. Must be prepared in conformity with requirements of applicable securities commissions. See also Red Herring and Final Prospectus. 
+
+#### protective provision 
+Covenant clauses that secure the bond. 
+
+#### proxy 
+Written authorization given by a shareholder to someone else, who need not be a shareholder, to represent him or her and vote his or her shares at a shareholders’ meeting. 
+
+#### prudent portfolio approach 
+An investment standard. In some provinces, the law requires that a fiduciary, such as a trustee, may invest funds only in a list of securities designated by the province or the federal government. In other provinces,
+the trustee may invest in a security if it is one that an ordinary prudent person would buy if he were investing for the benefit of other people for whom he felt morally bound to provide. Most provinces apply the two standards. 
+
+#### public corporation 
+A company whose shares are listed on a stock exchange or traded over the counter. 
+
+
+
+#### public float 
+That part of the issued shares that are outstanding and available for trading by the public, and not held by company officers, directors, or investors who hold a controlling interest in the company. A company’s public float is different from its outstanding shares as it also excludes those shares owned in large blocks by institutions. 
+
+#### purchase fund 
+A fund set up by a company to retire through purchases in the market a specified amount of its outstanding preferred shares or debt if purchases can be made at or below a stipulated price. See also Sinking Fund. 
+
+#### put option 
+A right to sell the stock at a stated price within a given time period. Those who think a stock may go down generally purchase puts. See also Call Option. 
+
+### Q 
+
+
+#### qualifying transaction 
+A transaction to purchase a business that allows a capital pool company to qualify for listing on the TSX Venture Exchange. 
+
+#### quantitative analysis 
+A form of technical analysis that relies on statistics to construct indicators and has thus been greatly enhanced by computer technology. 
+
+#### quick ratio 
+A more stringent measure of liquidity compared with the current ratio. Calculated as current assets less inventory divided by current liabilities. By excluding inventory, the ratio focuses on the company’s more liquid assets. 
+
+#### quotation or quote 
+The highest bid to buy and the lowest offer to sell a security at a given time. Example: A quote of 45.40–45.50
+means that 45.40 is the highest price a buyer will pay and 45.50 the lowest price a seller will accept. 
+### R 
+
+
+#### rally 
+A brisk rise in the general price level of the market or in an individual stock. 
+
+#### random walk theory 
+The theory that stock price movements are random and bear no relationship to past movements. 
+
+#### rate of return 
+See Yield. 
+
+#### ratio withdrawal plan 
+A systematic withdrawal plan where the investor receives an annual income from the fund by redeeming a specified percentage of fund holdings each year. 
+
+#### rational expectations 
+School of economic theory which argues that investors are rational thinkers and can make intelligent economic decisions after evaluating all available information. 
+
+#### real estate investment trust (REIT)
+An investment trust that specializes in real estate related investments including mortgages, construction loans, land and real estate securities in varying combinations. A REIT invests in and manages a diversified portfolio of real estate. 
+
+#### real gross domestic product 
+Gross Domestic Product adjusted for changes in the price level. Also referred to as constant dollar GDP. 
+
+#### real interest rate 
+The nominal rate of interest minus the percentage change in the Consumer Price Index (i.e., the rate of inflation). 
+
+#### real rate of return 
+A rate of return adjusted for the effects of inflation. 
+
+#### real return bond 
+The coupon payments and principal repayment are adjusted for inflation to provide a fixed real coupon rate. 
+
+#### record date 
+The date on which a shareholder must officially own shares in a company to be entitled to a declared dividend. Also referred to as the date of record. 
+
+#### red herring prospectus 
+A preliminary prospectus so called because certain information is printed in red ink around the border of the front page. It does not contain all the information found in the final prospectus. Its purpose: to ascertain the extent of public interest in an issue while it is being reviewed by a securities commission. 
+
+#### redeemable bond 
+A clause that allows issuers the right,
+but not the obligation, to pay off the bond before maturity. Also known as a callable bond. 
+
+#### redemption 
+The purchase of securities by the issuer at a time and price stipulated in the terms of the securities. See also Call Feature. 
+
+#### redemption price 
+The price at which debt securities or preferred shares may be redeemed, at the option of the issuing company. 
+
+#### redeposit 
+An open-market cash management policy pursued by the Bank of Canada. A redeposit refers to the transfer of funds from the Bank to the direct clearers (an injection of balances) that will increase available funds. See also Drawdown. 
+
+#### registered bond 
+See Registered Security. 
+
+
+
+#### registered education savings plans (RESPs)
+A type of government sponsored savings plan used to finance a child’s post-secondary education. 
+
+#### registered pension plan (RPP)
+A trust registered with Canada Revenue Agency and established by an employer to provide pension benefits for employees when they retire. Both employer and employee may contribute to the plan and contributions are tax-deductible. See also Defined Contribution Plan and Defined Benefit Plan. 
+
+#### registered retirement income fund (RRIF)
+A tax deferral vehicle available to RRSP holders. The planholder invests the funds in the RRIF and must withdraw a certain amount each year. Income tax would be due on the funds when withdrawn. 
+
+#### registered retirement savings plan (RRSP)
+An investment vehicle available to individuals to defer tax on a specified amount of money to be used for retirement. The holder invests money in one or more of a variety of investment vehicles which are held in trust under the plan. Income tax on contributions and earnings within the plan is deferred until the money is withdrawn at retirement. RRSPs can be transferred into Registered Retirement Income Funds upon retirement. 
+
+#### registered security 
+A security recorded on the books of a company in the name of the owner. It can be transferred only when the certificate is endorsed by the registered owner. Registered debt securities may be registered as to principal only or fully registered. In the latter case,
+interest is paid by cheque rather than by coupons attached to the certificate. See also Bearer Security. 
+
+#### registrar 
+Usually a trust company appointed by a company to monitor the issuing of common or preferred shares. When a transaction occurs, the registrar receives both the old cancelled certificate and the new certificate from the transfer agent and records and signs the new certificate. The registrar is, in effect, an auditor checking on the accuracy of the work of the transfer agent, although in most cases the registrar and transfer agent are the same trust company. 
+
+#### regular delivery 
+The date a securities trade settles – i.e.,
+the date the seller must deliver the securities. See also Settlement Date. 
+
+#### regular dividends 
+A term that indicates the amount a company usually pays on an annual basis. 
+
+#### reinvestment risk 
+The risk that interest rates will fall causing the cash flows on an investment, assuming that the cash flows are reinvested, to earn less than the original investment. For example,
+yield to maturity assumes that all interest payments received can be reinvested at the yield to maturity rate. This is not necessarily true. If interest rates in the market fall the interest would be reinvested at a lower rate. Reinvestment risk recognizes this risk. 
+
+#### relative value strategies 
+A type of hedge fund that attempts to profit by exploiting irregularities or discrepancies in the pricing of related stocks, bonds or derivatives. 
+
+#### reporting issuer 
+Usually, a corporation that has issued or has outstanding securities that are held by the public and is subject to continuous disclosure requirements of securities administrators. 
+
+#### research associate 
+Reports to a senior analyst, mainly builds financial or pricing models,
+conducts industry or company research and helps write reports and commentary. 
+
+#### reset 
+A contract provision which allows the segregated fund contract holder to lock in the current market value of the fund and set a new maturity date 10
+years after the reset date. Depending on the contract, the reset dates may be chosen by the contract holder or be triggered automatically. 
+
+#### resistance level 
+The opposite of a support level. A price level at which the security begins to fall as the number of sellers exceeds the number of buyers of the security. 
+
+#### responsible designated trader (RDT)
+Individual assigned by the dealer to carry out market making duties on a stock. 
+
+#### restricted shares 
+Shares that participate in a company’s earnings and assets (in liquidation), as common shares do, but generally have restrictions on voting rights or else no voting rights. 
+
+#### retail firm 
+Retail firms are investment dealers that serve only retail clients. Retail firms include full-service firms and discount brokers. Full-service firms offer a wide variety of products and services for the retail investor. Discount brokers execute trades for retail clients at a reduced rate, but do not provide investment advice. 
+
+#### retail investor 
+Individual investors who buy and sell securities for their own personal accounts, and not for another company or organization. They generally buy in smaller quantities than larger institutional investors. 
+
+#### retained earnings 
+The cumulative total of annual earnings retained by a company after payment of all expenses and dividends. The earnings retained each year are reinvested in the business. 
+
+
+
+#### retractable 
+A feature which can be included in a new debt or preferred issue, granting the holder the option under specified conditions to redeem the security on a stated date – prior to maturity in the case of a bond. 
+
+#### retractable bond 
+A bond that grants the holder the option under specified conditions to force the issuer to redeem the debt security. 
+
+#### retractable preferred 
+A preferred share that grants the holder the option under specified conditions to force the issuer to redeem the shares. 
+
+#### return on common equity 
+A profitability ratio expressed as a percentage representing the amount earned on a company’s common shares. Return on equity tells the investor how effectively their money is being put to use. 
+
+#### revenue 
+A company’s income earned during a specific period of time. reversal patterns Formations that usually precede a sizeable advance or decline in stock prices. 
+
+#### reverse split 
+A process of retiring old shares with fewer shares. For example, an investor owns 1,000 shares of ABC Inc. pre split. A 10 for 1 reverse split or consolidation reduces the number held to 100. Results in a higher share price and fewer shares outstanding. 
+
+#### revocable beneficiary 
+A beneficiary whose entitlements under the segregated fund contract can be terminated or changed without his or her consent. 
+
+#### revocable designation 
+A contract where the beneficiary’s entitlements under the segregated fund contract can be terminated or changed without his or her consent. 
+
+#### rights 
+A short-term privilege granted to a company’s common shareholders to purchase additional common shares, usually at a discount, from the company itself, at a stated price and within a specified time period. Rights of listed companies trade on stock exchanges from the ex-rights date until their expiry. 
+
+#### right of action for damages 
+Most securities legislation provides that those who sign a prospectus may be liable for damages if the prospectus contains a misrepresentation. This right extends to experts e.g., lawyers,
+auditors, geologists, etc., who report or give opinions within the text of the document. 
+
+#### right of redemption 
+A mutual fund’s shareholders have a continuing right to withdraw their investment in the fund simply by submitting their shares to the fund itself and receiving in return the dollar amount of their net asset value. This characteristic is the hallmark of mutual funds. Payment for the securities that have been redeemed must be made by the fund within three business days from the determination of the net asset value. 
+
+#### right of rescission 
+The right of a purchaser of a new issue to rescind the purchase contract within the applicable time limits if the prospectus contained an untrue statement or omitted a material fact. 
+
+#### right of withdrawal 
+The right of a purchaser of a new issue to withdraw from the purchase agreement within two business days after receiving the prospectus. 
+
+#### risk-adjusted rate of return 
+A measure of how much risk is involved to produce a return. Risk adjusted measures can be applied to individual securities as well as to portfolios. 
+
+#### risk analysis ratios 
+Financial ratios that show how well the company can deal with its debt obligations. 
+
+#### risk arbitrage strategy 
+Investing simultaneously in long and short positions of the common stock of companies involved in a proposed merger or acquisition, usually involving taking a long position in the company being acquired and a short position in the acquiring company. Also known as merger strategy. 
+
+#### risk-averse 
+Descriptive term used for an investor unable or unwilling to accept the probability or chance of losing capital. See also Risk-Tolerant. 
+
+#### risk-free rate of return 
+The rate of return an investor would receive if he or she invested in a riskfree investment, such as a treasury bill. 
+
+#### risk premium 
+A rate that has to be paid in addition to the risk-free rate (T-bill rate) to compensate investors for choosing securities that have more risk than T-Bills. 
+
+#### risk-tolerant 
+Descriptive term used for an investor willing and able to accept the probability of losing capital. See also Risk-Averse. 
+
+#### robo-advisor 
+An online investment service that provides clients with automated investment advice. 
+
+#### roll-over risk 
+The risk that the issuer will be unable to refinance or renew the underlying assets when an asset-backed security matures. 
+
+#### roll yield loss 
+The loss that results when a near-term futures contract approaches expiration and is rolled over into more distant contract. 
+
+#### rules-based ETF 
+Take a goal-oriented approach, rather than following a standard index. Rules-
+Based ETFs might follow on areas of the market that offer higher returns or lower risks than traditional indexes. 
+
+### S 
+
+
+#### sacrifice ratio 
+Describes the extent to which Gross Domestic Product must be reduced with increased unemployment to achieve a 1% decrease in the inflation rate. 
+
+#### Sale and Repurchase Agreements (SRAs)
+An open-market operation by the Bank of Canada to offset undesired downward pressure on overnight financing costs. 
+
+#### sales finance company 
+Purchases, at a discount, instalment sales contracts from retailers and dealers when such items as new cars and appliances are bought on instalment plans. 
+
+#### sampling 
+The process by which the portfolio manager selects a smaller sample of securities and their weighting to best match the performance of the overall index. 
+
+#### satellite holdings 
+Holdings that are focused on riskier sectors of the markets. Satellite holdings are used to boost returns above the core asset returns. 
+
+#### savings bank 
+A financial institution whose main role is to accept savings deposits and pay interest on those deposits. Usually set up by a government and is similar in function to a credit union. 
+
+#### schedule I bank 
+Canadian-owned banks. The largest 6
+banks in Canada out-distance the asset size of other Canadian-owned banks. Schedule I banks are regulated by the Bank Act. 
+
+#### schedule II bank 
+Banks that are incorporated and operate in Canada as federally regulated foreign bank subsidiaries. Schedule II banks are regulated by the Bank Act. 
+
+#### schedule III bank 
+Banks that are federally regulated foreign bank branches of foreign institutions that have been authorized under the Bank Act to do banking business in Canada. 
+
+#### seasonal unemployment 
+Unemployment that results from a company or industry that only operates during specific seasons of the year. 
+
+#### secondary market 
+The market where securities are traded through an exchange or over-thecounter subsequent to a primary offering. The proceeds from trades in a secondary market go to the selling dealers and investors, rather than to the companies that originally issued the shares in the primary market. 
+
+#### secondary offering 
+Refers to the redistribution or resale of previously issued securities to the public by a dealer or investment dealer syndicate. Usually a large block of shares is involved (e.g., from the settlement of an estate) and these are offered to the public at a fixed price, set in relationship to the stock’s market price. 
+
+#### second-order risk 
+Second-order risks Include liquidity,
+leverage, deal break, default,
+counterparty, trading, concentration,
+pricing model, and trading model risks. Unlike first-order risk, secondorder risk is not related to the market but to other aspects of trading such as dealing, implementing arbitrage structures, or pricing illiquid or infrequently valued securities. 
+
+#### sector rotation 
+A top-down approach to investment,
+focusing on analyzing the prospects for the overall economy and investing in those sectors that are expected to outperform. 
+
+#### securities 
+Paper certificates or electronic records that evidence ownership of equity (stocks) or debt obligations (bonds). 
+
+#### securities acts 
+Provincial Acts administered by the securities commission in each province, which set down the rules under which securities may be issued and traded. 
+
+#### securities administrator 
+A general term referring to the provincial regulatory authority (e.g.,
+Securities Commission or Provincial Registrar) responsible for administering a provincial Securities Act. 
+
+#### Securities and Exchange Commission (SEC)
+A federal body established by the United States Congress, to protect investors in the U.S. In Canada there is no national regulatory authority;
+instead, securities legislation is provincially administered. 
+
+#### securities eligible for reduced margin 
+Securities which demonstrate sufficiently high liquidity and low price volatility based on meeting specific price risk and liquidity risk measures. 
+
+#### securitization 
+Refers in a narrow sense to the process of converting loans of various sorts into marketable securities by packaging the loans into pools. In a broader sense, refers to the development of markets for a variety of debt instruments that permit the ultimate borrower to bypass the banks and other deposit-taking institutions and to borrow directly from lenders. 
+
+#### segregated funds 
+Insurance companies sell these funds as an alternative to conventional mutual funds. Like mutual funds,
+segregated funds offer a range of investment objectives and categories of securities e.g. equity funds, bond funds, balanced funds etc. These funds have the unique feature of guaranteeing that, regardless of how poorly the fund performs, at least a minimum percentage (usually 75% or more) of the investor’s payments into the fund will be returned when the fund matures. 
+
+
+
+
+#### self-directed broker 
+Also known as discount brokers. Self-directed brokers offer discounted transaction costs and do not provide investment advice to investors. 
+
+#### self-directed registered retirement savings plan 
+A type of RRSP whereby the holder invests funds or contributes certain acceptable assets such as securities directly into a registered plan which is usually administered for a fee by a Canadian financial services company. 
+
+#### self-regulatory organization (SRO)
+An organization recognized by the Securities Administrators as having powers to establish and enforce industry regulations to protect investors and to maintain fair,
+equitable, and ethical practices in the industry and ensure conformity with securities legislation. Canadian SROs include the Investment Industry Regulatory Organization of Canada and, the Mutual Fund Dealers Association. 
+
+#### selling group 
+Investment dealers or others who assist a banking group in marketing a new issue of securities without assuming financial liability if the issue is not entirely sold. The use of a selling group widens the distribution of a new issue. 
+
+#### sell side 
+Refers to dealers. The term stems from the role broker/dealers play in the underwriting and distribution of new issue securities. 
+
+#### sentiment indicators 
+Measure investor expectations or the mood of the market. These indicators measure how bullish or bearish investors are. 
+
+#### separately managed account 
+A managed product structure whereby individual accounts are created for each investor. In either case, an investment manager is guided by an investment mandate. 
+
+#### serial bond or debenture 
+See Instalment Debenture. 
+
+#### settlement 
+The moment of irrevocable exchange of cash and securities. 
+
+#### settlement date 
+The date on which a securities buyer must pay for a purchase or a seller must deliver the securities sold. For most securities, settlement must be made on or before the second business day following the transaction date. 
+
+#### share capital 
+The money paid in by shareholders and received by the company for the shares issued by the company. 
+
+#### shareholder 
+Someone who owns shares in a corporation. 
+
+#### share of profit of associates 
+A company’s share of an unconsolidated subsidiary’s revenue. The equity accounting method is used when a company owns 20% to 50% of a subsidiary. 
+
+#### Sharpe ratio 
+A ratio measure of the portfolio’s riskadjusted rate of return using standard deviation as the measure of risk. 
+
+#### short bias 
+A fund where the net position must always be short. The fund may have long positions, but on a net basis, the fund must constantly be short. 
+
+#### short form prospectus distribution system 
+This system allows reporting issuers to issue a short-form prospectus that contains only information not previously disclosed to regulators. The short form prospectus contains by reference the material filed by the corporation in the Annual Information Form. 
+
+#### short position 
+Created when an investor sells a security that he or she does not own. 
+
+#### short selling 
+The sale of a security which the seller does not own. This is a speculative practice done in the belief that the price of a stock is going to fall and the seller will then be able to cover the sale by buying it back later at a lower price, thereby making a profit on the transactions. It is illegal for a seller not to declare a short sale at the time of placing the order. See also Margin. 
+
+#### short-term bond 
+A bond with greater than one year but less than five years to maturity. 
+
+#### short-term debt 
+Company borrowings repayable within one year that appear in the current liabilities section of the statement of financial position. The most common short-term debt items are: bank advances or loans, notes payable and the portion of funded debt due within one year. 
+
+#### single-manager account 
+A type of fee-based account that is directed by a single portfolio manager who focuses considerable time and attention on the selection of securities,
+the sectors to invest in and the optimal asset allocation. 
+
+#### simplified prospectus 
+A condensed prospectus distributed by mutual fund companies upon request to purchasers and potential purchasers of fund units or shares. 
+
+#### sinking fund 
+A fund set up to retire most or all of a debt or preferred share issue over a period of time. See also Purchase Fund. 
+
+#### skew 
+Measures the extent to which a distribution is tilted towards negative or positive returns. Positive skew indicates a tendency to obtain returns above what is observed with the normal distribution; negative skew indicates a tendency to obtain returns below the normal distribution. 
+
+
+
+#### small cap 
+Reference to smaller growth companies. Small cap refers to the size of the capitalization or investments made in the company. A small cap company has been defined as a company with an outstanding stock value of under $500 million. Small cap companies are considered more volatile than large cap companies. 
+
+#### soft-dollar arrangement 
+An arrangement where an investment firm purchases services via commission dollars rather than an invoice for the goods or services provided. 
+
+#### soft landing 
+Describes a business cycle phase when economic growth slows sharply but does not turn negative, while inflation falls or remains low. 
+
+#### soft retractable preferred shares 
+A type of retractable preferred share where the redemption value may be paid in cash or in common shares,
+generally at the election of the issuer. 
+
+#### sole proprietorship 
+A form of business organization that involves one person running a business whereby the individual is taxed on earnings at their personal income tax rate. 
+
+#### Special Purchase and Resale Agreements (SPRAs)
+An open-market operation used by the Bank of Canada to relieve undesired upward pressure on overnight financing rates. 
+
+#### special purpose vehicle 
+An entity set up to purchase and manage assets as part of an assetbacked security issue. The issuer typically controls the SPV and issues ABS securities to investors. 
+
+#### specific risk 
+The risk that the price of a specific security or a specific group of securities will change in price to a different degree or in a different direction from the market as a whole. Also known as non-systematic risk. 
+
+#### speculative industry 
+Industries in which risk and uncertainty are unusually high because analysts lack definitive information. Shares in these companies are called speculative shares. 
+
+#### speculator 
+One who is prepared to accept calculated risks in the marketplace. Objectives are usually short to medium-term capital gain, as opposed to regular income and safety of principal, the prime objectives of the conservative investor. 
+
+#### S&P/TSX 60 Index 
+Includes the 60 largest companies that trade on the TSX as measured by market capitalization and is broken down into 11 sectors that cover all S&P/TSX Index subgroups. 
+
+#### S&P/TSX Composite Index 
+A benchmark used to measure the performance of the broad Canadian equity market. 
+
+#### S&P/TSX Venture Composite Index 
+A benchmark index for the public venture capital marketplace. Managed by Standard & Poor’s, it is a market capitalization-based index meant to provide an indication of performance for companies listed on the TSX Venture Exchange. 
+
+#### split shares 
+A security that has been created to divide (or split) the investment attributes of an underlying portfolio of common shares into separate components that satisfy different investment objectives. The preferred shares receive the majority of the dividends from the common shares held by the split share corporation. The capital shares receive the majority of any capital gains on the common shares. 
+
+#### spot price 
+The current cash market price of a commodity or financial instrument that is available for immediate delivery. 
+
+#### spousal registered retirement savings plan 
+A special type of RRSP to which one spouse contributes to a plan registered in the beneficiary spouse’s name. The contributed funds belong to the beneficiary but the contributor receives the tax deduction. If the beneficiary removes funds from the spousal plan in the year of the contribution or in the subsequent two calendar years, the contributor must pay taxes on the withdrawn amount. 
+
+#### SRO 
+Short for self-regulatory organization such as the Investment Industry Regulatory Organization of Canada. 
+
+#### standard deviation 
+A statistical measure of risk. The larger the standard deviation, the greater the volatility of returns and therefore the greater the risk. 
+
+#### standard trading unit 
+A regular trading unit which has uniformly been decided upon by the stock exchanges, in most cases it is 100
+shares, but this can vary depending on the price of the stock. 
+
+#### statement of cash flow 
+A financial statement which provides information as to how a company generated and spent its cash during the year. Assists users of financial statements in evaluating the company’s ability to generate cash internally, repay debts, reinvest and pay dividends to shareholders. 
+
+#### statement of changes in equity 
+A financial statement that shows the total comprehensive income kept in the business year after year. 
+
+#### statement of comprehensive income 
+A financial statement which shows a company’s revenues and expenditures resulting in either a profit or a loss during a financial period. 
+
+#### statement of financial position 
+A financial statement showing a company’s assets, liabilities and equity on a given date. 
+
+
+
+#### statement of material facts 
+A document presenting the relevant facts about a company and compiled in connection with an underwriting or secondary distribution of its shares. It is used only when the shares underwritten or distributed are listed on a recognized stock exchange and takes the place of a prospectus in such cases. 
+
+#### stock 
+Ownership interest in a corporation’s that represents a claim on its earnings and assets. 
+
+#### stock average 
+The arithmetic average of the current prices of a group of stocks designed to represent the overall market or some part of it. 
+
+#### stock dividend 
+A pro rata payment to common shareholders of additional common stock. Such payment increases the number of shares each holder owns but does not alter a shareholder’s proportional ownership of the company. 
+
+#### stock exchange 
+A marketplace where buyers and sellers of securities meet to trade with each other and where prices are established according to laws of supply and demand. 
+
+#### stock index 
+A time series of numbers used to calculate a percentage change of this series over any period of time. Most stock indexes are value-weighted and are derived by using the total market value (i.e., market capitalization) of all stocks used in the index relative to a base period. 
+
+#### stock savings plan 
+Some provinces allow individual residents of the particular province a deduction or tax credit for provincial income tax purposes on investments made in certain prescribed vehicles. The credit or deduction is a percentage figure based on the value of investment. 
+
+#### stock split 
+An increase in a corporation’s number of shares outstanding without any change in the shareholders’ equity or market value. When a stock reaches a high price making it illiquid or difficult to trade, management may split the stock to get the price into a more marketable trading range. For example, an investor owns one standard trading unit of a stock that now trades at $70 each (portfolio value is $7,000). Management splits the stock 2:1. The investor would now own 200 new shares at a market value,
+all things being equal, of $35 each, for a portfolio value of $7,000. 
+
+#### stop buy orders 
+An order to buy a security only after it has reached a certain price. This may be used to protect a short position or to ensure that a stock is purchased while its price is rising. 
+
+#### stop loss orders 
+The opposite of a stop buy order. An order to sell a security after its price falls to a certain amount, thus limiting the loss or protecting a paper profit. 
+
+#### straight-line method 
+An accounting method of depreciation whereby an equal amount is charged each period as an expense when writing down the value of an asset over time. 
+
+#### straight preferred 
+A preferred share with no special features. 
+
+#### straight-through processing 
+A continuous, real-time investment management database that tracks all security transactions and investments,
+and links the various operating departments of a firm. 
+
+#### strategic asset allocation 
+An asset allocation strategy that rebalances investment portfolios regularly to maintain a consistent long-term mix. 
+
+#### street certificate 
+Securities certificates that are registered in the name of the securities firm, rather than the beneficial owner. 
+
+#### street form 
+Securities that are registered in the name of the securities firm, rather than the beneficial owner. 
+
+#### street name 
+Securities registered in the name of an investment dealer or its nominee,
+instead of the name of the real or beneficial owner, are said to be “in street name.” Certificates so registered are known as street certificates. 
+
+#### strike price 
+The price, as specified in an option contract, at which the underlying security will be purchased in the case of a call or sold in the case of a put. See also Exercise Price. 
+
+#### strip bonds or zero coupon bonds 
+Usually high quality federal or provincial government bonds originally issued in bearer form, where some or all of the interest coupons have been detached. The bond principal and any remaining coupons (the residue)
+then trade separately from the strip of detached coupons, both at substantial discounts from par. 
+
+#### structural unemployment 
+Unemployment that results when workers are unable to find work or fill available jobs because they lack the necessary skills, do not live where the jobs are available, or decide not to work at the wage rate offered by the market. 
+
+#### structured product 
+A passive investment vehicle financially engineered to provide a specific risk and return characteristic. The value of a structured product tracks the returns of reference security known as an underlying asset. Underlying assets can consist of a single security, a basket of securities, foreign currencies,
+commodities or an index. 
+
+#### subordinated debenture 
+A type of junior debenture. Subordinate indicates that another debenture ranks ahead in terms of a claim on assets and profits. 
+
+
+
+#### subscription or exercise price 
+The price at which a right or warrant holder would pay for a new share from the company. With options the equivalent would be the strike price. 
+
+#### subsidiary 
+Company which is controlled by another company usually through its ownership of the majority of shares. 
+
+#### suitability 
+A registrant’s major concern in making investment recommendations. All information about a client and a security must be analyzed to determine if an investment is suitable for the client in accounts where a suitability exemption does not apply. 
+
+#### superficial losses 
+Occur when an investment is sold and then repurchased at any time in a period that is 30 days before or after the sale. 
+
+#### supply 
+The quantity supplied of a good or service based on a particular price during a given period of time. The higher the price of the good or service,
+the greater the quantity of supply. 
+
+#### supply and demand 
+The determinants of the price paid for a good or service. 
+
+#### supply-side economics 
+An economic theory whereby changes in tax rates exert important effects over supply and spending decisions in the economy. According to this theory,
+reducing both government spending and taxes provides the stimulus for economic expansion. 
+
+#### support level 
+A price level at which a security stops falling because the number of investors willing to buy the security is greater than the number of investors wishing to sell the security. 
+
+#### suspension in trading 
+An interruption in trading imposed on a company if their financial condition does not meet an exchange’s requirements for continued trading or if the company fails to comply with the terms of its listing agreement. 
+
+#### swap 
+An over-the-counter forward agreement involving a series of cash flows exchanged between two parties on specified future dates. 
+
+#### sweetener 
+A feature included in the terms of a new issue of debt or preferred shares to make the issue more attractive to initial investors. Examples include warrants and/or common shares sold with the issue as a unit or a convertible or extendible or retractable feature. 
+
+#### switching fee 
+A fee charged by a mutual fund when an investor exchanges units of one fund for another in the same family or fund company. 
+
+#### syndicate 
+A group of investment dealers who together underwrite and distribute a new issue of securities or a large block of an outstanding issue. 
+
+#### synthetic ETF 
+Constructed with derivatives, such as swaps, to achieve the return effect of the index. As a result, the exposure of synthetic ETFs is notional, rather than real. 
+
+#### System for Electronic Document Analysis and Retrieval (SEDAR)
+SEDAR facilitates the electronic filing of securities information as required by the securities regulatory agencies in Canada and allows for the public dissemination of information collected in the filing process 
+
+#### systematic risk 
+A non-controllable, non-diversifiable risk that is common to all investments within a given asset class. With equities it is called market risk, with fixed income securities it would be interest rate risk. 
+
+#### systematic withdrawal plan 
+A plan that enables set amounts to be withdrawn from a mutual fund or a segregated fund on a regular basis. 
+
+### T 
+
+
+
+#### T3 form 
+Referred to as a Statement of Trust Income Allocations and Designations. When a mutual fund is held outside a registered plan, unitholders of an unincorporated fund are sent a T3 form by the respective fund. 
+
+#### T4 form 
+Referred to as a Statement of Remuneration Paid. A T4 form is issued annually by employers to employees reporting total compensation for the calendar year. Employers have until the end of February to submit T4 forms to employees for the previous calendar year. 
+
+#### T5 form 
+Referred to as a Statement of Investment Income. When an incorporated fund is held outside a registered plan, shareholders are sent a T5 form by the respective fund. tactical asset allocation An asset allocation strategy that involves adjusting a portfolio to take advantage of perceived inefficiencies in the prices of securities in different asset classes or within sectors. 
+
+#### takeover bid 
+An offer made to security holders of a company to purchase voting securities of the company which, with the offeror’s already owned securities, will in total exceed 20% of the outstanding voting securities of the company. For federally incorporated companies, the equivalent requirement is more than 10% of the outstanding voting shares of the target company. 
+
+
+
+#### target-date funds 
+Mutual funds that are structured on the assumption that risk tolerance declines as investors grow older. The fund pursues a growth strategy in its early years by holding more risky assets. It then gradually moves towards less risky assets as the target date approaches. The fund manager adjusts the fund over time, without any action required from the fund holder. Also called target-based funds or life-cycle funds. 
+
+#### tax-free savings account (TFSA)
+A savings vehicle whereby income earned within a TFSA will not be taxed in any way throughout an individual’s lifetime. In addition, there are no restrictions on the timing or amount of withdrawals from a TFSA, and the money withdrawn can be used for any purpose. 
+
+#### tax loss selling 
+Selling a security for the sole purpose of generating a loss for tax purposes. There may be times when this strategy is advantageous but investment principles should not be ignored. 
+
+#### technical analysis 
+A method of market and security analysis that studies investor attitudes and psychology as revealed in charts of stock price movements and trading volumes to predict future price action. 
+
+#### term deposit 
+Money invested for a fixed term for a fixed rate of return at a deposit-taking institution. 
+
+#### term to maturity 
+The length of time that a segregated fund policy must be held in order to be eligible for the maturity guarantee. Normally, except in the event of the death of the annuitant, the term to maturity of a segregated-fund policy is 10 years. 
+
+#### thin market 
+A market in which there are comparatively few bids to buy or offers to sell or both. The phrase may apply to a single security or to the entire stock market. In a thin market, price fluctuations between transactions are usually larger than when the market is liquid. A thin market in a particular stock may reflect lack of interest in that issue, or a limited supply of the stock. 
+
+#### time horizon 
+The period spanning the present until the next major change in the client’s circumstances. Clients go through various events in their lives, each of which can represent a time horizon and a need to completely rebalance their portfolio. 
+
+#### tilting of the yield curve 
+The yield curve that results from a decline in long-term bond yields while short-term rates are rising. 
+
+#### time to expiry 
+The number of days or months or years until expiry of an option or other derivative instrument. 
+
+#### time to recovery 
+Number of months required to move from a trough to a new peak. Some alternative strategy fund managers and analysts define time to recovery as the time from peak to trough to peak. 
+
+#### time value 
+The amount, if any, by which the current market price of a right,
+warrant or option exceeds its intrinsic value. 
+
+#### time-weighted rate of return (TWRR)
+A measure of return calculated by averaging the return for each subperiod in which a cash flow occurs into a return for a reporting period. 
+
+#### timely disclosure 
+An obligation imposed by securities administrators on companies, their officers and directors to release promptly to the news media any favourable or unfavourable corporate information which is of a material nature. Broad dissemination of this news allows non-insiders to trade the company’s securities with the same knowledge about the company as insiders themselves. See also Continuous Disclosure. 
+
+#### top-down analysis 
+A type of fundamental analysis. First, general trends in the economy are analyzed. This information is then combined with industries and companies within those industries that should benefit from the general trends identified. 
+
+#### Toronto Stock Exchange (TSX)
+The largest stock exchange in Canada with over 1,700 companies listed on the exchange. 
+
+#### tracking error 
+The simple difference between the return on an underlying index or reference asset and the return on the ETF that tracks the index or reference asset. 
+
+#### trade-matching elements 
+Details that all parties to a trade must confirm before an institutional trade can be cleared and settled. 
+
+#### trade payables 
+Money owed by a company for goods or services purchased, payable within one year. A current liability on the statement of financial position. 
+
+#### trade receivables 
+Money owed to a company for goods or services it has sold, for which payment is expected within one year. A current asset on the statement of financial position. 
+
+#### trade ticket 
+An electronic trade confirmation sent through secure, proprietary systems that contain all the necessary specifics to a transaction. 
+
+
+#### trading unit 
+Describes the size or the amount of the underlying asset represented by one option contract. In North America,
+all exchange-traded options have a trading unit of 100 shares. 
+
+#### trailer fee 
+Fee that a mutual fund manager may pay to the individual or organization that sold the fund for providing services such as investment advice, tax guidance and financial statements to investors. The fee is paid annually and continues for as long as the investor holds shares in the fund. 
+
+#### tranches 
+An issue of securities divided into a number of classes. Each tranche has its own level of credit risk and either a fixed or variable rate of return. The tranches are sold separately to investors seeing the appropriate riskto-
+return opportunity. 
+
+#### transaction date 
+The date on which the purchase or sale of a security takes place. 
+
+#### transfer agent 
+An agent, usually a trust company,
+appointed by a corporation to maintain shareholder records,
+including purchases, sales, and account balances. The transfer agent may also be responsible for distributing dividend cheques. 
+
+#### transparency 
+Information that is easy for everyone to perceive or detect. 
+
+#### Treasury bills 
+Short-term government debt issued in denominations ranging from $1,000
+to $1,000,000. Treasury bills do not pay interest, but are sold at a discount and mature at par (100% of face value). The difference between the purchase price and par at maturity represents the lender’s (purchaser’s)
+income in lieu of interest. In Canada,
+such gain is taxed as interest income in the purchaser’s hands. Also known as T-bills. 
+
+#### treasury shares 
+Authorized but unissued stock of a company or previously issued shares that have been re-acquired by the corporation. The amount still represents part of those issued but is not included in the number of shares outstanding. These shares may be resold or used as part of the option package for management. Treasury shares do not have voting rights nor are they entitled to dividends. 
+
+#### trend 
+Shows the general movement or direction of securities prices. The long-term price or trading volume of a particular security is either up, down or sideways. 
+
+#### trend ratio 
+Analysts identify trends by selecting a base period, treating the figure or ratio for that period as 100, and then dividing it into the comparable ratios for subsequent periods. 
+
+#### trust deed 
+This is the formal document that outlines the agreement between the issuer and the holders. In the case of bonds, it outlines such things as the coupon rate, if interest is paid semiannually and when, and any other terms and conditions between both parties. 
+
+#### trust deed restriction 
+Restrictions set out in a trust deed. See covenant. 
+
+#### trustee 
+For bondholders, usually a trust company appointed by the company to protect the security behind the bonds and to make certain that all covenants of the trust deed relating to the bonds are honoured. For a segregated fund,
+the trustee administers the assets of a mutual fund on behalf of the investors. 
+
+#### TSX Alpha Exchange 
+An exchange that provides trading in securities listed on TSX and TSXV. Order price and volume information is publicly available. Alpha Exchange is wholly owned by TMX Group Inc. 
+
+#### TSX Venture Exchange 
+Canada’s public venture marketplace,
+the result of the merger of the Vancouver and Alberta Stock Exchanges in 1999. 
+
+#### two-way security 
+A security, usually a debenture or preferred share, which is convertible into or exchangeable for another security (usually common shares) of the same company. Also indirectly refers to the possibility of profiting in the future from upward movements in the underlying common shares as well as receiving in the interim interest or dividend payments. 
+
+### U 
+
+
+#### underemployed 
+People who are working part-time,
+often at jobs that do not make good use of their skills, when they would rather be working full-time. 
+
+#### underlying security or asset 
+The security or asset upon which a derivative contract, such as an option,
+is based. For example, the ABC June 35 call options are based on the underlying security ABC. 
+
+#### underwriting 
+The purchase for resale of a security issue by one or more investment dealers or underwriters. The formal agreements pertaining to such a transaction are called underwriting agreements. 
+
+#### unemployment rate 
+The percentage of the work force that is looking for work but unable to find jobs. 
+
+#### unified managed account 
+A type of fee-based account that includes the same benefits as multidisciplinary accounts. Enhancements include performance reports from the respective sub-advisors, outlining distinct models contained within the single custody account. 
+
+
+#### unit 
+Two or more corporate securities (such as preferred shares and warrants)
+offered for sale to the public at a single, combined price. 
+
+#### unit value 
+The value of one unit of a segregated fund. The units have no legal status,
+and are simply an administrative convenience used to determine the income attributable to contract holders and the level of benefits payable to beneficiaries. 
+
+#### Universal Market Integrity Rules (UMIR)
+A common set of trading rules that are applied in all markets in Canada. UMIR are designed to promote fair and orderly markets. 
+
+#### unlisted security 
+A security not listed on a stock exchange but traded on the over-thecounter market. 
+
+#### unlisted market 
+See dealer market. 
+
+#### unsolicited orders 
+An order initiated by the investor that is not based on advice provided by the advisor. 
+
+### V 
+
+
+#### valuation day 
+The day on which the assets of a segregated fund are valued, based on its total assets less liabilities. Most funds are valued at the end of every business day. 
+
+#### value manager 
+A manager that takes a research intensive approach to finding undervalued securities. 
+
+#### value ratios 
+Financial ratios that show the investor the worth of the company’s shares or the return on owning them. 
+
+
+#### variable rate preferred 
+A type of preferred share that pays dividends in amounts that fluctuate to reflect changes in interest rates. If interest rates rise, so will dividend payments, and vice versa. 
+
+#### variable rate securities 
+A type of security that pays interest in amounts that fluctuate to reflect changes in interest rates. If interest rates rise, so will interest payments,
+and vice versa. See variable rate preferred. 
+
+#### vested 
+The employee’s right to the employer contributions made on his or her behalf during the employee’s period of enrollment. 
+
+#### volatility 
+A measure of the amount of change in the daily price of a security over a specified period of time. Usually given as the standard deviation of the daily price changes of that security on an annual basis. 
+
+#### voting rights 
+The stockholder’s right to vote in the affairs of the company. Most common shares have one vote each. Preferred stock usually has the right to vote only when its dividends are in arrears. The right to vote may be delegated by the shareholder to another person. See also Proxy. 
+
+#### voting trust 
+An arrangement to place the control of a company in the hands of certain managers for a given period of time,
+or until certain results have been achieved, by shareholders surrendering their voting rights to a trustee for a specified period of time. 
+
+### W 
+
+
+
+#### waiting period 
+The period of time between the issuance of a receipt for a preliminary prospectus and receipt for a final prospectus from the securities administrators. 
+
+#### warrant 
+A certificate giving the holder the right to purchase securities at a stipulated price within a specified time limit. Warrants are usually issued with a new issue of securities as an inducement or sweetener to investors to buy the new issue. 
+
+#### weighted-average method 
+An inventory valuation method,
+calculated as the cost of goods available for sale divided by the number of units available for sale. 
+
+#### withholding tax 
+An amount of income tax that a financial institution is required to deduct by law from a payment made to the owner. 
+
+#### working capital 
+Current assets minus current liabilities. This figure is an indication of the company’s ability to meet its short-term debts. 
+
+#### working capital ratio 
+Current assets of a company divided by its current liabilities. Also known as the current ratio. 
+
+#### wrap account 
+Also known as a wrap fee program. A type of fully discretionary account where a single annual fee, based on the account’s total assets, is charged,
+instead of commissions and advice and service charges being levied separately for each transaction. The account is then managed separately from all other wrap accounts, but is kept consistent with a model portfolio suitable to clients with similar objectives. 
+
+#### writer 
+The seller of either a call or put option. The option writer receives payment, called a premium. The writer in then obligated to buy (in the case of a put) or sell (in the case of a call) the underlying security at a specified price,
+within a certain period of time, if called upon to do so. 
+
+### Y 
+
+
+#### yield – bond & stock 
+Return on an investment. A stock yield is calculated by expressing the annual dividend as a percentage of the stock’s current market price. A bond yield is more complicated, involving annual interest payments plus amortizing the difference between its current market price and par value over the bond’s life. See also Current Yield. 
+
+#### yield curve 
+A graph showing the relationship between yields of bonds of the same quality but different maturities. A normal yield curve is upward sloping depicting the fact that short-term money usually has a lower yield than longer-term funds. When short-term funds are more expensive than longer term funds the yield curve is said to be inverted. 
+
+#### yield to maturity 
+The rate of return investors would receive if they purchased a bond today and held it to maturity. Yield to maturity is considered a long-term bond yield expressed as an annual rate. 
+
+#### yield spread 
+The difference between the yields on two debt securities, normally expressed in basis points. In general,
+the greater the difference in the risk of the two securities, the larger the spread. 
+
+### Z 
+
+
+#### zero coupon bonds 
+See Strip Bonds. 
+
+#### zero-coupon bonds plus option structure 
+The issuer of a PPN using the zerocoupon bond plus option structure invests most of the proceeds in a zero coupon bond that has the same maturity as the PPN. The zero-coupon bond guarantees the return of principal at maturity. The remainder of the proceeds is invested in an option on the underlying asset. 
