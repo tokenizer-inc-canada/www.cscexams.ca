@@ -98,10 +98,12 @@ nominee
 : A person or firm (bank, investment dealer, CDS) in whose name securities are registered. The shareholder, however, retains the true ownership of the securities
 
 non-controlling interest
+: 
+
 1. The equity of the shareholders who do not hold controlling interest in a controlled company;
 2. In **consolidated financial statements**
-   - the item in the **statement of financial position** of the parent company representing that portion of the assets of a consolidated subsidiary considered as accruing to the shares of the subsidiary not owned by the parent; and
-   - the item deducted in the **statement of comprehensive income** of the parent and representing that portion of the subsidiary’s earnings considered as accruing to the subsidiary’s shares not owned by the parent.
+  - the item in the **statement of financial position** of the parent company representing that portion of the assets of a consolidated subsidiary considered as accruing to the shares of the subsidiary not owned by the parent; and
+  - the item deducted in the **statement of comprehensive income** of the parent and representing that portion of the subsidiary’s earnings considered as accruing to the subsidiary’s shares not owned by the parent.
 
 non-current assets
 : Assets which in the normal course of business would not be converted into cash. Non-current assets include property, plant, and equipment.
