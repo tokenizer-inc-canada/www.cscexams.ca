@@ -6,6 +6,8 @@ title: "1.8 Corporations and their Financial Statements"
 
 # 1.8 Corporations and their Financial Statements
 
+## Introduction
+
 ## Key Terms
 
 amortization
@@ -172,4 +174,24 @@ voting trust
 
 weighted-average method
 : An inventory valuation method, calculated as the cost of goods available for sale divided by the number of units available for sale.
+
+## Corporations and Their Structure
+### Advantages and Disadvantages of Incorporation
+#### Advantages of Incorporation
+#### Disadvantages of Incorporation
+### Private and Public Corporations
+#### Corporate By-Laws
+#### Voting Rights
+#### Shareholders' Meetings
+#### Voting by Proxy
+#### Voting Trusts
+### The Corporate Structure
+
+## Financial Statements of a Corporation
+### Statement of Financial Position
+#### Classification of Assets
+#### Classification of Equity
+### Statement of Comprehensive Income
+#### Structure of the Statement of Comprehensive Income
+### Statement of Changes in Equity
 
