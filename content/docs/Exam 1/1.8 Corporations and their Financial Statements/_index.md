@@ -238,19 +238,19 @@ weighted-average method
 
 
 
-|    | ASSETS                         |                  $ |
-|---:|:-------------------------------|-------------------:|
-|  1 | Property, plant, and equipment |          6,249,000 |
-|  2 | Goodwill                       |            350,000 |
-|  3 | Investments in associates      |            947,000 |
-|  4 | TOTAL NON-CURRENT ASSETS       |          7,216,000 |
-|  5 | Inventories                    |          9,095,000 |
-|  6 | Prepaid expenses               |             29,000 |
-|  7 | Trade receivables              |            985,000 |
-|  8 | Cash and cash equivalents      | <ul>2,169,000</ul> |
-|    |                                |        ~~  abc  ~~ |
-|  9 | TOTAL CURRENT ASSETS           |         14,238,000 |
-| 10 | TOTAL ASSETS                   |         18,454,000 |
+|    | ASSETS                         |                               $ |
+|---:|:-------------------------------|--------------------------------:|
+|  1 | Property, plant, and equipment |                       6,249,000 |
+|  2 | Goodwill                       |                         350,000 |
+|  3 | Investments in associates      |                         947,000 |
+|  4 | TOTAL NON-CURRENT ASSETS       |                       7,216,000 |
+|  5 | Inventories                    |                       9,095,000 |
+|  6 | Prepaid expenses               |                          29,000 |
+|  7 | Trade receivables              |                         985,000 |
+|  8 | Cash and cash equivalents      | <u>2,169,000</u><br/>__________ |
+|    |                                |                     ~~  abc  ~~ |
+|  9 | TOTAL CURRENT ASSETS           |                      14,238,000 |
+| 10 | TOTAL ASSETS                   |                      18,454,000 |
 
 
 
