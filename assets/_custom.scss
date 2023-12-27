@@ -11,6 +11,10 @@ code {
     font-family: monospace;
 }
 
-td span {
-    border-bottom: 1px solid black;
+.single span {
+    border-top: 3px double black;
+}
+
+.double span {
+    border-top: 1px solid gray;
 }

@@ -238,18 +238,18 @@ weighted-average method
 
 
 
-|    | ASSETS                         |                                                            $ |
-|---:|:-------------------------------|-------------------------------------------------------------:|
-|  1 | Property, plant, and equipment |                                                    6,249,000 |
-|  2 | Goodwill                       |                                                      350,000 |
-|  3 | Investments in associates      |                                                      947,000 |
-|  4 | TOTAL NON-CURRENT ASSETS       |                                                    7,216,000 |
-|  5 | Inventories                    |                                       <span>9,095,000</span> |
-|  6 | Prepaid expenses               |                                                       29,000 |
-|  7 | Trade receivables              |                                                      985,000 |
-|  8 | Cash and cash equivalents      | <span style="border-bottom:1px solid black">2,169,000</span> |
-|  9 | TOTAL CURRENT ASSETS           |                                                   14,238,000 |
-| 10 | TOTAL ASSETS                   |                                                   18,454,000 |
+|    | ASSETS                         |                                                    $ |
+|---:|:-------------------------------|-----------------------------------------------------:|
+|  1 | Property, plant, and equipment |                                            6,249,000 |
+|  2 | Goodwill                       |                                              350,000 |
+|  3 | Investments in associates      |                                              947,000 |
+|  4 | TOTAL NON-CURRENT ASSETS       |                                            7,216,000 |
+|  5 | Inventories                    |                <span class="single">9,095,000</span> |
+|  6 | Prepaid expenses               |                                               29,000 |
+|  7 | Trade receivables              |                                              985,000 |
+|  8 | Cash and cash equivalents      |                                            2,169,000 |
+|  9 | TOTAL CURRENT ASSETS           |               <span class="single">14,238,000</span> |
+| 10 | TOTAL ASSETS                   |               <span class="double">18,454,000</span> |
 
 
 
