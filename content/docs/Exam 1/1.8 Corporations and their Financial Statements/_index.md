@@ -244,7 +244,7 @@ weighted-average method
 |  2 | Goodwill                       |                                                      350,000 |
 |  3 | Investments in associates      |                                                      947,000 |
 |  4 | TOTAL NON-CURRENT ASSETS       |                                                    7,216,000 |
-|  5 | Inventories                    |                                                    9,095,000 |
+|  5 | Inventories                    |                                       <span>9,095,000</span> |
 |  6 | Prepaid expenses               |                                                       29,000 |
 |  7 | Trade receivables              |                                                      985,000 |
 |  8 | Cash and cash equivalents      | <span style="border-bottom:1px solid black">2,169,000</span> |
