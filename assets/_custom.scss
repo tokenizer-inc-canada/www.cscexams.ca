@@ -12,11 +12,13 @@ code {
 }
 
 .double {
-    border-top: 4px double black;
+    border-top: 2px solid gray;
+    border-bottom: 4px double black;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .single {
-    border-top: 4px solid gray;
+    border-top: 2px solid gray;
     padding-top: 10px;
 }
