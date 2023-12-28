@@ -7,6 +7,17 @@ title: "Sample Financial Statements"
 
 # Sample Financial Statements
 
+## What are financial statements?
+
+- Financial statements are written records that convey the business activities and the financial performance of a company.
+- Financial statements are often audited by government agencies, accountants, firms, etc. to ensure accuracy and for tax, financing, or investing purposes.
+- For-profit primary financial statements include the balance sheet, income statement, statement of cash flow, and statement of changes in equity. Nonprofit entities use a similar but different set of financial statements.
+- Financial statements are written records that convey the business activities and the financial performance of an entity.
+- The [balance sheet](#consolidated-statement-of-financial-position) provides an overview of assets, liabilities, and shareholders' equity as a snapshot in time.
+- The income statement primarily focuses on a company’s revenues and expenses during a particular period. Once expenses are subtracted from revenues, the statement produces a company's profit figure called net income.
+- The cash flow statement (CFS) measures how well a company generates cash to pay its debt obligations, fund its operating expenses, and fund investments.
+- The statement of changes in equity records how profits are retained within a company for future growth or distributed to external parties.
+
 ## Consolidated Statement of Financial Position
 
 > XYZ Inc.<br/>
