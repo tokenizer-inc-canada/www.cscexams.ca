@@ -9,8 +9,8 @@ title: "Sample Financial Statements"
 
 ## Consolidated Statement of Financial Position
 
-> XYZ Inc.
-> Consolidated Statement of Financial Position
+> XYZ Inc.<br/>
+> Consolidated Statement of Financial Position<br/>
 > Reporting period ending December 31, 2023
 
 |    | ASSETS                         |                                          |
@@ -46,8 +46,8 @@ title: "Sample Financial Statements"
 
 ### Consolidated Statement of Comprehensive Income
 
-> XYZ Inc.
-> Consolidated Statement of Comprehensive Income
+> XYZ Inc.<br/>
+> Consolidated Statement of Comprehensive Income<br/>
 > Reporting period ending December 31, 2023
 
 
@@ -69,8 +69,8 @@ title: "Sample Financial Statements"
 
 ### Consolidated Statement of Changes in Equity
 
-> XYZ Inc.
-> Consolidated Statement of Changes in Equity
+> XYZ Inc.<br/>
+> Consolidated Statement of Changes in Equity<br/>
 > Reporting period ending December 31, 2023
 
 
@@ -87,8 +87,8 @@ Enjoy!
 
 ### Consolidated Statement of Cash Flows
 
-> XYZ Inc.
-> Consolidated Statement of Cash Flows
+> XYZ Inc.<br/>
+> Consolidated Statement of Cash Flows<br/>
 > Reporting period ending December 31, 2023
 
 
