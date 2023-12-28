@@ -238,21 +238,113 @@ weighted-average method
 
 
 
-|    | ASSETS                         |                                         |
+|    | ASSETS                         |                                          |
+|---:|:-------------------------------|-----------------------------------------:|
+|  1 | Property, plant, and equipment |                               43,043,000 |
+|  2 | Goodwill                       |                                1,050,000 |
+|  3 | Investments in associates      |                                6,419,000 |
+|  4 | TOTAL NON-CURRENT ASSETS       |                               50,512,000 |
+|  5 | Inventories                    |  <span class="single">$63,245,000</span> |
+|  6 | Prepaid expenses               |                                  413,000 |
+|  7 | Trade receivables              |                                6,825,000 |
+|  8 | Cash and cash equivalents      |                               15,183,000 |
+|  9 | TOTAL CURRENT ASSETS           |  <span class="single">$85,666,000</span> |
+| 10 | TOTAL ASSETS                   | <span class="double">$136,178,000</span> |
+
+
+|    | EQUITY AND LIABILITIES            |                                        |
+|---:|:----------------------------------|---------------------------------------:|
+| 11 | Share capital                     |                             16,198,000 |
+| 12 | Retained earnings                 |                             75,845,000 |
+|    |                                   | <span class="single">92,043,000</span> |
+| 13 | Non-controlling interest          |                              1,099,000 |
+| 14 | TOTAL EQUITY                      | <span class="single">93,142,000</span> |
+| 15 | Long-term debt                    |                                        |
+| 16 | Deferred tax liabilities          |                                        |
+| 17 | TOTAL NON-CURRENT LIABILITIES     |                                        |
+| 18 | Current portion of long-term debt |                                        |
+| 19 | Taxes payable                     |                                        |
+| 20 | Trade payables                    |                                        |
+| 21 | Short-term borrowings             |                                        |
+| 22 | TOTAL CURRENT LIABILITIES         |                                        |
+| 23 | TOTAL EQUITY AND LIABILITIES      |                                        |
+
+|    | EQUITY AND LIABILITIES                         |                                         |
 |---:|:-------------------------------|----------------------------------------:|
-|  1 | Property, plant, and equipment |                               6,249,000 |
-|  2 | Goodwill                       |                                 350,000 |
-|  3 | Investments in associates      |                                 947,000 |
-|  4 | TOTAL NON-CURRENT ASSETS       |                               7,216,000 |
-|  5 | Inventories                    |  <span class="single">$9,095,000</span> |
-|  6 | Prepaid expenses               |                                  29,000 |
-|  6 | Prepaid expenses               |                                  29,000 |
-|  6 | Prepaid expenses               |                                  29,000 |
-|  7 | Trade receivables              |                                 985,000 |
-|  8 | Cash and cash equivalents      |                               2,169,000 |
-|  9 | TOTAL CURRENT ASSETS           | <span class="single">$14,238,000</span> |
-| 10 | TOTAL ASSETS                   | <span class="double">$18,454,000</span> |
-|  6 | Prepaid expenses               |                                  29,000 |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+
+
+
+|    | EQUITY AND LIABILITIES                         |                                         |
+|---:|:-------------------------------|----------------------------------------:|
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+
+
+|    | EQUITY AND LIABILITIES                         |                                         |
+|---:|:-------------------------------|----------------------------------------:|
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+
+
+|    | EQUITY AND LIABILITIES                         |                                         |
+|---:|:-------------------------------|----------------------------------------:|
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+|    |  |                             |
+
 
 
 
