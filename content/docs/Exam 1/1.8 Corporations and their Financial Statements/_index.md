@@ -233,10 +233,12 @@ weighted-average method
 
 ## Summary
 
-## Examples
-### Sample Financial Statements
 
+## Sample Financial Statements
 
+### Consolidated Statement of Financial Position
+
+**XYZ Inc., Consolidated Statement of Financial Position, December 31, 2023**
 
 |    | ASSETS                         |                                          |
 |---:|:-------------------------------|-----------------------------------------:|
@@ -252,40 +254,44 @@ weighted-average method
 | 10 | TOTAL ASSETS                   | <span class="double">$136,178,000</span> |
 
 
-|    | EQUITY AND LIABILITIES            |                                        |
-|---:|:----------------------------------|---------------------------------------:|
-| 11 | Share capital                     |                             16,198,000 |
-| 12 | Retained earnings                 |                             75,845,000 |
-|    |                                   | <span class="single">92,043,000</span> |
-| 13 | Non-controlling interest          |                              1,099,000 |
-| 14 | TOTAL EQUITY                      | <span class="single">93,142,000</span> |
-| 15 | Long-term debt                    |                                        |
-| 16 | Deferred tax liabilities          |                                        |
-| 17 | TOTAL NON-CURRENT LIABILITIES     |                                        |
-| 18 | Current portion of long-term debt |                                        |
-| 19 | Taxes payable                     |                                        |
-| 20 | Trade payables                    |                                        |
-| 21 | Short-term borrowings             |                                        |
-| 22 | TOTAL CURRENT LIABILITIES         |                                        |
-| 23 | TOTAL EQUITY AND LIABILITIES      |                                        |
 
-|    | EQUITY AND LIABILITIES                         |                                         |
-|---:|:-------------------------------|----------------------------------------:|
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
+|    | EQUITY AND LIABILITIES            |                                         |
+|---:|:----------------------------------|----------------------------------------:|
+| 11 | Share capital                     |                              16,198,000 |
+| 12 | Retained earnings                 |                              75,845,000 |
+|    |                                   |  <span class="single">92,043,000</span> |
+| 13 | Non-controlling interest          |                               1,099,000 |
+| 14 | TOTAL EQUITY                      |  <span class="single">93,142,000</span> |
+| 15 | Long-term debt                    |                               9,450,000 |
+| 16 | Deferred tax liabilities          |                               3,395,000 |
+| 17 | TOTAL NON-CURRENT LIABILITIES     |  <span class="single">12,845,000</span> |
+| 18 | Current portion of long-term debt |                                 840,000 |
+| 19 | Taxes payable                     |                               2,786,000 |
+| 20 | Trade payables                    |                              15,155,000 |
+| 21 | Short-term borrowings             |                              11,410,000 |
+| 22 | TOTAL CURRENT LIABILITIES         |  <span class="single">30,191,000</span> |
+| 23 | TOTAL EQUITY AND LIABILITIES      | <span class="double">136,178,000</span> |
+
+
+### Consolidated Statement of Comprehensive Income
+
+**XYZ Inc., Consolidated Statement of Comprehensive Income, December 31, 2023**
+
+|    | OPERATING SECTION                           |                                         |
+|---:|:--------------------------------------------|----------------------------------------:|
+| 24 | Revenue                                     |                             306,000,000 |
+| 25 | Cost of sales                               |                           (197,750,000) |
+| 26 | Gross Profit                                | <span class="single">108,850,000</span> |
+| 27 | Other income                                |                                 910,000 |
+| 28 | Distribution costs                          |                            (55,893,600) |
+| 29 | Administration expenses                     |                            (32,604,600) |
+| 30 | Other expenses                              |                             (4,657,800) |
+| 31 | Finance costs                               |                             (2,023,000) |
+| 32 | Share of profit of associates               |                                  35,000 |
+| 33 | Income tax expense                          |                             (6,160,000) |
+| 34 | Profit                                      |   <span class="single">8,456,000</span> |
+|    | Other comprehensive income                  |                                       0 |
+| 35 | Total comprehensive income                  |  <span class="double">8,456,000</span>  |
 
 
 
