@@ -293,25 +293,20 @@ weighted-average method
 |    | Other comprehensive income                  |                                       0 |
 | 35 | Total comprehensive income                  |  <span class="double">8,456,000</span>  |
 
+### Consolidated Statement of Changes in Equity
+
+**XYZ Inc., Consolidated Statement of Changes in Equity, December 31, 2023**
 
 
-|    | EQUITY AND LIABILITIES                         |                                         |
-|---:|:-------------------------------|----------------------------------------:|
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
-|    |  |                             |
+|                              | Share Capital | Retained Earnings |       Total |  Non-controlling Interests | Total Equity |
+|-----------------------------:|--------------:|------------------:|------------:|---------------------------:|-------------:|
+|   Balance at January 1, 2023 |    10,948,000 |        70,185,000 |  81,133,500 |                  1,015,000 |   82,148,500 |
+|   Changes in equity for 2023 |               |                   |             |                            |              |
+|       Issue of share capital |     5,250,000 |                   |   5,250,000 |                            |    5,250,000 |
+|                    Dividends |               |       (2,712,500) | (2,712,500) |                            |  (2,712,500) |
+|   Total comprehensive income |               |         8,372,000 |   8,372,000 |                     84,000 |    8,456,000 |
+| Balance at December 31, 20XX |    16,198,000 |        75,845,000 |  92,043,000 |                  1,099,000 |   93,142,000 |
+
 
 
 |    | EQUITY AND LIABILITIES                         |                                         |
