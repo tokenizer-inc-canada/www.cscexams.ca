@@ -18,7 +18,9 @@ title: "Sample Financial Statements"
 - The cash flow statement (CFS) measures how well a company generates cash to pay its debt obligations, fund its operating expenses, and fund investments.
 - The statement of changes in equity records how profits are retained within a company for future growth or distributed to external parties.
 
-## Consolidated Statement of Financial Position
+## The Balance Sheet
+
+### Consolidated Statement of Financial Position
 
 > XYZ Inc.<br/>
 > Consolidated Statement of Financial Position<br/>
@@ -54,6 +56,7 @@ title: "Sample Financial Statements"
 | 22 | TOTAL CURRENT LIABILITIES         |  <span class="single">30,191,000</span> |
 | 23 | TOTAL EQUITY AND LIABILITIES      | <span class="double">136,178,000</span> |
 
+## The Income Statement
 
 ### Consolidated Statement of Comprehensive Income
 
@@ -78,6 +81,8 @@ title: "Sample Financial Statements"
 |    | Other comprehensive income                  |                                       0 |
 | 35 | Total comprehensive income                  |  <span class="double">8,456,000</span>  |
 
+## The Statement of Changes in Equity
+
 ### Consolidated Statement of Changes in Equity
 
 > XYZ Inc.<br/>
@@ -95,6 +100,8 @@ title: "Sample Financial Statements"
 | Balance on December 31, 2023 |    16,198,000 |        75,845,000 |  92,043,000 |                 1,099,000 | <span class="double">93,142,000</span> |
 
 Enjoy!
+
+## The Cash Flow Statement (CFS)
 
 ### Consolidated Statement of Cash Flows
 
