@@ -64,6 +64,9 @@ equity
 first-in-first-out (FIFO)
 : Inventory items acquired earliest are sold first.
 
+fixed assets
+: Equipment, machinery, buildings, and vehicles are all types of PP&E assets. (PP&E) are also called fixed or tangible assets, meaning they are physical items that a company cannot easily liquidate. Purchases of PP&E are a signal that management has faith in the long-term outlook and profitability of its company.
+
 goodwill
 : Generally understood to represent the value of a well-respected business – its name, customer relations, employee relations, among others. Considered an intangible asset on the statement of financial position.
 
@@ -113,6 +116,9 @@ non-current liabilities
 
 partnership
 : A form of business organization that involves two or more people contributing to the business and legislated under the federal Partnership Act.
+
+PP&E — Property, Plant, and Equipment (see also "fixed assets")
+: Equipment, machinery, buildings, and vehicles are all types of PP&E assets. (PP&E) are also called fixed or tangible assets, meaning they are physical items that a company cannot easily liquidate. Purchases of PP&E are a signal that management has faith in the long-term outlook and profitability of its company.
 
 prepaid expenses
 : Payments made by the company for services to be received in the near future. For example, rents, insurance premiums and taxes are sometimes paid in advance. A **statement of financial position** item.
@@ -222,7 +228,10 @@ weighted-average method
 ### Statutory Rights of Investors
 #### Right of Withdrawal
 #### Right of Rescission
+
 #### Right of Action for Damages
+
+The right of action for damages as granted by most securities legislation provides that an issuer and its directors, and anyone who signs a prospectus, may be liable for damages if the prospectus contains a misrepresentation.
 
 ## Takeover Bids and Insider Trading
 ### Takeover Bids
